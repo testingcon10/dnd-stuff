@@ -1,86 +1,88 @@
 # Player Setup Guide
 
-Welcome to the Tenelis vault! Follow these steps to get everything set up so you can access session recaps, loot tables, maps, and all the campaign content — and push your own character notes back to the group.
+Get the Tenelis vault on your computer in 4 steps. Takes about 10 minutes.
 
 ---
 
-## Step 1: Install Git
+## Step 1: Install two apps
 
-Download and install **Git for Windows** from [git-scm.com](https://git-scm.com/download/win).
+Install both of these (just click **Next** through both installers, don't change any settings):
 
-During installation, just **click "Next" through every screen** — the defaults are fine.
+- **Git** — [Click here to download](https://git-scm.com/download/win)
+- **Obsidian** — [Click here to download](https://obsidian.md)
 
-After installing, open a terminal (search for **"Git Bash"** or **"Terminal"** in the Start menu) and run these two commands with **your** name and email so Git knows who you are:
+## Step 2: Download the vault
+
+1. Open the **Start menu**, type **Git Bash**, and open it (a black terminal window appears)
+2. Copy and paste this **entire block** into the window, then press **Enter**:
+
+```
+cd ~/Documents && git clone https://github.com/testingcon10/dnd-stuff.git
+```
+
+3. A GitHub sign-in window will pop up — **sign in with your GitHub account**
+4. Wait for it to finish (you'll see the blinking cursor return)
+5. Close the window
+
+Your vault is now in your **Documents** folder inside a folder called **dnd-stuff**.
+
+## Step 3: Open the vault in Obsidian
+
+1. Open **Obsidian**
+2. Click **Open folder as vault**
+3. Go to **Documents → dnd-stuff → Tenelis** and select that folder
+4. A popup asks if you trust this vault — click **Trust and enable plugins**
+
+## Step 4: Set your name in Git
+
+This only needs to be done once so Git knows who made changes.
+
+1. Open **Git Bash** again from the Start menu
+2. Copy and paste these two lines **one at a time**, replacing the name and email with your own, and press **Enter** after each:
 
 ```
 git config --global user.name "Your Name"
+```
+
+```
 git config --global user.email "your.email@example.com"
 ```
 
-## Step 2: Clone the Vault
+3. Close the window
 
-In the same terminal, navigate to where you want the vault to live (e.g. your Documents folder), then clone it:
-
-```
-cd ~/Documents
-git clone https://github.com/testingcon10/dnd-stuff.git
-```
-
-This creates a `dnd-stuff` folder containing the vault.
-
-## Step 3: Open in Obsidian
-
-1. Open **Obsidian** (download from [obsidian.md](https://obsidian.md) if you don't have it)
-2. Click **"Open folder as vault"**
-3. Navigate into the cloned `dnd-stuff` folder and select the **`Tenelis`** subfolder
-4. When prompted to **"Trust this vault"**, click **Trust** — this enables the community plugins (maps, Git sync, etc.)
-
-## Step 4: You're Done!
-
-The vault is now set up. Every time you open it, the **Obsidian Git** plugin automatically pulls the latest content from the DM.
+**You're all set!** Every time you open the vault, it automatically downloads the latest content.
 
 ---
 
-## Pushing Your Changes
+## How to save your changes
 
-When you've edited your character sheet, added notes, or made other changes you want to share:
+After editing your character sheet or adding notes:
 
-1. Press `Ctrl+P` to open the **Command Palette**
-2. Type **"commit"**
-3. Select **"Obsidian Git: Commit all changes and push"**
+1. Press **Ctrl+P** (opens a search bar at the top of Obsidian)
+2. Type **commit**
+3. Click **Obsidian Git: Commit all changes and push**
 
-That's it — your changes are now uploaded for everyone to see.
+Your changes are now uploaded for everyone.
 
 ---
 
-## Troubleshooting
+## Something not working?
 
-### "Please tell me who you are" / "please set user.name"
-You skipped the `git config` step. Open a terminal and run:
+**"Please tell me who you are"**
+You need to do Step 4 above.
+
+**GitHub sign-in window won't appear / "Authentication failed"**
+Open Git Bash and paste this, then press Enter:
 ```
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+git clone https://github.com/testingcon10/dnd-stuff.git ~/Desktop/test-clone
 ```
+A sign-in window should appear. Sign in, then delete the **test-clone** folder from your Desktop.
 
-### Merge conflict (file shows `<<<<<<<` markers)
-This happens when two people edit the same lines. Don't panic:
-1. Open the file in Obsidian
-2. You'll see sections marked with `<<<<<<<`, `=======`, and `>>>>>>>`
-3. Keep the text you want, delete the markers and the text you don't want
-4. Save the file
-5. Use `Ctrl+P` → **"Obsidian Git: Commit all changes and push"** to finish resolving
+**Weird symbols in a file like `<<<<<<<` and `>>>>>>>`**
+Two people edited the same lines. Open the file, keep the text you want, delete everything that looks like `<<<<<<<`, `=======`, and `>>>>>>>`. Then save and push your changes (Ctrl+P → commit).
 
-### "Authentication failed"
-GitHub needs you to log in. When prompted, sign in with your GitHub account. If you're using HTTPS, you may need to generate a **Personal Access Token**:
-1. Go to [github.com/settings/tokens](https://github.com/settings/tokens)
-2. Click **"Generate new token (classic)"**
-3. Give it a name, select the **repo** scope, and click **Generate**
-4. Copy the token and use it as your password when Git asks
+**Plugins aren't working**
+Open Obsidian **Settings** (gear icon at bottom left) → **Community plugins** → turn **off** "Restricted mode" → make sure the plugins are toggled on.
 
-### Plugin not loading / "Restricted mode"
-1. Go to **Settings** (gear icon) → **Community plugins**
-2. Turn off **"Restricted mode"**
-3. Make sure **Obsidian Git** is listed and toggled **on**
-
-### Nothing happens when I try to push
-Make sure you have an internet connection and that you've been added as a collaborator on the GitHub repository. Ask the DM to add your GitHub username.
+**"I pushed and now nothing works" / something went really wrong**
+Don't panic — everything is saved on GitHub. Message the DM and we'll sort it out.
