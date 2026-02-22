@@ -16,7 +16,7 @@ Kobolds are small, reptilian creatures distantly related to dragons, known for t
 - **Darkvision:** 60 ft.
 - **Draconic Cry:** As a bonus action, you let out a cry at enemies within 10 feet of you, giving your allies advantage on attack rolls against those enemies until the start of your next turn (proficiency bonus uses per long rest)
 - **Kobold Legacy:** Choose one of the following:
-  - *Craftiness:* Proficiency in one of: Arcana, Investigation, Medicine, Sleight of Hand, or Survival
+  - *Craftiness:* Proficiency in one of: [[Arcana]], [[Investigation]], [[Medicine]], [[Sleight of Hand]], or [[Survival]]
   - *Defiance:* Advantage on saving throws to avoid or end the frightened condition
   - *Draconic Sorcery:* You know one cantrip from the sorcerer spell list (Intelligence, Wisdom, or Charisma-based)
 - **Languages:** Common, Draconic

@@ -7,7 +7,7 @@ source: "TCoE"
 ---
 # Amulet of the Devout, +1
 
-This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear this holy symbol, you gain a +1 bonus to spell attack rolls and the saving throw DCs of your spells. While holding the amulet, you can use it as a spellcasting focus and you can use your Channel Divinity feature one additional time between rests.
+This amulet bears the symbol of a deity inlaid with precious stones or metals. While you wear this [[Holy Symbol|holy symbol]], you gain a +1 bonus to spell attack rolls and the saving throw DCs of your spells. While holding the amulet, you can use it as a spellcasting focus and you can use your Channel Divinity feature one additional time between rests.
 
 | Property | Value |
 |----------|-------|

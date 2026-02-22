@@ -14,7 +14,7 @@ Half-orcs' grayish skin, jutting jaws, prominent teeth, and towering builds make
 - **Size:** Medium
 - **Speed:** 30 ft.
 - **Darkvision:** 60 ft.
-- **Menacing:** Proficiency in Intimidation
+- **Menacing:** Proficiency in [[Intimidation]]
 - **Relentless Endurance:** Drop to 1 HP instead of 0, once per long rest
 - **Savage Attacks:** Extra damage die on melee critical hits
 

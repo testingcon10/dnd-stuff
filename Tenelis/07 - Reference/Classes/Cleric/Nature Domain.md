@@ -21,7 +21,7 @@ Gods of nature are as varied as the natural world itself. Clerics of these gods 
 | 9th | [[Insect Plague]], [[Tree Stride]] |
 
 ## Key Features
-- **Acolyte of Nature (1st):** You learn one druid cantrip of your choice, and you gain proficiency in one of the following skills: Animal Handling, Nature, or Survival.
+- **Acolyte of Nature (1st):** You learn one druid cantrip of your choice, and you gain proficiency in one of the following skills: [[Animal Handling]], [[Nature]], or [[Survival]].
 - **Bonus Proficiency (1st):** You gain proficiency with heavy armor.
 - **Channel Divinity: Charm Animals and Plants (2nd):** As an action, each beast or plant creature that can see you within 30 feet must make a WIS save or be charmed by you for 1 minute or until it takes damage.
 - **Dampen Elements (6th):** When you or a creature within 30 feet takes acid, cold, fire, lightning, or thunder damage, you can use your reaction to grant resistance to that instance of the damage.

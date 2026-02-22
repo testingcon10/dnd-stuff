@@ -15,7 +15,7 @@ Leonin are proud, lion-like humanoids who dwell in the golden plains and savanna
 - **Speed:** 35 ft.
 - **Darkvision:** 60 ft.
 - **Claws:** Unarmed strikes deal 1d4 slashing damage
-- **Hunter's Instincts:** Proficiency in one of: Athletics, Intimidation, Perception, or Survival
+- **Hunter's Instincts:** Proficiency in one of: [[Athletics]], [[Intimidation]], [[Perception]], or [[Survival]]
 - **Daunting Roar:** As a bonus action, creatures of your choice within 10 feet must succeed on a Wisdom saving throw (DC 8 + proficiency bonus + Constitution modifier) or become frightened of you until the end of your next turn (once per short or long rest)
 - **Languages:** Common, Leonin
 

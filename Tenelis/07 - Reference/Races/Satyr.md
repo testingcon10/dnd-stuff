@@ -17,7 +17,7 @@ Satyrs are merry fey creatures who revel in music, wine, and the pleasures of li
 - **Ram:** Unarmed strikes deal 1d4 bludgeoning damage
 - **Magic Resistance:** Advantage on saving throws against spells and other magical effects
 - **Mirthful Leaps:** Whenever you make a long jump or high jump, you can roll a d8 and add the result to the distance in feet
-- **Reveler:** Proficiency in Performance and Persuasion
+- **Reveler:** Proficiency in [[Performance]] and [[Persuasion]]
 - **Languages:** Common, Sylvan
 
 ---

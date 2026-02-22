@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Gloves of Swimming and Climbing
 
-While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength (Athletics) checks made to climb or swim.
+While wearing these gloves, climbing and swimming don't cost you extra movement, and you gain a +5 bonus to Strength ([[Athletics]]) checks made to climb or swim.
 
 | Property | Value |
 |----------|-------|

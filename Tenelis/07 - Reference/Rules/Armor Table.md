@@ -6,7 +6,7 @@ source: "2024"
 
 ## Light Armor (requires no Strength)
 
-| Armor | AC | Stealth | Weight | Cost |
+| Armor | AC | [[Stealth]] | Weight | Cost |
 |-------|----|---------|--------|------|
 | [[Padded Armor\|Padded]] | 11 + Dex modifier | Disadvantage | 8 lb. | 5 GP |
 | [[Leather Armor\|Leather]] | 11 + Dex modifier | — | 10 lb. | 10 GP |
@@ -14,7 +14,7 @@ source: "2024"
 
 ## Medium Armor (add Dex modifier, max +2)
 
-| Armor | AC | Stealth | Weight | Cost |
+| Armor | AC | [[Stealth]] | Weight | Cost |
 |-------|----|---------|--------|------|
 | [[Hide Armor\|Hide]] | 12 + Dex modifier (max 2) | — | 12 lb. | 10 GP |
 | [[Chain Shirt]] | 13 + Dex modifier (max 2) | — | 20 lb. | 50 GP |
@@ -24,7 +24,7 @@ source: "2024"
 
 ## Heavy Armor (Strength requirement, no Dex)
 
-| Armor | AC | Strength | Stealth | Weight | Cost |
+| Armor | AC | Strength | [[Stealth]] | Weight | Cost |
 |-------|----|----------|---------|--------|------|
 | [[Ring Mail]] | 14 | — | Disadvantage | 40 lb. | 30 GP |
 | [[Chain Mail]] | 16 | Str 13 | Disadvantage | 55 lb. | 75 GP |

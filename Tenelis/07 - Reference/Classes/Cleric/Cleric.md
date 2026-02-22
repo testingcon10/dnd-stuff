@@ -23,12 +23,12 @@ A priestly champion who wields divine magic in service of a higher power. Cleric
 - Knowledge
 - Life
 - Light
-- Nature
+- [[Nature]]
 - Tempest
 - Trickery
 - War
 - Death
-- Arcana
+- [[Arcana]]
 - Forge
 - Grave
 - Order

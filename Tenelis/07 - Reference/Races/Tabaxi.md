@@ -15,7 +15,7 @@ Tabaxi are cat-like humanoids driven by an insatiable curiosity and wanderlust, 
 - **Speed:** 30 ft., climb 20 ft.
 - **Darkvision:** 60 ft.
 - **Cat's Claws:** Unarmed strikes deal 1d6 slashing damage; you have a climbing speed of 20 ft.
-- **Cat's Talent:** Proficiency in Perception and Stealth
+- **Cat's Talent:** Proficiency in [[Perception]] and [[Stealth]]
 - **Feline Agility:** When you move on your turn, you can double your speed until the end of that turn; once used, you can't do so again until you spend a turn not moving
 - **Languages:** Common and one other language of your choice
 

@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Splint
 
-AC 17. Cost: 200 gp. Weight: 60 lb. Requires Strength 15. Disadvantage on Stealth checks.
+AC 17. Cost: 200 gp. Weight: 60 lb. Requires Strength 15. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

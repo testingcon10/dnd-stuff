@@ -12,9 +12,9 @@ You have a history of breaking the law. You might have been a burglar, a bandit,
 |----------|-------|
 | **Ability Scores** | Dexterity, Constitution, Intelligence |
 | **Origin Feat** | [[Alert]] |
-| **Skill Proficiencies** | Sleight of Hand, Stealth |
-| **Tool Proficiency** | Thieves' Tools |
-| **Equipment** | Thieves' Tools, Crowbar, Pouch, Traveler's Clothes, 16 GP |
+| **Skill Proficiencies** | [[Sleight of Hand]], [[Stealth]] |
+| **Tool Proficiency** | [[Thieves' Tools]] |
+| **Equipment** | [[Thieves' Tools]], Crowbar, [[Pouch]], [[Traveler's Clothes]], 16 GP |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/backgrounds.html#criminal_2024)

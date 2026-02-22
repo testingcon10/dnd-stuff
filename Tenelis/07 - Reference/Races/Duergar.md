@@ -17,7 +17,7 @@ Duergar, or gray dwarves, are grim and bitter denizens of the Underdark who were
 - **Dwarven Resilience:** Advantage on saving throws against poison; resistance to poison damage
 - **Duergar Resilience:** Advantage on saving throws against illusions and against being charmed or paralyzed
 - **Duergar Magic:** Cast [[Enlarge-Reduce|Enlarge/Reduce]] (enlarge only) at [[3rd Level|3rd level]] and [[Invisibility]] at [[5th Level|5th level]] (once per long rest each, no components required)
-- **Sunlight Sensitivity:** Disadvantage on attack rolls and Perception checks in direct sunlight
+- **Sunlight Sensitivity:** Disadvantage on attack rolls and [[Perception]] checks in direct sunlight
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#duergar_mtof)

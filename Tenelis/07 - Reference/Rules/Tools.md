@@ -12,9 +12,9 @@ Proficiency with a tool lets you add your Proficiency Bonus to any ability check
 |------|------|--------|
 | Alchemist's Supplies | 50 GP | 8 lb. |
 | Brewer's Supplies | 20 GP | 9 lb. |
-| Calligrapher's Supplies | 10 GP | 5 lb. |
-| Carpenter's Tools | 8 GP | 6 lb. |
-| Cartographer's Tools | 15 GP | 6 lb. |
+| [[Calligrapher's Supplies]] | 10 GP | 5 lb. |
+| [[Carpenter's Tools]] | 8 GP | 6 lb. |
+| [[Cartographer's Tools]] | 15 GP | 6 lb. |
 | Cobbler's Tools | 5 GP | 5 lb. |
 | Cook's Utensils | 1 GP | 8 lb. |
 | Glassblower's Tools | 30 GP | 5 lb. |
@@ -56,12 +56,12 @@ Proficiency with a tool lets you add your Proficiency Bonus to any ability check
 
 | Tool | Cost | Weight |
 |------|------|--------|
-| Disguise Kit | 25 GP | 3 lb. |
-| Forgery Kit | 15 GP | 5 lb. |
-| Herbalism Kit | 5 GP | 3 lb. |
-| Navigator's Tools | 25 GP | 2 lb. |
+| [[Disguise Kit]] | 25 GP | 3 lb. |
+| [[Forgery Kit]] | 15 GP | 5 lb. |
+| [[Herbalism Kit]] | 5 GP | 3 lb. |
+| [[Navigator's Tools]] | 25 GP | 2 lb. |
 | [[Poisoner]]'s Kit | 50 GP | 2 lb. |
-| Thieves' Tools | 25 GP | 1 lb. |
+| [[Thieves' Tools]] | 25 GP | 1 lb. |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/items.html)

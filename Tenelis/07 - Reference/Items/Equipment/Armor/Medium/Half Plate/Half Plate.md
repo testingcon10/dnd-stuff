@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Half Plate
 
-AC 15 + Dex modifier (max 2). Cost: 750 gp. Weight: 40 lb. Disadvantage on Stealth checks.
+AC 15 + Dex modifier (max 2). Cost: 750 gp. Weight: 40 lb. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

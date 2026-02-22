@@ -17,7 +17,7 @@ Sea elves are aquatic elves who long ago adapted to life beneath the waves, buil
 - **Child of the Sea:** You can breathe air and water, and you have a swimming speed of 30 ft.
 - **Fey Ancestry:** Advantage on saving throws against being charmed, and magic can't put you to sleep
 - **Friend of the Sea:** You can communicate simple ideas to any beast that has a swimming speed, and they can understand you; this does not grant you special influence over them
-- **Keen Senses:** Proficiency in Perception
+- **Keen Senses:** Proficiency in [[Perception]]
 - **Trance:** You don't need to sleep; instead, you meditate deeply for 4 hours to gain the benefits of a long rest
 - **Languages:** Common, Elvish, and one other language of your choice
 

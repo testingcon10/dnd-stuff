@@ -21,7 +21,7 @@ Gods of trickery are mischief-makers and instigators who stand as a constant cha
 | 9th | [[Dominate Person]], [[Modify Memory]] |
 
 ## Key Features
-- **Blessing of the Trickster (1st):** As an action, you can touch a willing creature (other than yourself) and give it advantage on Dexterity (Stealth) checks. This blessing lasts for 1 hour or until you use this feature again.
+- **Blessing of the Trickster (1st):** As an action, you can touch a willing creature (other than yourself) and give it advantage on Dexterity ([[Stealth]]) checks. This blessing lasts for 1 hour or until you use this feature again.
 - **Channel Divinity: Invoke Duplicity (2nd):** As an action, you create an illusory duplicate of yourself within 30 feet that lasts for 1 minute. You can move it up to 30 feet as a bonus action. You have advantage on attack rolls against creatures within 5 feet of the duplicate.
 - **Channel Divinity: Cloak of Shadows (6th):** As an action, you become invisible until the end of your next turn, or until you attack or cast a spell.
 - **Divine Strike (8th):** Once on each of your turns when you hit a creature with a weapon attack, you can deal an extra 1d8 poison damage. This increases to 2d8 at 14th level.

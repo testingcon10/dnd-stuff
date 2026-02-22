@@ -14,7 +14,7 @@ Elves are a magical people of otherworldly grace, living in places of ethereal b
 - **Size:** Medium
 - **Speed:** 30 ft.
 - **Darkvision:** 60 ft.
-- **Keen Senses:** Proficiency in Perception
+- **Keen Senses:** Proficiency in [[Perception]]
 - **Fey Ancestry:** Advantage on saves vs. charm; immune to magical sleep
 - **Trance:** 4 hours of meditation replaces 8 hours of sleep
 

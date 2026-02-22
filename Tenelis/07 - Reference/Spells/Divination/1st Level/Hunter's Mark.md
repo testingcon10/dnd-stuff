@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Hunter's Mark
 
-You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on Wisdom (Perception) and Wisdom (Survival) checks to find it. If the target drops to 0 HP, you can use a bonus action to mark a new creature.
+You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on Wisdom ([[Perception]]) and Wisdom ([[Survival]]) checks to find it. If the target drops to 0 HP, you can use a bonus action to mark a new creature.
 
 ## At Higher Levels
 At [[3rd Level|3rd level]] the duration extends to 8 hours, and at [[5th Level|5th level]] to 24 hours.

@@ -21,7 +21,7 @@ The gods of knowledge value learning and understanding above all. Some teach tha
 | 9th | [[Legend Lore]], [[Scrying]] |
 
 ## Key Features
-- **Blessings of Knowledge (1st):** You learn two languages and gain proficiency in two of the following skills: Arcana, History, Nature, or Religion. Your proficiency bonus is doubled for ability checks using either of those skills.
+- **Blessings of Knowledge (1st):** You learn two languages and gain proficiency in two of the following skills: [[Arcana]], [[History]], [[Nature]], or [[Religion]]. Your proficiency bonus is doubled for ability checks using either of those skills.
 - **Channel Divinity: Knowledge of the Ages (2nd):** As an action, you gain proficiency with one skill or tool of your choice for 10 minutes.
 - **Channel Divinity: Read Thoughts (6th):** As an action, you can read the surface thoughts of one creature within 60 feet (WIS save). On a failed save, you can also cast *suggestion* on the creature without expending a spell slot.
 - **Potent Spellcasting (8th):** You add your Wisdom modifier to the damage you deal with any cleric cantrip.

@@ -14,8 +14,8 @@ Kenku are flightless crow-like humanoids cursed to be unable to produce original
 - **Size:** Medium
 - **Speed:** 30 ft.
 - **Expert Duplication:** Advantage on checks to produce forgeries or duplicates of existing objects
-- **Kenku Training:** Proficiency in two of the following skills: Acrobatics, Deception, Stealth, or Sleight of Hand
-- **Mimicry:** You can mimic sounds and voices you have heard; a creature that hears the mimicry can tell it is an imitation with a successful Wisdom (Insight) check opposed by your Charisma (Deception) check
+- **Kenku Training:** Proficiency in two of the following skills: [[Acrobatics]], [[Deception]], [[Stealth]], or [[Sleight of Hand]]
+- **Mimicry:** You can mimic sounds and voices you have heard; a creature that hears the mimicry can tell it is an imitation with a successful Wisdom ([[Insight]]) check opposed by your Charisma ([[Deception]]) check
 - **Languages:** Common, Auran
 
 ---

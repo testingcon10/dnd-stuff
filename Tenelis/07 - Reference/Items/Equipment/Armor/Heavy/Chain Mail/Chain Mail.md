@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Chain Mail
 
-AC 16. Cost: 75 gp. Weight: 55 lb. Requires Strength 13. Disadvantage on Stealth checks.
+AC 16. Cost: 75 gp. Weight: 55 lb. Requires Strength 13. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

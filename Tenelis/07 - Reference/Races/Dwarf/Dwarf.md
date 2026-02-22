@@ -15,7 +15,7 @@ Bold and hardy, dwarves are known as skilled warriors, miners, and workers of st
 - **Speed:** 25 ft. (not reduced by heavy armor)
 - **Darkvision:** 60 ft.
 - **Dwarven Resilience:** Advantage on saves vs. poison; resistance to poison damage
-- **Stonecunning:** Double proficiency bonus on History checks related to stonework
+- **Stonecunning:** Double proficiency bonus on [[History]] checks related to stonework
 
 ## Subraces
 - **Hill Dwarf** — +1 Wisdom, +1 HP per level

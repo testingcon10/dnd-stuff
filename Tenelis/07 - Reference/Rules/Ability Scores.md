@@ -10,12 +10,12 @@ Every creature has six ability scores that describe their physical and mental ch
 
 | Ability | Description |
 |---------|-------------|
-| **Strength** | Physical power. Affects melee attacks, carrying capacity, and Athletics checks. |
-| **Dexterity** | Agility and reflexes. Affects AC, ranged attacks, initiative, and Acrobatics/Sleight of Hand/Stealth checks. |
+| **Strength** | Physical power. Affects melee attacks, carrying capacity, and [[Athletics]] checks. |
+| **Dexterity** | Agility and reflexes. Affects AC, ranged attacks, initiative, and [[Acrobatics]]/[[Sleight of Hand]]/[[Stealth]] checks. |
 | **Constitution** | Endurance and health. Affects Hit Points and Concentration saves. |
-| **Intelligence** | Reasoning and memory. Affects Arcana, History, Investigation, Nature, and Religion checks. |
-| **Wisdom** | Perception and intuition. Affects Animal Handling, Insight, Medicine, Perception, and Survival checks. |
-| **Charisma** | Force of personality. Affects Deception, Intimidation, Performance, and Persuasion checks. |
+| **Intelligence** | Reasoning and memory. Affects [[Arcana]], [[History]], [[Investigation]], [[Nature]], and [[Religion]] checks. |
+| **Wisdom** | [[Perception]] and intuition. Affects [[Animal Handling]], [[Insight]], [[Medicine]], [[Perception]], and [[Survival]] checks. |
+| **Charisma** | Force of personality. Affects [[Deception]], [[Intimidation]], [[Performance]], and [[Persuasion]] checks. |
 
 ## Ability Score Modifier Table
 

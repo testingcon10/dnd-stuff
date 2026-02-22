@@ -18,6 +18,7 @@ ENTITY_DIRS = [
     "07 - Reference/Conditions",
     "07 - Reference/Backgrounds",
     "07 - Reference/Rules",
+    "07 - Reference/Skills",
 ]
 
 # Directories that contain nested subdirectories of .md entity files

@@ -16,7 +16,7 @@ Lizardfolk are cold-blooded reptilian humanoids who view the world through a pra
 - **Bite:** Unarmed strikes deal 1d6 slashing damage
 - **Hungry Jaws:** As a bonus action, make a bite attack; on a hit, gain temporary hit points equal to your proficiency bonus (proficiency bonus uses per long rest)
 - **Natural Armor:** Your unarmored AC equals 13 + Dexterity modifier; you can use a shield and still gain this benefit
-- **Nature's Intuition:** Proficiency in two of the following: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival
+- **Nature's Intuition:** Proficiency in two of the following: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]]
 - **Languages:** Common, Draconic
 
 ---

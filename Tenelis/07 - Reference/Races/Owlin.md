@@ -15,7 +15,7 @@ Owlin are owl-like humanoids with large, expressive eyes and broad wings capable
 - **Speed:** 30 ft.
 - **Darkvision:** 120 ft.
 - **Flight:** You have a flying speed equal to your walking speed; you cannot fly while wearing medium or heavy armor
-- **Silent Feathers:** Proficiency in Stealth
+- **Silent Feathers:** Proficiency in [[Stealth]]
 - **Languages:** Common and one other language of your choice
 
 ---

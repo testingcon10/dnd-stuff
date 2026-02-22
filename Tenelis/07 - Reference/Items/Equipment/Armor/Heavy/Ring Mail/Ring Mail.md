@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Ring Mail
 
-AC 14. Cost: 30 gp. Weight: 40 lb. Disadvantage on Stealth checks.
+AC 14. Cost: 30 gp. Weight: 40 lb. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

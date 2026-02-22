@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Padded
 
-AC 11 + Dex modifier. Cost: 5 gp. Weight: 8 lb. Disadvantage on Stealth checks.
+AC 11 + Dex modifier. Cost: 5 gp. Weight: 8 lb. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

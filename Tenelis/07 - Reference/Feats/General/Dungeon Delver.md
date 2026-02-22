@@ -15,7 +15,7 @@ You gain the following benefits.
 
 **Trap Finder.** You have Advantage on saving throws made to avoid or resist traps, and you have Resistance to the damage dealt by traps.
 
-**Perceptive.** You have Advantage on Wisdom (Perception) checks made to detect the presence of secret doors.
+**Perceptive.** You have Advantage on Wisdom ([[Perception]]) checks made to detect the presence of secret doors.
 
 **Dungeon Sense.** You can use a Bonus Action to sense the presence of traps within 30 feet of yourself for the rest of the current turn. When you sense a trap in this way, you don't learn the specific nature or location of the trap.
 

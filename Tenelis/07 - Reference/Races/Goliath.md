@@ -13,7 +13,7 @@ Goliaths are massive, mountain-dwelling humanoids who live at the highest altitu
 - **Ability Score Increase:** Strength +2, Constitution +1
 - **Size:** Medium (7–8 ft. tall)
 - **Speed:** 30 ft.
-- **Natural Athlete:** Proficiency in Athletics
+- **Natural Athlete:** Proficiency in [[Athletics]]
 - **Stone's Endurance:** As a reaction, reduce damage taken by 1d12 + Constitution modifier (once per short or long rest)
 - **Powerful Build:** Count as one size larger for carrying capacity and push/drag/lift
 - **Mountain Born:** Acclimated to high altitude and naturally adapted to cold climates; resistance to cold damage

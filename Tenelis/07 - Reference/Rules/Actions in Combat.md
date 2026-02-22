@@ -28,11 +28,11 @@ You lend aid to another creature within 5 feet, giving them Advantage on the nex
 
 ## Hide
 
-You make a Dexterity (Stealth) check to become [[Invisible|hidden]] from other creatures. See the Hide action rules and the [[Invisible]] condition.
+You make a Dexterity ([[Stealth]]) check to become [[Invisible|hidden]] from other creatures. See the Hide action rules and the [[Invisible]] condition.
 
 ## Influence
 
-You make a Charisma (Deception, Intimidation, or Persuasion) check to alter a creature's attitude. The DC equals the target's Wisdom score (not modifier).
+You make a Charisma ([[Deception]], [[Intimidation]], or [[Persuasion]]) check to alter a creature's attitude. The DC equals the target's Wisdom score (not modifier).
 
 ## Magic
 
@@ -44,11 +44,11 @@ You prepare to take an action in response to a trigger you define. When the trig
 
 ## Search
 
-You make a Wisdom (Perception) or Intelligence (Investigation) check to find something hidden or discern information.
+You make a Wisdom ([[Perception]]) or Intelligence ([[Investigation]]) check to find something hidden or discern information.
 
 ## Study
 
-You make an Intelligence (Arcana, History, Investigation, Nature, or Religion) check to recall or deduce information about a creature, object, or other subject.
+You make an Intelligence ([[Arcana]], [[History]], [[Investigation]], [[Nature]], or [[Religion]]) check to recall or deduce information about a creature, object, or other subject.
 
 ## Utilize
 

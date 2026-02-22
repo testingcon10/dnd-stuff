@@ -14,7 +14,7 @@ Harengon are rabbit-folk originating from the Feywild, known for their alertness
 - **Size:** Medium or Small (your choice)
 - **Speed:** 30 ft.
 - **Hare-Trigger:** Add your proficiency bonus to initiative rolls
-- **Leporine Senses:** Proficiency in Perception
+- **Leporine Senses:** Proficiency in [[Perception]]
 - **Lucky Footwork:** When you fail a Dexterity saving throw, use a reaction to add 1d4 to the result, potentially turning it into a success
 - **Rabbit Hop:** As a bonus action, jump a distance equal to 5 times your proficiency bonus without provoking opportunity attacks (uses equal to proficiency bonus per long rest)
 

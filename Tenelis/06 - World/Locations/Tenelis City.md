@@ -38,7 +38,7 @@ The capital city of the realm, Tenelis City stands as a beacon of civilization a
 |---------|-----------|-------|
 |         |           |       |
 
-## History
+## [[History]]
 
 *The founding and history of Tenelis City...*
 

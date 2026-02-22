@@ -12,9 +12,9 @@ You were a professional trader, skilled in appraising goods and negotiating deal
 |----------|-------|
 | **Ability Scores** | Constitution, Intelligence, Charisma |
 | **Origin Feat** | [[Lucky]] |
-| **Skill Proficiencies** | Animal Handling, Persuasion |
-| **Tool Proficiency** | Navigator's Tools |
-| **Equipment** | Navigator's Tools, Pouch, Traveler's Clothes, 22 GP |
+| **Skill Proficiencies** | [[Animal Handling]], [[Persuasion]] |
+| **Tool Proficiency** | [[Navigator's Tools]] |
+| **Equipment** | [[Navigator's Tools]], [[Pouch]], [[Traveler's Clothes]], 22 GP |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/backgrounds.html#merchant_2024)

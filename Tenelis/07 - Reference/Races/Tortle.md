@@ -17,7 +17,7 @@ Tortles are turtle-like humanoids who carry their homes on their backs, wanderin
 - **Hold Breath:** You can hold your breath for up to 1 hour
 - **Natural Armor:** Your AC equals 17 (your Dexterity modifier doesn't affect this number); you gain no benefit from wearing armor, but you can use a shield and still gain its benefit
 - **Shell Defense:** As an action, you can withdraw into your shell and gain +4 to AC; while inside, you are prone, your speed is 0 and can't increase, you have disadvantage on Dexterity saving throws, and you can't take reactions; you can emerge as a bonus action
-- **Nature's Intuition:** Proficiency in one of: Animal Handling, Medicine, Nature, Perception, Stealth, or Survival
+- **Nature's Intuition:** Proficiency in one of: [[Animal Handling]], [[Medicine]], [[Nature]], [[Perception]], [[Stealth]], or [[Survival]]
 - **Languages:** Common, Aquan
 
 ---

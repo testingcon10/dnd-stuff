@@ -16,7 +16,7 @@ Bugbears are the largest of the goblinoid races, combining brute strength with a
 - **Darkvision:** 60 ft.
 - **Long-Limbed:** Melee attack reach increased by 5 ft. on your turn
 - **Powerful Build:** Count as one size larger for carrying capacity and push/drag/lift
-- **Sneaky:** Proficiency in Stealth
+- **Sneaky:** Proficiency in [[Stealth]]
 - **Surprise Attack:** Deal an extra 2d6 damage to a creature you hit that hasn't taken a turn yet in combat
 
 ---

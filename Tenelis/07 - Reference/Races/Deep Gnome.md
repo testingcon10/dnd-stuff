@@ -15,7 +15,7 @@ Deep gnomes, also known as svirfneblin, dwell in the Underdark far beneath the s
 - **Speed:** 25 ft.
 - **Superior Darkvision:** 120 ft.
 - **Gnome Cunning:** Advantage on Intelligence, Wisdom, and Charisma saving throws against magic
-- **Stone Camouflage:** Advantage on Dexterity (Stealth) checks to hide in rocky terrain
+- **Stone Camouflage:** Advantage on Dexterity ([[Stealth]]) checks to hide in rocky terrain
 - **Languages:** Common, Gnomish, Undercommon
 
 ---

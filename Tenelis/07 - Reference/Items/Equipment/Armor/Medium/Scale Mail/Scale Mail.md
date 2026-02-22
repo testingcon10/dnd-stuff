@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Scale Mail
 
-AC 14 + Dex modifier (max 2). Cost: 50 gp. Weight: 45 lb. Disadvantage on Stealth checks.
+AC 14 + Dex modifier (max 2). Cost: 50 gp. Weight: 45 lb. Disadvantage on [[Stealth]] checks.
 
 | Property | Value |
 |----------|-------|

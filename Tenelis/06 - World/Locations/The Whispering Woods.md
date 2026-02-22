@@ -23,7 +23,7 @@ A dense, ancient forest west of Tenelis City. Travelers report hearing faint whi
 ## Notable Features
 
 - Ancient standing stones at the forest's heart
-- A hidden druid grove
+- A hidden [[Druid Grove|druid grove]]
 - Unusually thick canopy that blocks most sunlight
 
 ## Key NPCs
@@ -38,7 +38,7 @@ A dense, ancient forest west of Tenelis City. Travelers report hearing faint whi
 |---------|-----------|-------|
 |         |           |       |
 
-## History
+## [[History]]
 
 *Legends say the forest predates all civilization in the region...*
 

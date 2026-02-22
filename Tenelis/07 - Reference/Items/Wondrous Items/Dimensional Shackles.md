@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Dimensional Shackles
 
-You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit any Small to Large creature and prevent the target from using any method of extradimensional movement, including teleportation or travel to a different plane. A creature restrained by the shackles can make a DC 30 Strength (Athletics) check to break free.
+You can use an action to place these shackles on an incapacitated creature. The shackles adjust to fit any Small to Large creature and prevent the target from using any method of extradimensional movement, including teleportation or travel to a different plane. A creature restrained by the shackles can make a DC 30 Strength ([[Athletics]]) check to break free.
 
 | Property | Value |
 |----------|-------|

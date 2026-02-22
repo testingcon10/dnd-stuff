@@ -14,7 +14,7 @@ Changelings are subtle shapeshifters capable of disguising their appearance and 
 - **Size:** Medium
 - **Speed:** 30 ft.
 - **Shapechanger:** As an action, change your appearance and voice to look like a humanoid you have seen (reverts on death); your statistics remain the same
-- **Changeling Instincts:** Proficiency in two of: Deception, Insight, Intimidation, or Persuasion
+- **Changeling Instincts:** Proficiency in two of: [[Deception]], [[Insight]], [[Intimidation]], or [[Persuasion]]
 - **Languages:** Common and two others of your choice
 
 ---

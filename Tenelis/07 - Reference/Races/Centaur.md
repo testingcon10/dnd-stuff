@@ -17,7 +17,7 @@ Centaurs have the upper body of a humanoid and the lower body of a horse. They a
 - **Charge:** If you move 30+ ft. straight toward a target and hit with a melee weapon attack on the same turn, deal an extra 1d4 damage
 - **Hooves:** Unarmed strikes deal 1d4 + Strength modifier bludgeoning damage
 - **Equine Build:** Count as one size larger for carrying capacity; climbing costs extra movement; can serve as a mount for Medium or smaller creatures
-- **Survivor:** Proficiency in one of: Animal Handling, Medicine, Nature, or Survival
+- **Survivor:** Proficiency in one of: [[Animal Handling]], [[Medicine]], [[Nature]], or [[Survival]]
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#centaur_ggr)

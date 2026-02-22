@@ -16,7 +16,7 @@ Shadar-kai are shadow-touched elves sworn to the Raven Queen, dwelling in the bl
 - **Darkvision:** 60 ft.
 - **Blessing of the Raven Queen:** As a bonus action, you can teleport up to 30 feet to an unoccupied space you can see; until the start of your next turn, you have resistance to all damage (once per long rest)
 - **Fey Ancestry:** Advantage on saving throws against being charmed, and magic can't put you to sleep
-- **Keen Senses:** Proficiency in Perception
+- **Keen Senses:** Proficiency in [[Perception]]
 - **Necrotic Resistance:** Resistance to necrotic damage
 - **Trance:** You don't need to sleep; instead, you meditate deeply for 4 hours to gain the benefits of a long rest
 - **Languages:** Common, Elvish, and one other language of your choice

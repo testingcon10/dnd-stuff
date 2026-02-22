@@ -12,9 +12,9 @@ You thrive in front of an audience. You know how to entrance them, entertain the
 |----------|-------|
 | **Ability Scores** | Strength, Dexterity, Charisma |
 | **Origin Feat** | [[Musician]] |
-| **Skill Proficiencies** | Acrobatics, Performance |
-| **Tool Proficiency** | Musical Instrument (one of your choice) |
-| **Equipment** | Musical Instrument (one of your choice), Costume (2), Mirror, Perfume, Traveler's Clothes, 11 GP |
+| **Skill Proficiencies** | [[Acrobatics]], [[Performance]] |
+| **Tool Proficiency** | [[Musical Instrument]] (one of your choice) |
+| **Equipment** | [[Musical Instrument]] (one of your choice), [[Costume]] (2), Mirror, Perfume, [[Traveler's Clothes]], 11 GP |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/backgrounds.html#entertainer_2024)

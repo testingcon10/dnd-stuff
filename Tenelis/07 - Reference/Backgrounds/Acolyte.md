@@ -12,9 +12,9 @@ You spent your early days in a religious community. Study and prayer were the pi
 |----------|-------|
 | **Ability Scores** | Intelligence, Wisdom, Charisma |
 | **Origin Feat** | [[Magic Initiate]] ([[Cleric]]) |
-| **Skill Proficiencies** | Insight, Religion |
-| **Tool Proficiency** | Calligrapher's Supplies |
-| **Equipment** | Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10), Robe, 8 GP |
+| **Skill Proficiencies** | [[Insight]], [[Religion]] |
+| **Tool Proficiency** | [[Calligrapher's Supplies]] |
+| **Equipment** | [[Calligrapher's Supplies]], Book (prayers), [[Holy Symbol]], Parchment (10), [[Robe]], 8 GP |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/backgrounds.html#acolyte_2024)
