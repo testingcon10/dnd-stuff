@@ -1,114 +1,65 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "-path:\"07 - Reference\" -path:\"99 - Templates\"",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"07 - Reference/Spells/Abjuration\"",
+      "query": "path:\"00 - Home\"",
       "color": {
         "a": 1,
-        "rgb": 3788031
+        "rgb": 15263976
       }
     },
     {
-      "query": "path:\"07 - Reference/Spells/Conjuration\"",
+      "query": "path:\"01 - Party\"",
       "color": {
         "a": 1,
-        "rgb": 8894686
+        "rgb": 5025616
       }
     },
     {
-      "query": "path:\"07 - Reference/Spells/Divination\"",
+      "query": "path:\"02 - Sessions\"",
       "color": {
         "a": 1,
-        "rgb": 11184810
+        "rgb": 4367861
       }
     },
     {
-      "query": "path:\"07 - Reference/Spells/Enchantment\"",
+      "query": "path:\"03 - Quests\"",
       "color": {
         "a": 1,
-        "rgb": 16738740
+        "rgb": 16757504
       }
     },
     {
-      "query": "path:\"07 - Reference/Spells/Evocation\"",
+      "query": "path:\"04 - NPCs\"",
       "color": {
         "a": 1,
-        "rgb": 16744448
+        "rgb": 11225020
       }
     },
     {
-      "query": "path:\"07 - Reference/Spells/Illusion\"",
+      "query": "path:\"06 - World\"",
       "color": {
         "a": 1,
-        "rgb": 8388736
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Spells/Necromancy\"",
-      "color": {
-        "a": 1,
-        "rgb": 5592405
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Spells/Transmutation\"",
-      "color": {
-        "a": 1,
-        "rgb": 16766720
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Classes\"",
-      "color": {
-        "a": 1,
-        "rgb": 3329330
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Races\"",
-      "color": {
-        "a": 1,
-        "rgb": 10027008
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Feats\"",
-      "color": {
-        "a": 1,
-        "rgb": 16753920
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Items\"",
-      "color": {
-        "a": 1,
-        "rgb": 8421504
-      }
-    },
-    {
-      "query": "path:\"07 - Reference/Conditions\"",
-      "color": {
-        "a": 1,
-        "rgb": 13369344
+        "rgb": 2533018
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.09392927902846741,
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.5,
+  "lineSizeMultiplier": 1.2,
+  "collapse-forces": false,
+  "centerStrength": 0.15,
+  "repelStrength": 8,
+  "linkStrength": 0.8,
+  "linkDistance": 200,
+  "scale": 0.7132754626224201,
   "close": true
 }

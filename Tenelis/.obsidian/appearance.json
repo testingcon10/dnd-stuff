@@ -1,3 +1,6 @@
 {
-  "cssTheme": "ITS Theme"
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "graph-enhancements"
+  ]
 }

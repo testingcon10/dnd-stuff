@@ -1,0 +1,28 @@
+/* Graph View Enhancements — campaign-focused styling */
+
+/* Focused/hovered node: subtle glow */
+.graph-view.mod-3d .graph-view-node.is-focused,
+.graph-view .graph-view-node.is-focused {
+  filter: drop-shadow(0 0 6px rgba(255, 255, 255, 0.5));
+}
+
+/* Label readability: text shadow for contrast */
+.graph-view .graph-view-label {
+  text-shadow:
+    0 0 4px rgba(0, 0, 0, 0.8),
+    0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+/* Slightly larger labels in graph */
+.graph-view .graph-view-label {
+  font-size: 13px;
+}
+
+/* Dim non-connected nodes when hovering (enhance native behavior) */
+.graph-view .graph-view-node.is-dimmed {
+  opacity: 0.15;
+}
+
+.graph-view .graph-view-edge.is-dimmed {
+  opacity: 0.08;
+}
