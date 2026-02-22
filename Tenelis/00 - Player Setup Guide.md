@@ -1,17 +1,23 @@
 # Player Setup Guide
 
-Get the Tenelis vault on your computer in 4 steps. Takes about 10 minutes.
+Get the Tenelis vault on your computer in 5 steps. Takes about 10 minutes.
 
 ---
 
-## Step 1: Install two apps
+## Step 1: Create a GitHub account
+
+If you don't already have one, sign up at [github.com](https://github.com). **Remember your email** — you'll need it in Step 4.
+
+Once you have an account, message the DM your GitHub username so you can be added to the project.
+
+## Step 2: Install two apps
 
 Install both of these (just click **Next** through both installers, don't change any settings):
 
 - **Git** — [Click here to download](https://git-scm.com/download/win)
 - **Obsidian** — [Click here to download](https://obsidian.md)
 
-## Step 2: Download the vault
+## Step 3: Download the vault
 
 1. Open the **Start menu**, type **Git Bash**, and open it (a black terminal window appears)
 2. Copy and paste this **entire block** into the window, then press **Enter**:
@@ -26,16 +32,9 @@ cd ~/Documents && git clone https://github.com/testingcon10/dnd-stuff.git
 
 Your vault is now in your **Documents** folder inside a folder called **dnd-stuff**.
 
-## Step 3: Open the vault in Obsidian
-
-1. Open **Obsidian**
-2. Click **Open folder as vault**
-3. Go to **Documents → dnd-stuff → Tenelis** and select that folder
-4. A popup asks if you trust this vault — click **Trust and enable plugins**
-
 ## Step 4: Set your name in Git
 
-This only needs to be done once so Git knows who made changes.
+This must be done once before you can save any changes. **Use the same email you signed up to GitHub with.**
 
 1. Open **Git Bash** again from the Start menu
 2. Copy and paste these two lines **one at a time**, replacing the name and email with your own, and press **Enter** after each:
@@ -45,10 +44,17 @@ git config --global user.name "Your Name"
 ```
 
 ```
-git config --global user.email "your.email@example.com"
+git config --global user.email "your.github.email@example.com"
 ```
 
 3. Close the window
+
+## Step 5: Open the vault in Obsidian
+
+1. Open **Obsidian**
+2. Click **Open folder as vault**
+3. Go to **Documents → dnd-stuff → Tenelis** and select that folder
+4. A popup asks if you trust this vault — click **Trust and enable plugins**
 
 **You're all set!** Every time you open the vault, it automatically downloads the latest content.
 
@@ -68,8 +74,14 @@ Your changes are now uploaded for everyone.
 
 ## Something not working?
 
-**"Please tell me who you are"**
-You need to do Step 4 above.
+**"Please tell me who you are" / "author identity unknown"**
+You need to do Step 4 above. Make sure you use quotes around your name:
+```
+git config --global user.name "Your Name"
+```
+
+**"Your local changes would be overwritten by merge"**
+Press **Ctrl+P** → type **commit** → click **Obsidian Git: Commit all changes and push**, then try pulling again.
 
 **GitHub sign-in window won't appear / "Authentication failed"**
 Open Git Bash and paste this, then press Enter:
