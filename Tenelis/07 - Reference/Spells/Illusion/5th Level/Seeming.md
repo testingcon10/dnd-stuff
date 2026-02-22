@@ -1,0 +1,19 @@
+---
+tags: [spell, reference]
+spell_level: 5
+school: "Illusion"
+casting_time: "1 action"
+range: "30 feet"
+components: "V, S"
+duration: "8 hours"
+classes: ["Bard", "Sorcerer", "Wizard"]
+ritual: false
+concentration: false
+source: "PHB"
+---
+# Seeming
+
+This spell allows you to change the appearance of any number of creatures that you can see within range. You give each target you choose a new, illusory appearance. An unwilling target can make a Charisma saving throw, and if it succeeds, it is unaffected by the spell. The changes can include clothing, armor, weapons, and other belongings, and you can make each creature seem up to 1 foot shorter or taller and appear thin, fat, or in between. You can't change a target's body type, so you must choose a form that has the same basic arrangement of limbs.
+
+---
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#seeming_phb)

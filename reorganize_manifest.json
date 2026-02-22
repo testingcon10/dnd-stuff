@@ -1,0 +1,1498 @@
+{
+  "mode": "EXECUTE",
+  "spells": [
+    {
+      "from": "07 - Reference\\Spells\\Acid Splash.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\Cantrip\\Acid Splash.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Aid.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Aid.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Alarm.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Alarm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Alter Self.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Alter Self.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Animal Friendship.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Animal Friendship.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Animal Messenger.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Animal Messenger.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Animal Shapes.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\8th Level\\Animal Shapes.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Animate Dead.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Animate Dead.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Animate Objects.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Animate Objects.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Antilife Shell.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Antilife Shell.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Antimagic Field.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\8th Level\\Antimagic Field.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Antipathy-Sympathy.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\8th Level\\Antipathy-Sympathy.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Arcane Eye.md",
+      "to": "07 - Reference\\Spells\\Divination\\4th Level\\Arcane Eye.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Arcane Lock.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Arcane Lock.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Armor of Agathys.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Armor of Agathys.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Arms of Hadar.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Arms of Hadar.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Astral Projection.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\9th Level\\Astral Projection.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Augury.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Augury.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Aura of Life.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Aura of Life.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Aura of Purity.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Aura of Purity.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Aura of Vitality.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Aura of Vitality.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Awaken.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Awaken.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Bane.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Bane.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Banishing Smite.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Banishing Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Banishment.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Banishment.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Barkskin.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Barkskin.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Beacon of Hope.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Beacon of Hope.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Beast Sense.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Beast Sense.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Bestow Curse.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Bestow Curse.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Bigby's Hand.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Bigby's Hand.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blade Barrier.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Blade Barrier.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blade Ward.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\Cantrip\\Blade Ward.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Bless.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Bless.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blight.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\4th Level\\Blight.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blinding Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Blinding Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blindness-Deafness.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\2nd Level\\Blindness-Deafness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blink.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Blink.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Blur.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Blur.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Branding Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Branding Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Burning Hands.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Burning Hands.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Call Lightning.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Call Lightning.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Calm Emotions.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Calm Emotions.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Chain Lightning.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Chain Lightning.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Charm Person.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Charm Person.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Chill Touch.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\Cantrip\\Chill Touch.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Chromatic Orb.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Chromatic Orb.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Circle of Death.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\6th Level\\Circle of Death.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Circle of Power.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Circle of Power.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Clairvoyance.md",
+      "to": "07 - Reference\\Spells\\Divination\\3rd Level\\Clairvoyance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Clone.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\8th Level\\Clone.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Cloud of Daggers.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\2nd Level\\Cloud of Daggers.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Cloudkill.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Cloudkill.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Color Spray.md",
+      "to": "07 - Reference\\Spells\\Illusion\\1st Level\\Color Spray.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Command.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Command.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Commune with Nature.md",
+      "to": "07 - Reference\\Spells\\Divination\\5th Level\\Commune with Nature.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Commune.md",
+      "to": "07 - Reference\\Spells\\Divination\\5th Level\\Commune.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Compelled Duel.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Compelled Duel.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Comprehend Languages.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Comprehend Languages.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Compulsion.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\4th Level\\Compulsion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Cone of Cold.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Cone of Cold.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Confusion.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\4th Level\\Confusion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Animals.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Conjure Animals.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Barrage.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Conjure Barrage.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Celestial.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\7th Level\\Conjure Celestial.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Elemental.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Conjure Elemental.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Fey.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Conjure Fey.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Minor Elementals.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Conjure Minor Elementals.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Volley.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Conjure Volley.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Conjure Woodland Beings.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Conjure Woodland Beings.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Contact Other Plane.md",
+      "to": "07 - Reference\\Spells\\Divination\\5th Level\\Contact Other Plane.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Contagion.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\5th Level\\Contagion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Contingency.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Contingency.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Continual Flame.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Continual Flame.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Control Water.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\4th Level\\Control Water.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Control Weather.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\8th Level\\Control Weather.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Cordon of Arrows.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Cordon of Arrows.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Counterspell.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Counterspell.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Create Food and Water.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Create Food and Water.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Create or Destroy Water.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Create or Destroy Water.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Create Undead.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\6th Level\\Create Undead.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Creation.md",
+      "to": "07 - Reference\\Spells\\Illusion\\5th Level\\Creation.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Crown of Madness.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Crown of Madness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Crusader's Mantle.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Crusader's Mantle.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Cure Wounds.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Cure Wounds.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dancing Lights.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Dancing Lights.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Darkness.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Darkness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Darkvision.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Darkvision.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Daylight.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Daylight.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Death Ward.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Death Ward.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Delayed Blast Fireball.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Delayed Blast Fireball.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Demiplane.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\8th Level\\Demiplane.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Destructive Wave.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Destructive Wave.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Detect Evil and Good.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Detect Evil and Good.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Detect Magic.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Detect Magic.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Detect Poison and Disease.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Detect Poison and Disease.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Detect Thoughts.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Detect Thoughts.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dimension Door.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Dimension Door.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Disguise Self.md",
+      "to": "07 - Reference\\Spells\\Illusion\\1st Level\\Disguise Self.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Disintegrate.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\6th Level\\Disintegrate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dispel Evil and Good.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Dispel Evil and Good.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dispel Magic.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Dispel Magic.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dissonant Whispers.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Dissonant Whispers.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Divination.md",
+      "to": "07 - Reference\\Spells\\Divination\\4th Level\\Divination.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Divine Favor.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Divine Favor.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Divine Word.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Divine Word.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dominate Beast.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\4th Level\\Dominate Beast.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dominate Monster.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\8th Level\\Dominate Monster.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dominate Person.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\5th Level\\Dominate Person.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Drawmij's Instant Summons.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Drawmij's Instant Summons.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Dream.md",
+      "to": "07 - Reference\\Spells\\Illusion\\5th Level\\Dream.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Druidcraft.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Druidcraft.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Earthquake.md",
+      "to": "07 - Reference\\Spells\\Evocation\\8th Level\\Earthquake.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Eldritch Blast.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Eldritch Blast.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Elemental Weapon.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Elemental Weapon.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Enhance Ability.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Enhance Ability.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Enlarge-Reduce.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Enlarge-Reduce.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Ensnaring Strike.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Ensnaring Strike.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Entangle.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Entangle.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Enthrall.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Enthrall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Etherealness.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\7th Level\\Etherealness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Evard's Black Tentacles.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Evard's Black Tentacles.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Expeditious Retreat.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Expeditious Retreat.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Eyebite.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\6th Level\\Eyebite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fabricate.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\4th Level\\Fabricate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Faerie Fire.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Faerie Fire.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\False Life.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\1st Level\\False Life.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fear.md",
+      "to": "07 - Reference\\Spells\\Illusion\\3rd Level\\Fear.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Feather Fall.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Feather Fall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Feeblemind.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\8th Level\\Feeblemind.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Feign Death.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Feign Death.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Find Familiar.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Find Familiar.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Find Steed.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\2nd Level\\Find Steed.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Find the Path.md",
+      "to": "07 - Reference\\Spells\\Divination\\6th Level\\Find the Path.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Find Traps.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Find Traps.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Finger of Death.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\7th Level\\Finger of Death.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fire Bolt.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Fire Bolt.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fire Shield.md",
+      "to": "07 - Reference\\Spells\\Evocation\\4th Level\\Fire Shield.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fire Storm.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Fire Storm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fireball.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Fireball.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Flame Blade.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Flame Blade.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Flame Strike.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Flame Strike.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Flaming Sphere.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\2nd Level\\Flaming Sphere.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Flesh to Stone.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\6th Level\\Flesh to Stone.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fly.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Fly.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Fog Cloud.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Fog Cloud.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Forbiddance.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\6th Level\\Forbiddance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Forcecage.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Forcecage.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Foresight.md",
+      "to": "07 - Reference\\Spells\\Divination\\9th Level\\Foresight.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Freedom of Movement.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Freedom of Movement.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Friends.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\Cantrip\\Friends.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Gaseous Form.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Gaseous Form.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Gate.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\9th Level\\Gate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Geas.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\5th Level\\Geas.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Gentle Repose.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\2nd Level\\Gentle Repose.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Giant Insect.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\4th Level\\Giant Insect.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Glibness.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\8th Level\\Glibness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Globe of Invulnerability.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\6th Level\\Globe of Invulnerability.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Glyph of Warding.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Glyph of Warding.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Goodberry.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Goodberry.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Grasping Vine.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Grasping Vine.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Grease.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Grease.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Greater Invisibility.md",
+      "to": "07 - Reference\\Spells\\Illusion\\4th Level\\Greater Invisibility.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Greater Restoration.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Greater Restoration.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Guardian of Faith.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Guardian of Faith.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Guards and Wards.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\6th Level\\Guards and Wards.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Guidance.md",
+      "to": "07 - Reference\\Spells\\Divination\\Cantrip\\Guidance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Guiding Bolt.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Guiding Bolt.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Gust of Wind.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Gust of Wind.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hail of Thorns.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Hail of Thorns.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hallow.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Hallow.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hallucinatory Terrain.md",
+      "to": "07 - Reference\\Spells\\Illusion\\4th Level\\Hallucinatory Terrain.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Harm.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\6th Level\\Harm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Haste.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Haste.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Heal.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Heal.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Healing Word.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Healing Word.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Heat Metal.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Heat Metal.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hellish Rebuke.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Hellish Rebuke.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Heroes' Feast.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Heroes' Feast.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Heroism.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Heroism.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hex.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Hex.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hold Monster.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\5th Level\\Hold Monster.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hold Person.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Hold Person.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Holy Aura.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\8th Level\\Holy Aura.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hunger of Hadar.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Hunger of Hadar.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hunter's Mark.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Hunter's Mark.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Hypnotic Pattern.md",
+      "to": "07 - Reference\\Spells\\Illusion\\3rd Level\\Hypnotic Pattern.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Ice Storm.md",
+      "to": "07 - Reference\\Spells\\Evocation\\4th Level\\Ice Storm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Identify.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Identify.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Illusory Script.md",
+      "to": "07 - Reference\\Spells\\Illusion\\1st Level\\Illusory Script.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Imprisonment.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\9th Level\\Imprisonment.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Incendiary Cloud.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\8th Level\\Incendiary Cloud.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Inflict Wounds.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\1st Level\\Inflict Wounds.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Insect Plague.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Insect Plague.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Invisibility.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Invisibility.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Jump.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Jump.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Knock.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Knock.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Legend Lore.md",
+      "to": "07 - Reference\\Spells\\Divination\\5th Level\\Legend Lore.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Leomund's Secret Chest.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Leomund's Secret Chest.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Leomund's Tiny Hut.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Leomund's Tiny Hut.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Lesser Restoration.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Lesser Restoration.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Levitate.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Levitate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Light.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Light.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Lightning Arrow.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Lightning Arrow.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Lightning Bolt.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Lightning Bolt.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Locate Animals or Plants.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Locate Animals or Plants.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Locate Creature.md",
+      "to": "07 - Reference\\Spells\\Divination\\4th Level\\Locate Creature.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Locate Object.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\Locate Object.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Longstrider.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Longstrider.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mage Armor.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Mage Armor.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mage Hand.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\Cantrip\\Mage Hand.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Magic Circle.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Magic Circle.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Magic Jar.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\6th Level\\Magic Jar.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Magic Missile.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Magic Missile.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Magic Mouth.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Magic Mouth.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Magic Weapon.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Magic Weapon.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Major Image.md",
+      "to": "07 - Reference\\Spells\\Illusion\\3rd Level\\Major Image.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mass Cure Wounds.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Mass Cure Wounds.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mass Heal.md",
+      "to": "07 - Reference\\Spells\\Evocation\\9th Level\\Mass Heal.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mass Healing Word.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Mass Healing Word.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mass Suggestion.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\6th Level\\Mass Suggestion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Maze.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\8th Level\\Maze.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Meld into Stone.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Meld into Stone.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Melf's Acid Arrow.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Melf's Acid Arrow.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mending.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Mending.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Message.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Message.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Meteor Swarm.md",
+      "to": "07 - Reference\\Spells\\Evocation\\9th Level\\Meteor Swarm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mind Blank.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\8th Level\\Mind Blank.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Minor Illusion.md",
+      "to": "07 - Reference\\Spells\\Illusion\\Cantrip\\Minor Illusion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mirage Arcane.md",
+      "to": "07 - Reference\\Spells\\Illusion\\7th Level\\Mirage Arcane.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mirror Image.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Mirror Image.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mislead.md",
+      "to": "07 - Reference\\Spells\\Illusion\\5th Level\\Mislead.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Misty Step.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\2nd Level\\Misty Step.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Modify Memory.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\5th Level\\Modify Memory.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Moonbeam.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Moonbeam.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mordenkainen's Faithful Hound.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\4th Level\\Mordenkainen's Faithful Hound.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mordenkainen's Magnificent Mansion.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\7th Level\\Mordenkainen's Magnificent Mansion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mordenkainen's Private Sanctum.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Mordenkainen's Private Sanctum.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Mordenkainen's Sword.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Mordenkainen's Sword.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Move Earth.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\6th Level\\Move Earth.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Nondetection.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Nondetection.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Nystul's Magic Aura.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Nystul's Magic Aura.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Otiluke's Freezing Sphere.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Otiluke's Freezing Sphere.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Otiluke's Resilient Sphere.md",
+      "to": "07 - Reference\\Spells\\Evocation\\4th Level\\Otiluke's Resilient Sphere.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Otto's Irresistible Dance.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\6th Level\\Otto's Irresistible Dance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Pass Without Trace.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Pass Without Trace.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Passwall.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Passwall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Phantasmal Force.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Phantasmal Force.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Phantasmal Killer.md",
+      "to": "07 - Reference\\Spells\\Illusion\\4th Level\\Phantasmal Killer.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Phantom Steed.md",
+      "to": "07 - Reference\\Spells\\Illusion\\3rd Level\\Phantom Steed.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Planar Ally.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Planar Ally.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Planar Binding.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\5th Level\\Planar Binding.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Plane Shift.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\7th Level\\Plane Shift.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Plant Growth.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Plant Growth.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Poison Spray.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\Cantrip\\Poison Spray.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Polymorph.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\4th Level\\Polymorph.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Power Word Heal.md",
+      "to": "07 - Reference\\Spells\\Evocation\\9th Level\\Power Word Heal.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Power Word Kill.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\9th Level\\Power Word Kill.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Power Word Stun.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\8th Level\\Power Word Stun.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Prayer of Healing.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Prayer of Healing.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Prestidigitation.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Prestidigitation.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Prismatic Spray.md",
+      "to": "07 - Reference\\Spells\\Evocation\\7th Level\\Prismatic Spray.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Prismatic Wall.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\9th Level\\Prismatic Wall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Produce Flame.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\Cantrip\\Produce Flame.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Programmed Illusion.md",
+      "to": "07 - Reference\\Spells\\Illusion\\6th Level\\Programmed Illusion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Project Image.md",
+      "to": "07 - Reference\\Spells\\Illusion\\7th Level\\Project Image.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Protection from Energy.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Protection from Energy.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Protection from Evil and Good.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Protection from Evil and Good.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Protection from Poison.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Protection from Poison.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Purify Food and Drink.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\1st Level\\Purify Food and Drink.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Raise Dead.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\5th Level\\Raise Dead.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Ray of Enfeeblement.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\2nd Level\\Ray of Enfeeblement.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Ray of Frost.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Ray of Frost.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Ray of Sickness.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\1st Level\\Ray of Sickness.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Regenerate.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\7th Level\\Regenerate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Reincarnate.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Reincarnate.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Remove Curse.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\3rd Level\\Remove Curse.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Resistance.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\Cantrip\\Resistance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Resurrection.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\7th Level\\Resurrection.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Reverse Gravity.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\7th Level\\Reverse Gravity.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Revivify.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Revivify.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Rope Trick.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Rope Trick.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sacred Flame.md",
+      "to": "07 - Reference\\Spells\\Evocation\\Cantrip\\Sacred Flame.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sanctuary.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Sanctuary.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Scorching Ray.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Scorching Ray.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Scrying.md",
+      "to": "07 - Reference\\Spells\\Divination\\5th Level\\Scrying.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Searing Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Searing Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\See Invisibility.md",
+      "to": "07 - Reference\\Spells\\Divination\\2nd Level\\See Invisibility.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Seeming.md",
+      "to": "07 - Reference\\Spells\\Illusion\\5th Level\\Seeming.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sending.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Sending.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sequester.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\7th Level\\Sequester.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Shapechange.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\9th Level\\Shapechange.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Shatter.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Shatter.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Shield of Faith.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Shield of Faith.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Shield.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\1st Level\\Shield.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Shillelagh.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Shillelagh.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Silence.md",
+      "to": "07 - Reference\\Spells\\Illusion\\2nd Level\\Silence.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Silent Image.md",
+      "to": "07 - Reference\\Spells\\Illusion\\1st Level\\Silent Image.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Simulacrum.md",
+      "to": "07 - Reference\\Spells\\Illusion\\7th Level\\Simulacrum.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sleep.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Sleep.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sleet Storm.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Sleet Storm.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Slow.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Slow.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Spare the Dying.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\Cantrip\\Spare the Dying.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Speak with Animals.md",
+      "to": "07 - Reference\\Spells\\Divination\\1st Level\\Speak with Animals.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Speak with Dead.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Speak with Dead.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Speak with Plants.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Speak with Plants.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Spider Climb.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Spider Climb.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Spike Growth.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\2nd Level\\Spike Growth.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Spirit Guardians.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Spirit Guardians.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Spiritual Weapon.md",
+      "to": "07 - Reference\\Spells\\Evocation\\2nd Level\\Spiritual Weapon.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Staggering Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\4th Level\\Staggering Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Stinking Cloud.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\3rd Level\\Stinking Cloud.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Stone Shape.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\4th Level\\Stone Shape.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Stoneskin.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\4th Level\\Stoneskin.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Storm of Vengeance.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\9th Level\\Storm of Vengeance.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Suggestion.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Suggestion.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sunbeam.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Sunbeam.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Sunburst.md",
+      "to": "07 - Reference\\Spells\\Evocation\\8th Level\\Sunburst.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Swift Quiver.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Swift Quiver.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Symbol.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\7th Level\\Symbol.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Tasha's Hideous Laughter.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\1st Level\\Tasha's Hideous Laughter.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Telekinesis.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\5th Level\\Telekinesis.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Telepathy.md",
+      "to": "07 - Reference\\Spells\\Evocation\\8th Level\\Telepathy.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Teleport.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\7th Level\\Teleport.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Teleportation Circle.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Teleportation Circle.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Tenser's Floating Disk.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Tenser's Floating Disk.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Thaumaturgy.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\Cantrip\\Thaumaturgy.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Thunderous Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Thunderous Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Thunderwave.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Thunderwave.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Time Stop.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\9th Level\\Time Stop.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Tongues.md",
+      "to": "07 - Reference\\Spells\\Divination\\3rd Level\\Tongues.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Transport via Plants.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Transport via Plants.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Tree Stride.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\5th Level\\Tree Stride.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\True Polymorph.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\9th Level\\True Polymorph.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\True Resurrection.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\9th Level\\True Resurrection.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\True Seeing.md",
+      "to": "07 - Reference\\Spells\\Divination\\6th Level\\True Seeing.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\True Strike.md",
+      "to": "07 - Reference\\Spells\\Divination\\Cantrip\\True Strike.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Tsunami.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\8th Level\\Tsunami.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Unseen Servant.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\1st Level\\Unseen Servant.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Vampiric Touch.md",
+      "to": "07 - Reference\\Spells\\Necromancy\\3rd Level\\Vampiric Touch.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Vicious Mockery.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\Cantrip\\Vicious Mockery.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wall of Fire.md",
+      "to": "07 - Reference\\Spells\\Evocation\\4th Level\\Wall of Fire.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wall of Force.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Wall of Force.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wall of Ice.md",
+      "to": "07 - Reference\\Spells\\Evocation\\6th Level\\Wall of Ice.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wall of Stone.md",
+      "to": "07 - Reference\\Spells\\Evocation\\5th Level\\Wall of Stone.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wall of Thorns.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Wall of Thorns.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Warding Bond.md",
+      "to": "07 - Reference\\Spells\\Abjuration\\2nd Level\\Warding Bond.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Water Breathing.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Water Breathing.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Water Walk.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\3rd Level\\Water Walk.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Web.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\2nd Level\\Web.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Weird.md",
+      "to": "07 - Reference\\Spells\\Illusion\\9th Level\\Weird.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wind Walk.md",
+      "to": "07 - Reference\\Spells\\Transmutation\\6th Level\\Wind Walk.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wind Wall.md",
+      "to": "07 - Reference\\Spells\\Evocation\\3rd Level\\Wind Wall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wish.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\9th Level\\Wish.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Witch Bolt.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Witch Bolt.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Word of Recall.md",
+      "to": "07 - Reference\\Spells\\Conjuration\\6th Level\\Word of Recall.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Wrathful Smite.md",
+      "to": "07 - Reference\\Spells\\Evocation\\1st Level\\Wrathful Smite.md"
+    },
+    {
+      "from": "07 - Reference\\Spells\\Zone of Truth.md",
+      "to": "07 - Reference\\Spells\\Enchantment\\2nd Level\\Zone of Truth.md"
+    }
+  ],
+  "races": [
+    {
+      "from": "07 - Reference\\Races\\Dark Elf (Drow).md",
+      "to": "07 - Reference\\Races\\Elf\\Dark Elf (Drow).md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Dwarf.md",
+      "to": "07 - Reference\\Races\\Dwarf\\Dwarf.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Elf.md",
+      "to": "07 - Reference\\Races\\Elf\\Elf.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Forest Gnome.md",
+      "to": "07 - Reference\\Races\\Gnome\\Forest Gnome.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Gnome.md",
+      "to": "07 - Reference\\Races\\Gnome\\Gnome.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Halfling.md",
+      "to": "07 - Reference\\Races\\Halfling\\Halfling.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\High Elf.md",
+      "to": "07 - Reference\\Races\\Elf\\High Elf.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Hill Dwarf.md",
+      "to": "07 - Reference\\Races\\Dwarf\\Hill Dwarf.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Human.md",
+      "to": "07 - Reference\\Races\\Human\\Human.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Lightfoot Halfling.md",
+      "to": "07 - Reference\\Races\\Halfling\\Lightfoot Halfling.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Mountain Dwarf.md",
+      "to": "07 - Reference\\Races\\Dwarf\\Mountain Dwarf.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Rock Gnome.md",
+      "to": "07 - Reference\\Races\\Gnome\\Rock Gnome.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Stout Halfling.md",
+      "to": "07 - Reference\\Races\\Halfling\\Stout Halfling.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Variant Human.md",
+      "to": "07 - Reference\\Races\\Human\\Variant Human.md"
+    },
+    {
+      "from": "07 - Reference\\Races\\Wood Elf.md",
+      "to": "07 - Reference\\Races\\Elf\\Wood Elf.md"
+    }
+  ],
+  "deleted": [
+    "Chain Shirt.md"
+  ]
+}
