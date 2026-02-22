@@ -69,6 +69,10 @@ tags: [dashboard]
 > **Races:** [[Dwarf]] · [[Elf]] · [[Halfling]] · [[Human]] · [[Dragonborn]] · [[Gnome]] · [[Half-Elf]] · [[Half-Orc]] · [[Tiefling]]
 >
 > **Conditions:** [[Blinded]] · [[Charmed]] · [[Deafened]] · [[Exhaustion]] · [[Frightened]] · [[Grappled]] · [[Incapacitated]] · [[Invisible]] · [[Paralyzed]] · [[Petrified]] · [[Poisoned]] · [[Prone]] · [[Restrained]] · [[Stunned]] · [[Unconscious]]
+>
+> **Backgrounds:** [[Acolyte]] · [[Artisan]] · [[Charlatan]] · [[Criminal]] · [[Entertainer]] · [[Farmer]] · [[Guard]] · [[Guide]] · [[Hermit]] · [[Merchant]] · [[Noble]] · [[Sage]] · [[Sailor]] · [[Scribe]] · [[Soldier]] · [[Wayfarer]]
+>
+> **Rules:** [[Actions in Combat]] · [[Ability Scores]] · [[Skills]] · [[Resting]] · [[Death & Dying]] · [[Cover]] · [[Damage Types]] · [[Weapon Properties]] · [[Weapons Table]] · [[Armor Table]] · [[Tools]] · [[Languages]] · [[Glossary]]
 
 > [!example] Popular Spells
 >
@@ -87,7 +91,7 @@ tags: [dashboard]
 > [!gear] Magic Items
 > [[Potion of Healing]] · [[Bag of Holding]] · [[Cloak of Protection]] · [[Boots of Elvenkind]] · [[Gauntlets of Ogre Power]] · [[Goggles of Night]] · [[Ring of Protection]] · [[Weapon +1]] · [[Flame Tongue]] · [[Armor +1]] · [[Ring of Spell Storing]] · [[Cape of the Mountebank]] · [[Amulet of Health]] · [[Armor +2]] · [[Staff of Power]] · [[Cloak of Displacement]] · [[Belt of Giant Strength (Hill)]] · [[Vorpal Sword]]
 
-> [!star] Popular Feats
+> [!star] Popular [[Feats]]
 > [[Alert]] · [[Crossbow Expert]] · [[Defensive Duelist]] · [[Great Weapon Master]] · [[Inspiring Leader]] · [[Lucky]] · [[Mage Slayer]] · [[Mobile]] · [[Observant]] · [[Polearm Master]] · [[Resilient]] · [[Sentinel]] · [[Sharpshooter]] · [[Tough]] · [[War Caster]]
 
 ---

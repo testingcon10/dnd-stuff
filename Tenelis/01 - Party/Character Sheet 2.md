@@ -20,7 +20,7 @@ alignment: ""
 > **Alignment:** `=this.alignment`
 > **Player:** `=this.player`
 
-## Ability Scores
+## [[Ability Scores]]
 
 | Ability | Score | Modifier | Save Prof? | Save Mod |
 |---------|-------|----------|------------|----------|

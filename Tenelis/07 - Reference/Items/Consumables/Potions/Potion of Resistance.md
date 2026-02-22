@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Potion of Resistance
 
-When you drink this potion, you gain resistance to one type of damage for 1 hour. The DM chooses the type or determines it randomly from the standard damage types.
+When you drink this potion, you gain resistance to one type of damage for 1 hour. The DM chooses the type or determines it randomly from the standard [[Damage Types|damage types]].
 
 | Property | Value |
 |----------|-------|

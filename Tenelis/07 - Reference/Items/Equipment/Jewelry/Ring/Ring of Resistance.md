@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Ring of Resistance
 
-You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly. The damage types and their associated gemstones include pearl (acid), tourmaline (cold), garnet (fire), sapphire (force), topaz (lightning), jet (necrotic), amethyst (poison), jade (psychic), citrine (radiant), jacinth (thunder).
+You have resistance to one damage type while wearing this ring. The gem in the ring indicates the type, which the DM chooses or determines randomly. The [[Damage Types|damage types]] and their associated gemstones include pearl (acid), tourmaline (cold), garnet (fire), sapphire (force), topaz (lightning), jet (necrotic), amethyst (poison), jade (psychic), citrine (radiant), jacinth (thunder).
 
 | Property | Value |
 |----------|-------|

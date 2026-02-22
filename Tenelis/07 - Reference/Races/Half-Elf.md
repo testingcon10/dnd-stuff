@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Half-Elf
 
-Walking in two worlds but truly belonging to neither, half-elves combine the best qualities of humans and elves. They are extremely versatile, with bonus ability scores, extra skill proficiencies, and Fey Ancestry.
+Walking in two worlds but truly belonging to neither, half-elves combine the best qualities of humans and elves. They are extremely versatile, with bonus [[Ability Scores|ability scores]], extra skill proficiencies, and Fey Ancestry.
 
 ## Traits
 - **Ability Score Increase:** Charisma +2, plus two other scores +1

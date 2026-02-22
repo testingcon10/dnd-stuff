@@ -16,12 +16,14 @@ VAULT_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Tenelis")
 
 ENTITY_DIRS = [
     "07 - Reference/Conditions",
-    "07 - Reference/Feats",
+    "07 - Reference/Backgrounds",
+    "07 - Reference/Rules",
 ]
 
 # Directories that contain nested subdirectories of .md entity files
 RECURSIVE_ENTITY_DIRS = [
     "07 - Reference/Classes",
+    "07 - Reference/Feats",
     "07 - Reference/Items",
     "07 - Reference/Spells",
     "07 - Reference/Races",
@@ -58,6 +60,11 @@ SKIP_ENTITIES = {
     "Alarm",         # spell — common English word
     "Light",         # cantrip — "Light crossbows", "Light armor", "bright light"
     "Befuddlement",  # spell — common English word for confusion
+    # Fighting Style feat names that appear as generic terms in class descriptions:
+    "Archery",       # feat — appears in fighting style class feature descriptions
+    "Defense",       # feat — common English word, appears in class descriptions
+    "Dueling",       # feat — common English word, appears in class descriptions
+    "Protection",    # feat — common English word, "Protection from..." spells
     # Mundane weapon/armor names that cause false-positive wikilinks:
     "Shield",        # item — "shield" appears in many item/spell descriptions
     "Club",          # item — common English word
@@ -73,6 +80,33 @@ SKIP_ENTITIES = {
     "Flail",         # item — common English word
     "Hide",          # item — "hide armor", "hide" is common English word
     "Chain",         # item — "chain mail", "chain shirt" in descriptions
+    # Index hub file names that would cause false-positive wikilinks:
+    "Spells",        # hub — generic term used throughout the vault
+    "Cantrip",       # hub — "cantrip" appears in class/spell descriptions
+    "Origin",        # hub — "Origin" appears in feat/race descriptions
+    "General",       # hub — common English word
+    "Epic Boon",     # hub — appears in class capstone descriptions
+    "Fighting Style", # hub — appears in class feature descriptions
+    # Background names that are common words:
+    "Merchant",      # background — common English word
+    "Noble",         # background — common English word
+    "Guard",         # background — common English word
+    "Hermit",        # background — common English word
+    "Soldier",       # background — common English word
+    "Sage",          # background — common English word
+    "Sailor",        # background — common English word
+    "Farmer",        # background — common English word
+    "Guide",         # background — common English word
+    "Scribe",        # background — common English word
+    "Entertainer",   # background — common English word
+    # Rule/hub names that are common words:
+    "Skills",        # rule — generic term used throughout the vault
+    "Cover",         # rule — common English word
+    "Rules",         # hub — generic term
+    "Backgrounds",   # hub — generic term
+    "Languages",     # rule — common English word
+    "Tools",         # rule — common English word
+    "Glossary",      # reference — generic term
 }
 
 # ── Step 1: Build Entity Dictionary ───────────────────────────────────────────
