@@ -1,0 +1,10 @@
+{
+  "autoSaveInterval": 0,
+  "autoPushInterval": 0,
+  "autoPullOnOpen": true,
+  "autoPullInterval": 0,
+  "syncMethod": "merge",
+  "commitMessage": "vault: {{hostname}} {{date}}",
+  "autoCommitMessage": "vault: {{hostname}} {{date}}",
+  "listChangedFilesInMessageBody": false
+}

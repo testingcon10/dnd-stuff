@@ -14,7 +14,7 @@ Githzerai are monastic psionics who forged their civilization in the howling cha
 - **Size:** Medium
 - **Speed:** 30 ft.
 - **Mental Discipline:** Advantage on saving throws against the charmed and frightened conditions
-- **Githzerai Psionics:** [[Mage Hand]] cantrip (invisible hand); at 3rd level, cast [[Shield]] once per long rest; at 5th level, cast [[Detect Thoughts]] once per long rest (Wisdom-based)
+- **Githzerai Psionics:** [[Mage Hand]] cantrip (invisible hand); at [[3rd Level|3rd level]], cast [[Shield]] once per long rest; at [[5th Level|5th level]], cast [[Detect Thoughts]] once per long rest (Wisdom-based)
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#githzerai_mtof)

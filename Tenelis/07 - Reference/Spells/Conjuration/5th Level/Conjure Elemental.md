@@ -16,7 +16,7 @@ source: "2024"
 You conjure elemental energy that fills a 15-foot-radius Sphere centered on a point you can see within range. The energy lasts for the duration and creates one of the following effects on each of your turns as a Bonus Action: each creature of your choice in the Sphere takes 6d8 damage of a type you choose — Acid, Cold, Fire, or Thunder.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 6th level or higher, the damage increases by 2d8 for each slot level above 5th.
+When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage increases by 2d8 for each slot level above 5th.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20elemental_2024)

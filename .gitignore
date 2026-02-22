@@ -1,3 +1,5 @@
 __pycache__/
 .claude/
-Tenelis/.obsidian/
+# Obsidian — ignore per-user state, share everything else
+Tenelis/.obsidian/workspace.json
+Tenelis/.obsidian/workspace-mobile.json

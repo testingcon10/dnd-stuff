@@ -15,7 +15,7 @@ Tritons are noble aquatic guardians who hail from the Elemental Plane of Water, 
 - **Speed:** 30 ft., swim 30 ft.
 - **Darkvision:** 60 ft.
 - **Amphibious:** You can breathe air and water
-- **Control Air and Water:** You can cast [[Fog Cloud]] at 1st level; [[Gust of Wind]] at 3rd level; Wall of Water at 5th level (once each per long rest, Charisma-based; also castable with spell slots)
+- **Control Air and Water:** You can cast [[Fog Cloud]] at [[1st Level|1st level]]; [[Gust of Wind]] at [[3rd Level|3rd level]]; [[Wall of Water]] at [[5th Level|5th level]] (once each per long rest, Charisma-based; also castable with spell slots)
 - **Emissary of the Sea:** You can communicate simple ideas to any beast, elemental, or monstrosity that has a swimming speed
 - **Guardian of the Depths:** Resistance to cold damage; you are adapted to extreme ocean depths (no ill effects from deep, underwater environments)
 - **Languages:** Common, Primordial

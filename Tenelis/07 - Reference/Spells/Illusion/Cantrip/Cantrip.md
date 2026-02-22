@@ -1,0 +1,3 @@
+# Illusion — Cantrip
+
+[[Minor Illusion]]

@@ -16,7 +16,7 @@ Yuan-Ti Purebloods are the most human-looking members of the serpentine yuan-ti 
 - **Darkvision:** 60 ft.
 - **Magic Resistance:** Advantage on saving throws against spells and other magical effects
 - **Poison Immunity:** Immune to poison damage and the poisoned condition
-- **Serpentine Spellcasting:** You know the [[Poison Spray]] cantrip; at 3rd level, you can cast [[Animal Friendship]] on snakes at will; at 3rd level, you can also cast [[Suggestion]] once per long rest (Charisma-based)
+- **Serpentine Spellcasting:** You know the [[Poison Spray]] cantrip; at [[3rd Level|3rd level]], you can cast [[Animal Friendship]] on snakes at will; at [[3rd Level|3rd level]], you can also cast [[Suggestion]] once per long rest (Charisma-based)
 - **Languages:** Common, Abyssal, Draconic
 
 ---

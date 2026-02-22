@@ -16,7 +16,7 @@ source: "2024"
 You make an area within range magically secure. The area is a cube that can be as small as 5 feet to as large as 100 feet on each side. The spell lasts for the duration or until you use an action to dismiss it. You choose which of several security features to apply: sound can't pass through the barrier, the barrier is darkened and opaque, divination spells can't target creatures within, teleportation is blocked, and planar travel is blocked. Casting this spell on the same spot every day for a year makes it permanent.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 5th level or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th.
+When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_phb)

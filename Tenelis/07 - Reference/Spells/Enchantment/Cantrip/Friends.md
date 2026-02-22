@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Friends
 
-You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom saving throw or be Charmed by you for the duration. The Charmed creature is friendly to you. When the spell ends, the creature knows it was Charmed by you.
+You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom saving throw or be [[Charmed]] by you for the duration. The [[Charmed]] creature is friendly to you. When the spell ends, the creature knows it was [[Charmed]] by you.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#friends_2024)

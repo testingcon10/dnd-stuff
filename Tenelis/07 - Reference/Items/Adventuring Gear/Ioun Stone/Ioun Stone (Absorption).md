@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Ioun Stone of Absorption
 
-This pale lavender ellipsoid orbits your head while attuned. You can use your reaction to cancel a spell of 4th level or lower cast by a creature you can see targeting only you. Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic.
+This pale lavender ellipsoid orbits your head while attuned. You can use your reaction to cancel a spell of [[4th Level|4th level]] or lower cast by a creature you can see targeting only you. Once the stone has canceled 20 levels of spells, it burns out and turns dull gray, losing its magic.
 
 | Property | Value |
 |----------|-------|

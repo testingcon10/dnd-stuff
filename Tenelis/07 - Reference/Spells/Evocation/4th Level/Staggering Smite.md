@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Staggering Smite
 
-Your weapon strikes with overwhelming force. The attack deals an extra 4d6 Psychic damage. Additionally, if the target is a creature, it must succeed on a Wisdom saving throw or have the Stunned condition until the end of your next turn.
+Your weapon strikes with overwhelming force. The attack deals an extra 4d6 Psychic damage. Additionally, if the target is a creature, it must succeed on a Wisdom saving throw or have the [[Stunned]] condition until the end of your next turn.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#staggering%20smite_2024)

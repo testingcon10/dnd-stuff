@@ -7,7 +7,7 @@ source: "DMG"
 ---
 # Spell Scroll (1st Level)
 
-A spell scroll bears the words of a single 1st-level spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast the spell at 1st level without providing any material components. The spell save DC is 13 and the attack bonus is +5. Once the spell is cast, the scroll crumbles to dust.
+A spell scroll bears the words of a single 1st-level spell, written in a mystical cipher. If the spell is on your class's spell list, you can read the scroll and cast the spell at [[1st Level|1st level]] without providing any material components. The spell save DC is 13 and the attack bonus is +5. Once the spell is cast, the scroll crumbles to dust.
 
 | Property | Value |
 |----------|-------|

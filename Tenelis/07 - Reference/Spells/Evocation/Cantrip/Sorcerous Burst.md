@@ -17,7 +17,7 @@ You cast sorcerous energy at one creature or object within range. Make a ranged 
 
 If you roll an 8 on any of the d8s for this spell, you can roll an additional d8, and add it to the damage. You can do so only once per turn.
 
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+This spell's damage increases by 1d8 when you reach [[5th Level|5th level]] (2d8), 11th level (3d8), and 17th level (4d8).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#sorcerous%20burst_2024)

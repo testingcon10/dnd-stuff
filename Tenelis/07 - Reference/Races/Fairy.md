@@ -14,7 +14,7 @@ Fairies are small fey beings brimming with whimsical magic. They flutter on goss
 - **Size:** Small
 - **Speed:** 30 ft.
 - **Creature Type:** Fey
-- **Fairy Magic:** You know [[Druidcraft]]; at 3rd level, cast [[Faerie Fire]] once per long rest; at 5th level, cast [[Enlarge-Reduce|Enlarge/Reduce]] once per long rest (can also cast with spell slots)
+- **Fairy Magic:** You know [[Druidcraft]]; at [[3rd Level|3rd level]], cast [[Faerie Fire]] once per long rest; at [[5th Level|5th level]], cast [[Enlarge-Reduce|Enlarge/Reduce]] once per long rest (can also cast with spell slots)
 - **Flight:** 30 ft. flying speed (cannot fly while wearing medium or heavy armor)
 - **Languages:** Common and one other of your choice
 

@@ -15,7 +15,7 @@ Tieflings are derived from human bloodlines infused with the touch of the lower 
 - **Speed:** 30 ft.
 - **Darkvision:** 60 ft.
 - **Hellish Resistance:** Resistance to fire damage
-- **Infernal Legacy:** [[Thaumaturgy]] cantrip; [[Hellish Rebuke]] at 3rd level; [[Darkness]] at 5th level (Charisma-based, once per long rest each)
+- **Infernal Legacy:** [[Thaumaturgy]] cantrip; [[Hellish Rebuke]] at [[3rd Level|3rd level]]; [[Darkness]] at [[5th Level|5th level]] (Charisma-based, once per long rest each)
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#tiefling_phb)

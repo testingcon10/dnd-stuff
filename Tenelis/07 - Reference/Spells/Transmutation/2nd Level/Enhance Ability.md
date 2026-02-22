@@ -23,7 +23,7 @@ Fox's Cunning: The target has Advantage on Intelligence checks.
 Owl's Wisdom: The target has Advantage on Wisdom checks.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.
+When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, you can target one additional creature for each slot level above 2nd.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#enhance%20ability_2024)

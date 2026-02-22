@@ -15,7 +15,7 @@ Githyanki are fierce warriors who dwell in the Astral Plane, riding red dragons 
 - **Speed:** 30 ft.
 - **Decadent Mastery:** One language and one skill or tool proficiency of your choice
 - **Martial Prodigy:** Proficiency with light and medium armor, shortswords, longswords, and greatswords
-- **Githyanki Psionics:** [[Mage Hand]] cantrip (invisible hand); at 3rd level, cast [[Jump]] once per long rest; at 5th level, cast [[Misty Step]] once per long rest (Intelligence-based)
+- **Githyanki Psionics:** [[Mage Hand]] cantrip (invisible hand); at [[3rd Level|3rd level]], cast [[Jump]] once per long rest; at [[5th Level|5th level]], cast [[Misty Step]] once per long rest (Intelligence-based)
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#githyanki_mtof)
