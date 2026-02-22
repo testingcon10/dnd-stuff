@@ -25,6 +25,7 @@ ENTITY_DIRS = [
 RECURSIVE_ENTITY_DIRS = [
     "07 - Reference/Classes",
     "07 - Reference/Feats",
+    "07 - Reference/Gods",
     "07 - Reference/Items",
     "07 - Reference/Spells",
     "07 - Reference/Races",
@@ -45,6 +46,8 @@ SKIP_ENTITIES = {
     "Darkvision",    # spell — every race file says "Darkvision: 60 ft."
     "Friends",       # cantrip — common English word
     "Symbol",        # spell — "holy symbol" is standard D&D terminology
+    "Bane",          # god + spell name collision
+    "Mask",          # god — "Mask of the Wild", "With Mask, you change…"
     "Healer",        # feat — appears inside feature names like "Blessed Healer"
     "Hunter",        # subclass — "bounty hunter", "hunter's mark" (possessive)
     "Guidance",      # cantrip — common English word in D&D context
