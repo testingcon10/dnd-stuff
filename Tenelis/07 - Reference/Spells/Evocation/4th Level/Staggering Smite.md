@@ -5,15 +5,15 @@ school: "Evocation"
 casting_time: "1 bonus action"
 range: "Self"
 components: "V"
-duration: "Concentration, up to 1 minute"
+duration: "Instantaneous"
 classes: ["Paladin"]
 ritual: false
-concentration: true
-source: "PHB"
+concentration: false
+source: "2024"
 ---
 # Staggering Smite
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon pierces both body and mind, and the attack deals an extra 4d6 psychic damage to the target. The target must make a Wisdom saving throw. On a failed save, it has disadvantage on attack rolls and ability checks, and can't take reactions, until the end of its next turn.
+Your weapon strikes with overwhelming force. The attack deals an extra 4d6 Psychic damage. Additionally, if the target is a creature, it must succeed on a Wisdom saving throw or have the Stunned condition until the end of your next turn.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#staggering%20smite_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#staggering%20smite_2024)

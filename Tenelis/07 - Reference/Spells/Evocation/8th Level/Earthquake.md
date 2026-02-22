@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Cleric", "Druid", "Sorcerer"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Earthquake
 

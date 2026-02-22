@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Ranger"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Hunter's Mark
 

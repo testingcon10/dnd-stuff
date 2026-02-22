@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Resurrection
 

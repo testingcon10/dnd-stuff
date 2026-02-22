@@ -3,20 +3,17 @@ tags: [spell, reference]
 spell_level: 6
 school: "Conjuration"
 casting_time: "1 minute"
-range: "90 feet"
+range: "60 feet"
 components: "V, S"
-duration: "Concentration, up to 1 hour"
+duration: "Concentration, up to 10 minutes"
 classes: ["Druid", "Warlock"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Conjure Fey
 
-You summon a fey creature of challenge rating 6 or lower, or a fey spirit that takes the form of a beast of challenge rating 6 or lower. The creature appears in an unoccupied space you can see within range and is friendly to you and your companions for the duration. If your concentration is broken, the creature doesn't disappear but becomes hostile toward you and your companions and might attack.
-
-## At Higher Levels
-When you cast this spell using a spell slot of 7th level or higher, the challenge rating increases by 1 for each slot level above 6th.
+You conjure a swirling mass of fey energy in a 10-foot-radius Sphere centered on a point you can see within range. Each creature of your choice in the Sphere when it appears must succeed on a Wisdom saving throw or have the Charmed condition for the duration. On each of your turns, you can use a Bonus Action to move the Sphere up to 30 feet. Each creature of your choice that enters the Sphere or starts its turn there must also save or take 6d12 Psychic damage.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20fey_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20fey_2024)

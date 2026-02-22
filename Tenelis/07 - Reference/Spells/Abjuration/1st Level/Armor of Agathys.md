@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Warlock"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Armor of Agathys
 

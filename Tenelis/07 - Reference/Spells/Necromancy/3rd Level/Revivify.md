@@ -6,10 +6,10 @@ casting_time: "1 action"
 range: "Touch"
 components: "V, S, M (diamonds worth 300 gp, which the spell consumes)"
 duration: "Instantaneous"
-classes: ["Cleric", "Paladin"]
+classes: ["Cleric", "Druid", "Paladin", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Revivify
 

@@ -9,7 +9,7 @@ duration: "1 round"
 classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Message
 

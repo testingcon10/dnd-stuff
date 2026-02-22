@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Druid"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Reincarnate
 

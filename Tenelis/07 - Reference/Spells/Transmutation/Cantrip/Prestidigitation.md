@@ -9,7 +9,7 @@ duration: "Up to 1 hour"
 classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Prestidigitation
 

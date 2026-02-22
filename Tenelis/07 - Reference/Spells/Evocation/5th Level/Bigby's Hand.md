@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Bigby's Hand
 

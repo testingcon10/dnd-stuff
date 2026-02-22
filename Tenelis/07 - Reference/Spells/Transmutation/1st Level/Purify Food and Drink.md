@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Cleric", "Druid", "Paladin"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Purify Food and Drink
 

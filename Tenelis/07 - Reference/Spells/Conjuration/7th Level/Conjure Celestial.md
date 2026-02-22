@@ -3,20 +3,17 @@ tags: [spell, reference]
 spell_level: 7
 school: "Conjuration"
 casting_time: "1 minute"
-range: "90 feet"
+range: "60 feet"
 components: "V, S"
-duration: "Concentration, up to 1 hour"
+duration: "Concentration, up to 10 minutes"
 classes: ["Cleric"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Conjure Celestial
 
-You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. [[The Celestial|The celestial]] is friendly to you and your companions for the duration and obeys any verbal commands you issue to it. If you don't issue any commands, the creature defends itself from hostile creatures but otherwise takes no actions.
-
-## At Higher Levels
-When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.
+You conjure a pillar of divine energy that fills a 20-foot-radius, 40-foot-high Cylinder centered on a point you can see within range. Each creature of your choice in the Cylinder when it appears regains Hit Points equal to 4d12 + your spellcasting ability modifier. Each creature of your choice that enters the Cylinder or starts its turn there also regains the same amount of Hit Points. Additionally, the Cylinder is Difficult Terrain for creatures of your choice.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20celestial_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20celestial_2024)

@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Cleric", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Animate Dead
 

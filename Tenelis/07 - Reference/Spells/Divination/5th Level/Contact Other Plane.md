@@ -9,7 +9,7 @@ duration: "1 minute"
 classes: ["Warlock", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Contact Other Plane
 

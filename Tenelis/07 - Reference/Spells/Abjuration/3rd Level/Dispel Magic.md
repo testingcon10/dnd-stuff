@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Cleric", "Druid", "Paladin", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Dispel Magic
 

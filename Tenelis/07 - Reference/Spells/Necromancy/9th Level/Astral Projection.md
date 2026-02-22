@@ -9,7 +9,7 @@ duration: "Special"
 classes: ["Cleric", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Astral Projection
 

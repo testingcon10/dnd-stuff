@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Cleric", "Paladin", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Magic Circle
 

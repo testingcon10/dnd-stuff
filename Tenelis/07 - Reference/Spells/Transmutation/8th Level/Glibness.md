@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Bard", "Warlock"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Glibness
 

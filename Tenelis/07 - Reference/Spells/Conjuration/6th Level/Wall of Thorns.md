@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Druid"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Wall of Thorns
 

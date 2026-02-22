@@ -9,7 +9,7 @@ duration: "10 minutes"
 classes: ["Bard", "Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Speak with Dead
 

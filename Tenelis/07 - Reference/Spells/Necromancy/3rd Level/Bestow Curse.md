@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Cleric", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Bestow Curse
 

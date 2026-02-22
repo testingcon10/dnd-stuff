@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Find Familiar
 

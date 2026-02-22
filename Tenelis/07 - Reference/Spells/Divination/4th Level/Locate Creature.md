@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Bard", "Cleric", "Druid", "Paladin", "Ranger", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Locate Creature
 

@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Cleric", "Druid", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Stone Shape
 

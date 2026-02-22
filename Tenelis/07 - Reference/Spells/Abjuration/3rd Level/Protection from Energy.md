@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Cleric", "Druid", "Ranger", "Sorcerer", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Protection from Energy
 

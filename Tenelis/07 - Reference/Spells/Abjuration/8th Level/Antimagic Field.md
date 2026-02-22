@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Cleric", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Antimagic Field
 

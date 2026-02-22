@@ -9,7 +9,7 @@ duration: "30 days"
 classes: ["Bard", "Cleric", "Druid", "Paladin", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Geas
 

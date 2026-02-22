@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Druid", "Ranger"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Commune with Nature
 

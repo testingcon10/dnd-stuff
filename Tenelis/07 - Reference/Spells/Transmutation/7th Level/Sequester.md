@@ -9,7 +9,7 @@ duration: "Until dispelled"
 classes: ["Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Sequester
 

@@ -9,7 +9,7 @@ duration: "24 hours"
 classes: ["Bard", "Druid", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Animal Friendship
 

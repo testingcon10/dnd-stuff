@@ -9,7 +9,7 @@ duration: "10 days"
 classes: ["Bard", "Warlock", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Illusory Script
 

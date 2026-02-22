@@ -5,15 +5,15 @@ school: "Evocation"
 casting_time: "1 bonus action"
 range: "Self"
 components: "V"
-duration: "Concentration, up to 1 minute"
+duration: "Instantaneous"
 classes: ["Paladin"]
 ritual: false
-concentration: true
-source: "PHB"
+concentration: false
+source: "2024"
 ---
 # Blinding Smite
 
-The next time you hit a creature with a melee weapon attack during this spell's duration, your weapon flares with bright light, and the attack deals an extra 3d8 radiant damage to the target. Additionally, the target must succeed on a Constitution saving throw or be blinded until the spell ends. A creature blinded by this spell makes another Constitution saving throw at the end of each of its turns, ending the effect on a success.
+Your weapon flares with bright light. The attack deals an extra 3d8 Radiant damage. Additionally, the target must succeed on a Constitution saving throw or have the Blinded condition until the spell ends. A creature Blinded by this spell makes a Constitution saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blinding%20smite_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blinding%20smite_2024)

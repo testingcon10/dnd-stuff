@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Druid", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Goodberry
 

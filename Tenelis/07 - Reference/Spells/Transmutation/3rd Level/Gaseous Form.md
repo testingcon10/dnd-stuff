@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Gaseous Form
 

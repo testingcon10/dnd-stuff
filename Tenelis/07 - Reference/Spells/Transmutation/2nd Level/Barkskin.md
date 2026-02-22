@@ -2,18 +2,18 @@
 tags: [spell, reference]
 spell_level: 2
 school: "Transmutation"
-casting_time: "1 action"
+casting_time: "1 bonus action"
 range: "Touch"
 components: "V, S, M (a handful of oak bark)"
-duration: "Concentration, up to 1 hour"
+duration: "1 hour"
 classes: ["Druid", "Ranger"]
 ritual: false
-concentration: true
-source: "PHB"
+concentration: false
+source: "2024"
 ---
 # Barkskin
 
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target's AC can't be less than 16, regardless of what kind of armor it is wearing.
+You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target has an AC of 17 if its AC is lower than that.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#barkskin_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#barkskin_2024)

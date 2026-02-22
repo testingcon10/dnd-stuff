@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Sorcerer", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Alter Self
 

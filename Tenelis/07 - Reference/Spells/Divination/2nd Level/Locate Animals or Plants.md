@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Druid", "Ranger"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Locate Animals or Plants
 

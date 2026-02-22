@@ -9,7 +9,7 @@ duration: "10 days"
 classes: ["Cleric", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Gentle Repose
 

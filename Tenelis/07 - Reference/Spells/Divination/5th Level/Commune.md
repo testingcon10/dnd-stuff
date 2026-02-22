@@ -9,7 +9,7 @@ duration: "1 minute"
 classes: ["Cleric"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Commune
 

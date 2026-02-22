@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Cleric", "Druid", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Control Water
 

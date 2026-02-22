@@ -9,7 +9,7 @@ duration: "1 round"
 classes: ["Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Guiding Bolt
 

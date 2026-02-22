@@ -9,7 +9,7 @@ duration: "8 hours"
 classes: ["Sorcerer", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Mage Armor
 

@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Cleric", "Paladin", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Banishment
 

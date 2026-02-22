@@ -3,17 +3,19 @@ tags: [spell, reference]
 spell_level: 0
 school: "Divination"
 casting_time: "1 action"
-range: "30 feet"
-components: "S"
-duration: "Concentration, up to 1 round"
+range: "Self"
+components: "S, M (a weapon with which you have proficiency and that is worth 1+ CP)"
+duration: "Instantaneous"
 classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
-concentration: true
-source: "PHB"
+concentration: false
+source: "2024"
 ---
 # True Strike
 
-You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.
+Guided by a flash of magical insight, you make one attack with the weapon used in the spell's casting. The attack uses your spellcasting ability modifier for the attack and damage rolls. If the attack deals damage, it can be Radiant damage or the weapon's normal damage type (your choice).
+
+This spell's damage increases when you reach certain levels. At 5th level, the attack deals an extra 1d6 Radiant damage. The extra damage increases by 1d6 at 11th level (2d6) and 17th level (3d6).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20strike_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20strike_2024)

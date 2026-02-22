@@ -9,7 +9,7 @@ duration: "Until dispelled"
 classes: ["Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Hallow
 

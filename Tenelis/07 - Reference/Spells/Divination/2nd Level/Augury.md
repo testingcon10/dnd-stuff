@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Cleric"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Augury
 

@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Warlock"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Eldritch Blast
 

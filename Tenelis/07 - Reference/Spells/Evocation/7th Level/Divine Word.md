@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Divine Word
 

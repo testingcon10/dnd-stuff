@@ -9,7 +9,7 @@ duration: "Until dispelled or triggered"
 classes: ["Bard", "Cleric", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Symbol
 

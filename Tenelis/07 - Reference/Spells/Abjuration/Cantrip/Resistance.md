@@ -2,18 +2,18 @@
 tags: [spell, reference]
 spell_level: 0
 school: "Abjuration"
-casting_time: "1 action"
-range: "Touch"
+casting_time: "1 reaction (when you or an ally within 10 feet fails a saving throw)"
+range: "10 feet"
 components: "V, S, M (a miniature cloak)"
-duration: "Concentration, up to 1 minute"
+duration: "Instantaneous"
 classes: ["Cleric", "Druid"]
 ritual: false
-concentration: true
-source: "PHB"
+concentration: false
+source: "2024"
 ---
 # Resistance
 
-You touch one willing creature. Once before the spell ends, the target can roll a d4 and add the number rolled to one saving throw of its choice. It can roll the die before or after making the saving throw. The spell then ends.
+You channel divine protection. When you or an ally within 10 feet of you fails a saving throw, you can use your Reaction to add 1d4 to the save, potentially turning the failure into a success.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#resistance_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#resistance_2024)

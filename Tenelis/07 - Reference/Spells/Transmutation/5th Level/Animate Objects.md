@@ -9,14 +9,14 @@ duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Animate Objects
 
-Objects come to life at your command. You can animate up to ten nonmagical Small or smaller objects within range, or fewer larger objects: one Huge, two Large, or five Medium. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points. As a bonus action, you can mentally command any creature you made with this spell within 500 feet. Animated objects use specific stat blocks based on their size, with Tiny objects having +8 to hit and dealing 1d4+4 damage per attack.
+Objects come to life at your command. Choose up to ten nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, and Huge targets count as eight objects. You can't animate an object larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 Hit Points. The animated objects act on your turn and use a simple stat block based on their size.
 
 ## At Higher Levels
-If you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
+When you cast this spell using a spell slot of 6th level or higher, you can animate two additional objects for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animate%20objects_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animate%20objects_2024)

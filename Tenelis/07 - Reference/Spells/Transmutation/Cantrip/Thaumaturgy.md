@@ -9,7 +9,7 @@ duration: "Up to 1 minute"
 classes: ["Cleric"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Thaumaturgy
 

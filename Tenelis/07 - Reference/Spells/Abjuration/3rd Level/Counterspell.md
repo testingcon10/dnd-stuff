@@ -9,14 +9,14 @@ duration: "Instantaneous"
 classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Counterspell
 
-You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability (DC = 10 + the spell's level). On a success, the spell fails.
+You attempt to interrupt a creature in the process of casting a spell. The creature must make a Constitution saving throw. On a failed save, the creature's spell fails and has no effect.
 
 ## At Higher Levels
 When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is equal to or less than the level of the spell slot you used.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#counterspell_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#counterspell_2024)

@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Otto's Irresistible Dance
 

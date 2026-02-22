@@ -9,7 +9,7 @@ duration: "Up to 8 hours"
 classes: ["Bard", "Cleric", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Etherealness
 

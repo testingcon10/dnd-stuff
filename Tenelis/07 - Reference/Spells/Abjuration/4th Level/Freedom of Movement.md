@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Bard", "Cleric", "Druid", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Freedom of Movement
 

@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Witch Bolt
 

@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Bard", "Cleric", "Druid"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Regenerate
 

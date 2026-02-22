@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 day"
 classes: ["Bard", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Project Image
 

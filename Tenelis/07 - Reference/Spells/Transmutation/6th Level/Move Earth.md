@@ -9,7 +9,7 @@ duration: "Concentration, up to 2 hours"
 classes: ["Druid", "Sorcerer", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Move Earth
 

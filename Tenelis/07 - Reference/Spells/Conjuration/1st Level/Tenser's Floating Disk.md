@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Tenser's Floating Disk
 

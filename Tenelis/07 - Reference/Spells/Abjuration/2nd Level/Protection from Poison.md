@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Cleric", "Druid", "Paladin", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Protection from Poison
 

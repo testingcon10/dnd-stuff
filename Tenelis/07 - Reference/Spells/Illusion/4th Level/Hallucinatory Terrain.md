@@ -9,7 +9,7 @@ duration: "24 hours"
 classes: ["Bard", "Druid", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Hallucinatory Terrain
 

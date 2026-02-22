@@ -9,7 +9,7 @@ duration: "10 minutes"
 classes: ["Bard", "Cleric", "Paladin"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Zone of Truth
 

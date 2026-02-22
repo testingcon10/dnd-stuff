@@ -9,7 +9,7 @@ duration: "8 hours"
 classes: ["Cleric", "Paladin"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Death Ward
 

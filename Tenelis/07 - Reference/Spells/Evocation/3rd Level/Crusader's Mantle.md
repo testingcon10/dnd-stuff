@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 minute"
 classes: ["Paladin"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Crusader's Mantle
 

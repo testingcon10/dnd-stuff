@@ -3,7 +3,7 @@
 Cross-link all entity references across the Tenelis Obsidian vault.
 
 Scans every .md file and replaces plain-text entity names with [[wikilinks]].
-Entities are collected from: Spells, Classes, Races, Conditions, Feats, Items, Subclasses.
+Entities are collected from: Spells, Classes (with subclasses), Races, Conditions, Feats, Items.
 """
 
 import os
@@ -15,19 +15,17 @@ import uuid
 VAULT_ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Tenelis")
 
 ENTITY_DIRS = [
-    "07 - Reference/Classes",
     "07 - Reference/Conditions",
     "07 - Reference/Feats",
 ]
 
 # Directories that contain nested subdirectories of .md entity files
 RECURSIVE_ENTITY_DIRS = [
+    "07 - Reference/Classes",
     "07 - Reference/Items",
     "07 - Reference/Spells",
     "07 - Reference/Races",
 ]
-
-SUBCLASS_DIR = "07 - Reference/Subclasses"
 
 # Slash-variant aliases: filename uses hyphen, but text may use slash
 SLASH_ALIASES = {
@@ -59,6 +57,7 @@ SKIP_ENTITIES = {
     "Gate",          # spell — common English word
     "Alarm",         # spell — common English word
     "Light",         # cantrip — "Light crossbows", "Light armor", "bright light"
+    "Befuddlement",  # spell — common English word for confusion
     # Mundane weapon/armor names that cause false-positive wikilinks:
     "Shield",        # item — "shield" appears in many item/spell descriptions
     "Club",          # item — common English word
@@ -101,19 +100,6 @@ def build_entity_dict():
             continue
         for root, _dirs, files in os.walk(full_dir):
             for fname in files:
-                if fname.endswith(".md"):
-                    name = fname[:-3]
-                    if name not in SKIP_ENTITIES:
-                        entities[name] = name
-
-    # Subclasses (nested one level: Subclasses/<Class>/<Subclass>.md)
-    sub_root = os.path.join(VAULT_ROOT, SUBCLASS_DIR)
-    if os.path.isdir(sub_root):
-        for class_dir in os.listdir(sub_root):
-            class_path = os.path.join(sub_root, class_dir)
-            if not os.path.isdir(class_path):
-                continue
-            for fname in os.listdir(class_path):
                 if fname.endswith(".md"):
                     name = fname[:-3]
                     if name not in SKIP_ENTITIES:

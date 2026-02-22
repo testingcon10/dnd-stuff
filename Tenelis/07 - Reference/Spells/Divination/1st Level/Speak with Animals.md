@@ -9,7 +9,7 @@ duration: "10 minutes"
 classes: ["Bard", "Druid", "Ranger"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Speak with Animals
 

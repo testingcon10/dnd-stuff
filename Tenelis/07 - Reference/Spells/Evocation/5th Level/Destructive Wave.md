@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Paladin"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Destructive Wave
 

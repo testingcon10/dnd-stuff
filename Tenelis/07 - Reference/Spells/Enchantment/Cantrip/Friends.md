@@ -9,11 +9,11 @@ duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Friends
 
-For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you.
+You magically emanate a sense of friendship toward one visible creature within range. The target must succeed on a Wisdom saving throw or be Charmed by you for the duration. The Charmed creature is friendly to you. When the spell ends, the creature knows it was Charmed by you.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#friends_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#friends_2024)

@@ -9,7 +9,7 @@ duration: "1 hour"
 classes: ["Bard", "Warlock", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Unseen Servant
 

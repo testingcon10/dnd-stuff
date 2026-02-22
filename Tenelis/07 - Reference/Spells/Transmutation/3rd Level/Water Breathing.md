@@ -9,7 +9,7 @@ duration: "24 hours"
 classes: ["Druid", "Ranger", "Sorcerer", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Water Breathing
 

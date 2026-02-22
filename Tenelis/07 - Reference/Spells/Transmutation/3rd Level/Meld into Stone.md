@@ -9,7 +9,7 @@ duration: "8 hours"
 classes: ["Cleric", "Druid"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Meld into Stone
 

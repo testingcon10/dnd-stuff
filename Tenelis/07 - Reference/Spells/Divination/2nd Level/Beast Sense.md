@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 hour"
 classes: ["Druid", "Ranger"]
 ritual: true
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Beast Sense
 

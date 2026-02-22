@@ -9,7 +9,7 @@ duration: "1 minute"
 classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Minor Illusion
 

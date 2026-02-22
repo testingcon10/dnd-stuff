@@ -9,7 +9,7 @@ duration: "Until dispelled"
 classes: ["Bard", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Magic Mouth
 

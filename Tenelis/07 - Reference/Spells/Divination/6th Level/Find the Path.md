@@ -9,7 +9,7 @@ duration: "Concentration, up to 1 day"
 classes: ["Bard", "Cleric", "Druid"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Find the Path
 

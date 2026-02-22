@@ -9,7 +9,7 @@ duration: "8 hours"
 classes: ["Bard", "Ranger", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Nondetection
 

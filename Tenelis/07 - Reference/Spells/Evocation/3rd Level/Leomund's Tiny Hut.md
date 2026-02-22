@@ -9,7 +9,7 @@ duration: "8 hours"
 classes: ["Bard", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Leomund's Tiny Hut
 

@@ -1,0 +1,22 @@
+---
+tags: [spell, reference]
+spell_level: 6
+school: "Abjuration"
+casting_time: "1 action"
+range: "60 feet"
+components: "V, S"
+duration: "Instantaneous"
+classes: ["Cleric", "Druid"]
+ritual: false
+concentration: false
+source: "2024"
+---
+# Heal
+
+Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. This spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on undead or constructs.
+
+## At Higher Levels
+When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.
+
+---
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#heal_phb)

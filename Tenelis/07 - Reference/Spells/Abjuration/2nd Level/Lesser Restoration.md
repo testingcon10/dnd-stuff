@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Cleric", "Druid", "Paladin", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Lesser Restoration
 

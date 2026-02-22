@@ -9,7 +9,7 @@ duration: "10 minutes"
 classes: ["Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Fire Shield
 

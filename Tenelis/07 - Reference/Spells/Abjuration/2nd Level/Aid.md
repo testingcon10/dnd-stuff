@@ -6,10 +6,10 @@ casting_time: "1 action"
 range: "30 feet"
 components: "V, S, M (a tiny strip of white cloth)"
 duration: "8 hours"
-classes: ["Cleric", "Paladin"]
+classes: ["Bard", "Cleric", "Druid", "Paladin", "Ranger"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Aid
 

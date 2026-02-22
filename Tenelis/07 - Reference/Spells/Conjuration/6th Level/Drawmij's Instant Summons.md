@@ -9,7 +9,7 @@ duration: "Until dispelled"
 classes: ["Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Drawmij's Instant Summons
 

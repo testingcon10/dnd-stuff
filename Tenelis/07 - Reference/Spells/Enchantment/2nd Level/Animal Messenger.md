@@ -9,7 +9,7 @@ duration: "24 hours"
 classes: ["Bard", "Druid", "Ranger"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Animal Messenger
 

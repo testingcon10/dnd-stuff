@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Cleric", "Paladin"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Raise Dead
 

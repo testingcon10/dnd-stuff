@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Bard", "Cleric", "Ranger"]
 ritual: true
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Silence
 

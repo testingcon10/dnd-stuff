@@ -9,7 +9,7 @@ duration: "24 hours"
 classes: ["Bard", "Cleric", "Druid", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Planar Binding
 

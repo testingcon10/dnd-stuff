@@ -9,7 +9,7 @@ duration: "1 minute"
 classes: ["Druid"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Shillelagh
 

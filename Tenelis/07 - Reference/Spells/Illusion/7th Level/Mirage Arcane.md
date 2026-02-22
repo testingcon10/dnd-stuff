@@ -9,7 +9,7 @@ duration: "10 days"
 classes: ["Bard", "Druid", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Mirage Arcane
 

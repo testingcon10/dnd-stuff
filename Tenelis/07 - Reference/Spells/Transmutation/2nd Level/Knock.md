@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Knock
 

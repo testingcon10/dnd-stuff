@@ -9,7 +9,7 @@ duration: "10 days"
 classes: ["Druid", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Antipathy/Sympathy
 

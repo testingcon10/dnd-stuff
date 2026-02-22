@@ -6,10 +6,10 @@ casting_time: "1 action"
 range: "Touch"
 components: "V, S, M (holy water or powdered silver and iron, which the spell consumes)"
 duration: "Concentration, up to 10 minutes"
-classes: ["Cleric", "Paladin", "Warlock", "Wizard"]
+classes: ["Cleric", "Druid", "Paladin", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Protection from Evil and Good
 

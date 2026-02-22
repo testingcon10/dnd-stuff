@@ -6,10 +6,10 @@ casting_time: "1 action"
 range: "60 feet"
 components: "V"
 duration: "1 round"
-classes: ["Cleric", "Paladin"]
+classes: ["Bard", "Cleric", "Paladin"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Command
 

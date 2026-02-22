@@ -9,7 +9,7 @@ duration: "1 minute"
 classes: ["Bard", "Cleric", "Sorcerer", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Blindness/Deafness
 

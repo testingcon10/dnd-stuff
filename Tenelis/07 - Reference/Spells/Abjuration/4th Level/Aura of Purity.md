@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Paladin"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Aura of Purity
 

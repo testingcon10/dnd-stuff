@@ -3,20 +3,19 @@ tags: [spell, reference]
 spell_level: 0
 school: "Necromancy"
 casting_time: "1 action"
-range: "120 feet"
+range: "Touch"
 components: "V, S"
 duration: "1 round"
 classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Chill Touch
 
-You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to deal 1d8 necrotic damage. The target can't regain hit points until the start of your next turn. If you hit an undead target, it also has disadvantage on attack rolls against you until the end of your next turn.
+You touch one creature and channel necrotic energy into it. The target must succeed on a Constitution saving throw or take 1d10 Necrotic damage. If the target is an Undead, it also has Disadvantage on attack rolls against you until the end of your next turn.
 
-## At Higher Levels
-This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+This spell's damage increases by 1d10 when you reach 5th level (2d10), 11th level (3d10), and 17th level (4d10).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chill%20touch_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chill%20touch_2024)

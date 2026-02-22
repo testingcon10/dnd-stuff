@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Major Image
 

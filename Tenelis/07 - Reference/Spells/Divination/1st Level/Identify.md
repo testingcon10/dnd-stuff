@@ -9,7 +9,7 @@ duration: "Instantaneous"
 classes: ["Bard", "Wizard"]
 ritual: true
 concentration: false
-source: "PHB"
+source: "2024"
 ---
 # Identify
 

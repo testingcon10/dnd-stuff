@@ -9,7 +9,7 @@ duration: "Concentration, up to 10 minutes"
 classes: ["Druid", "Ranger"]
 ritual: false
 concentration: true
-source: "PHB"
+source: "2024"
 ---
 # Spike Growth
 
