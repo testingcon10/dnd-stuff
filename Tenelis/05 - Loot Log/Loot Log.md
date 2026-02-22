@@ -8,8 +8,8 @@ tags: [loot, tracking]
 ## Active Loot
 
 | Item | Qty | Held By | Acquired (Session) | Notes |
-|------|-----|---------|---------------------|-------|
-|      |     |         |                     |       |
+| ---- | --- | ------- | ------------------ | ----- |
+|      |     |         |                    |       |
 
 ## Sold / Used / Lost Items
 
