@@ -7,6 +7,8 @@ tags: [dashboard]
 
 > [!abstract] Welcome
 > Campaign dashboard for the **Tenelis** D&D 5e campaign. Use the links below to navigate the vault.
+>
+> **Sync test — if you can see this, auto-pull is working!**
 
 ---
 
