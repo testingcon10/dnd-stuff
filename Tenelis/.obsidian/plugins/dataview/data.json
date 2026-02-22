@@ -1,0 +1,15 @@
+{
+  "renderNullAs": "---",
+  "warnOnEmptyResult": true,
+  "refreshEnabled": true,
+  "refreshInterval": 2500,
+  "defaultDateFormat": "MMMM dd, yyyy",
+  "maxRecursiveRenderDepth": 4,
+  "tableIdColumnName": "File",
+  "showResultCount": true,
+  "allowHtml": false,
+  "inlineQueryPrefix": "=",
+  "enableDataviewJs": false,
+  "enableInlineDataviewJs": false,
+  "enableInlineDataview": true
+}

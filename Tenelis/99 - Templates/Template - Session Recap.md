@@ -3,6 +3,7 @@ aliases: []
 tags: [session]
 session_number:
 session_date: {{date:YYYY-MM-DD}}
+in_game_day: ""
 players_present: []
 ---
 

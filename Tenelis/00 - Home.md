@@ -7,20 +7,17 @@ tags: [dashboard]
 
 > [!abstract] Welcome
 > Campaign dashboard for the **Tenelis** D&D 5e campaign. Use the links below to navigate the vault.
->
-> **Sync test — if you can see this, auto-pull is working!**
 
 ---
 
 ## Party
 
-| # | Character | Player | Race | Class | Level |
-|---|-----------|--------|------|-------|-------|
-| 1 | — | — | — | — | — |
-| 2 | — | — | — | — | — |
-| 3 | — | — | — | — | — |
-| 4 | — | — | — | — | — |
-| 5 | — | — | — | — | — |
+```dataview
+TABLE character_name AS "Character", player AS "Player", race AS "Race", class AS "Class", level AS "Level"
+FROM "01 - Party"
+WHERE character_name != ""
+SORT file.name ASC
+```
 
 > [!tip] Character Sheets
 > [[Character Sheet 1]] · [[Character Sheet 2]] · [[Character Sheet 3]] · [[Character Sheet 4]] · [[Character Sheet 5]]
@@ -29,20 +26,34 @@ tags: [dashboard]
 
 ## Sessions
 
-> [!note] Session Log
-> [[Session 000 - Example|Session 000 — Example]]
->
+```dataview
+TABLE session_number AS "Session #", session_date AS "Date", players_present AS "Players Present"
+FROM "02 - Sessions"
+SORT session_number DESC
+```
+
 > *Create new session recaps using the **Template - Session Recap** template (Ctrl+T).*
 
 ---
 
-## Quests & NPCs
+## Active Quests
 
-> [!quest] Active Quests
-> *No active quests yet. Create quests from the **Template - Quest** template.*
+```dataview
+TABLE WITHOUT ID file.link AS "Quest", quest_giver AS "Quest Giver", location AS "Location", reward AS "Reward"
+FROM "03 - Quests"
+WHERE status = "active"
+SORT file.name ASC
+```
 
-> [!people] Key NPCs
-> *No NPCs logged yet. Create NPC pages from the **Template - NPC** template.*
+---
+
+## NPCs
+
+```dataview
+TABLE race AS "Race", location AS "Location", status AS "Status", attitude AS "Attitude"
+FROM "04 - NPCs"
+SORT file.name ASC
+```
 
 ---
 
@@ -56,7 +67,7 @@ tags: [dashboard]
 ## World
 
 > [!map] World Building
-> **[[06 - World/Locations/|Locations]]** · **[[06 - World/Factions/|Factions]]** · **[[06 - World/Lore/|Lore]]**
+> **[[06 - World/World Map|World Map]]** · **[[06 - World/Locations/|Locations]]** · **[[06 - World/Factions/|Factions]]** · **[[06 - World/Lore/|Lore]]**
 >
 > *Add world-building notes as the campaign unfolds.*
 
@@ -100,4 +111,4 @@ tags: [dashboard]
 
 > [!info] Templates
 > Use **Ctrl+T** (or Cmd+T on Mac) to insert a template when creating new notes.
-> Available templates: Character Sheet, Session Recap, Quest, NPC, Spell, Item, Feat
+> Available templates: Character Sheet, Session Recap, Quest, NPC, Spell, Item, Feat, Location, Map
