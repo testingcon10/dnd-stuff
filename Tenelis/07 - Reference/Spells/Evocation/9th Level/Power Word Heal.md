@@ -1,19 +1,19 @@
 ---
 tags: [spell, reference]
 spell_level: 9
-school: "Evocation"
+school: "Enchantment"
 casting_time: "1 action"
-range: "Touch"
+range: "60 feet"
 components: "V, S"
 duration: "Instantaneous"
-classes: ["Bard"]
+classes: ["Bard", "Cleric"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Power Word Heal
 
-A wave of healing energy washes over the creature you touch. The target regains all its hit points. If the creature is charmed, frightened, paralyzed, or stunned, the condition ends. If the creature is prone, it can use its reaction to stand up. This spell has no effect on undead or constructs.
+A wave of healing energy washes over one creature you can see within range. The target regains all its Hit Points. If the creature has the [[Charmed]], [[Frightened]], [[Paralyzed]], [[Poisoned]], or [[Stunned]] condition, the condition ends. If the creature has the [[Prone]] condition, it can use its Reaction to stand up.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#power%20word%20heal_xphb)

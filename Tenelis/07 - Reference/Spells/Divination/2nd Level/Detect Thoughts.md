@@ -4,7 +4,7 @@ spell_level: 2
 school: "Divination"
 casting_time: "1 action"
 range: "Self"
-components: "V, S, M (a copper piece)"
+components: "V, S, M (1 Copper Piece)"
 duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
@@ -13,7 +13,13 @@ source: "2024"
 ---
 # Detect Thoughts
 
-For the duration, you can read the thoughts of certain creatures. When you cast the spell and as your action on each turn, you can focus your mind on any one creature that you can see within 30 feet. If the chosen creature has an Intelligence of 3 or lower or doesn't speak any language, it is unaffected. You initially learn the surface thoughts of the creature. As an action, you can probe deeper, forcing the target to make a Wisdom saving throw; on a failure, you gain insight into its reasoning, emotional state, and something that looms large in its mind.
+You activate one of the effects below. Until the spell ends, you can activate either effect as a Magic action on your later turns.
+
+**Sense Thoughts.** You sense the presence of thoughts within 30 feet of yourself that belong to creatures that know languages or are telepathic. You don't read the thoughts, but you know that a thinking creature is present.
+The spell is blocked by 1 foot of stone, dirt, or wood; 1 inch of metal; or a thin sheet of lead.
+
+**Read Thoughts.** Target one creature you can see within 30 feet of yourself or one creature within 30 feet of yourself that you detected with the Sense Thoughts option. You learn what is most on the target's mind right now. If the target doesn't know any languages and isn't telepathic, you learn nothing.
+As a Magic action on your next turn, you can try to probe deeper into the target's mind. If you probe deeper, the target makes a Wisdom saving throw. On a failed save, you discern the target's reasoning, emotions, and something that looms large in its mind (such as a worry, love, or hate). On a successful save, the spell ends. Either way, the target knows that you are probing into its mind, and until you shift your attention away from the target's mind, the target can take an action on its turn to make an Intelligence ([[Arcana]]) check against your spell save DC, ending the spell on a success.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#detect%20thoughts_xphb)

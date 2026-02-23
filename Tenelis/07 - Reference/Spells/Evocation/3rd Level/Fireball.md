@@ -4,7 +4,7 @@ spell_level: 3
 school: "Evocation"
 casting_time: "1 action"
 range: "150 feet"
-components: "V, S, M (a tiny ball of bat guano and sulfur)"
+components: "V, S, M (a ball of bat guano and sulfur)"
 duration: "Instantaneous"
 classes: ["Sorcerer", "Wizard"]
 ritual: false
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Fireball
 
-A bright streak flashes from your pointing finger to a point you choose within range and then blossoms with a low roar into an explosion of flame. Each creature in a 20-foot-radius sphere must make a Dexterity saving throw, taking 8d6 fire damage on a failed save, or half as much on a success. The fire ignites flammable objects not being worn or carried.
+A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.
+Flammable objects in the area that aren't being worn or carried start burning.
 
 ## At Higher Levels
-Damage increases by 1d6 for each slot level above 3rd.
+The damage increases by 1d6 for each spell slot level above 3.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fireball_xphb)

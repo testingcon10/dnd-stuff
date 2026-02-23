@@ -5,7 +5,7 @@ school: "Transmutation"
 casting_time: "1 action"
 range: "30 feet"
 components: "V"
-duration: "Up to 1 minute"
+duration: "1 minute"
 classes: ["Cleric"]
 ritual: false
 concentration: false
@@ -13,7 +13,19 @@ source: "2024"
 ---
 # Thaumaturgy
 
-You manifest a minor wonder, a sign of supernatural power: boom your voice up to three times normal, cause flames to flicker/brighten/dim/change color, cause harmless tremors, create an instant sound, cause a door or window to fly open or slam shut, or alter the appearance of your eyes. You can have up to three effects active at a time.
+You manifest a minor wonder within range. You create one of the effects below within range. If you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time.
+
+**Altered Eyes.** You alter the appearance of your eyes for 1 minute.
+
+**Booming Voice.** Your voice booms up to three times as loud as normal for 1 minute. For the duration, you have Advantage on Charisma ([[Intimidation]]) checks.
+
+**Fire Play.** You cause flames to flicker, brighten, dim, or change color for 1 minute.
+
+**Invisible Hand.** You instantaneously cause an unlocked door or window to fly open or slam shut.
+
+**Phantom Sound.** You create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.
+
+**Tremors.** You cause harmless tremors in the ground for 1 minute.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#thaumaturgy_xphb)

@@ -4,19 +4,20 @@ spell_level: 6
 school: "Enchantment"
 casting_time: "1 action"
 range: "60 feet"
-components: "V, M (a snake's tongue and either a bit of honeycomb or a drop of sweet oil)"
+components: "V, M (a snake's tongue)"
 duration: "24 hours"
-classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
+classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Mass Suggestion
 
-You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures of your choice that you can see within range and that can hear and understand you. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Each target that fails a Wisdom saving throw pursues the course of action you described to the best of its ability for the duration.
+You suggest a course of activity—described in no more than 25 words—to twelve or fewer creatures you can see within range that can hear and understand you. The suggestion must sound achievable and not involve anything that would obviously deal damage to any of the targets or their allies. For example, you could say, "Walk to the village down that road, and help the villagers there harvest crops until sunset." Or you could say, "Now is not the time for violence. Drop your weapons, and dance! Stop in an hour."
+Each target must succeed on a Wisdom saving throw or have the [[Charmed]] condition for the duration or until you or your allies deal damage to the target. Each [[Charmed]] target pursues the suggestion to the best of its ability. The suggested activity can continue for the entire duration, but if the suggested activity can be completed in a shorter time, the spell ends for a target upon completing it.
 
 ## At Higher Levels
-When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
+The duration is longer with a spell slot of level 7 (10 days), 8 (30 days), or 9 (366 days).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20suggestion_xphb)

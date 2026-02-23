@@ -4,19 +4,30 @@ spell_level: 5
 school: "Illusion"
 casting_time: "1 minute"
 range: "30 feet"
-components: "V, S, M (a tiny piece of matter of the same type of the item you plan to create)"
+components: "V, S, M (a paintbrush)"
 duration: "Special"
-classes: ["Sorcerer", "Wizard"]
+classes: ["Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Creation
 
-You pull wisps of shadow material from the Shadowfell to create a nonliving object of vegetable matter within range: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 5-foot cube. The duration depends on the material: vegetable matter lasts 1 day, stone or crystal lasts 12 hours, precious metals last 1 hour, gems last 10 minutes, and adamantine or mithral lasts 1 minute.
+You pull wisps of shadow material from the Shadowfell to create an object within range. It is either an object of vegetable matter (soft goods, rope, wood, and the like) or mineral matter (stone, crystal, metal, and the like). The object must be no larger than a 5-foot Cube, and the object must be of a form and material that you have seen.
+The spell's duration depends on the object's material, as shown in the Materials table. If the object is composed of multiple materials, use the shortest duration. Using any object created by this spell as another spell's Material component causes the other spell to fail.
+
+**Materials**
+
+| Material | Duration |
+| --- | --- |
+| Vegetable matter | 24 hours |
+| Stone or crystal | 12 hours |
+| Precious metals | 1 hour |
+| Gems | 10 minutes |
+| Adamantine or mithral | 1 minute |
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the cube increases by 5 feet for each slot level above 5th.
+The Cube increases by 5 feet for each spell slot level above 5.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#creation_xphb)

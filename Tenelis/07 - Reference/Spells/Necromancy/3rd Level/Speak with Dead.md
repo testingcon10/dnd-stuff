@@ -6,14 +6,15 @@ casting_time: "1 action"
 range: "10 feet"
 components: "V, S, M (burning incense)"
 duration: "10 minutes"
-classes: ["Bard", "Cleric"]
+classes: ["Bard", "Cleric", "Wizard"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Speak with Dead
 
-You grant the semblance of life and intelligence to a corpse of your choice within range, allowing it to answer up to five questions during the duration. The corpse must still have a mouth and can't be undead. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are hostile to it or it recognizes you as an enemy.
+You grant the semblance of life to a corpse of your choice within range, allowing it to answer questions you pose. The corpse must have a mouth, and this spell fails if the deceased creature was Undead when it died. The spell also fails if the corpse was the target of this spell within the past 10 days.
+Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it knew. Answers are usually brief, cryptic, or repetitive, and the corpse is under no compulsion to offer a truthful answer if you are antagonistic toward it or it recognizes you as an enemy. This spell doesn't return the creature's soul to its body, only its animating spirit. Thus, the corpse can't learn new information, doesn't comprehend anything that has happened since it died, and can't speculate about future events.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#speak%20with%20dead_xphb)

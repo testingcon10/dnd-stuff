@@ -5,7 +5,7 @@ school: "Conjuration"
 casting_time: "1 action"
 range: "10 feet"
 components: "V, S"
-duration: "1 round"
+duration: "10 minutes"
 classes: ["Druid"]
 ritual: false
 concentration: false

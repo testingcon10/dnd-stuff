@@ -3,7 +3,7 @@ tags: [spell, reference]
 spell_level: 9
 school: "Conjuration"
 casting_time: "1 action"
-range: "Sight"
+range: "1 mile"
 components: "V, S"
 duration: "Concentration, up to 1 minute"
 classes: ["Druid"]
@@ -13,7 +13,16 @@ source: "2024"
 ---
 # Storm of Vengeance
 
-A churning storm cloud forms centered on a point you can see, spreading to a radius of 360 feet. Each round the storm produces different effects: thunder and lightning on round 1, acid rain on round 2, lightning bolts on round 3, hailstones on round 4, and cold, wind, and lightning on rounds 5 through 10. Each creature under the cloud must make saving throws against the various effects, taking significant damage of different types each round.
+A churning storm cloud forms for the duration, centered on a point within range and spreading to a radius of 300 feet. Each creature under the cloud when it appears must succeed on a Constitution saving throw or take 2d6 Thunder damage and have the [[Deafened]] condition for the duration.
+At the start of each of your later turns, the storm produces different effects, as detailed below.
+
+**Turn 2.** Acidic rain falls. Each creature and object under the cloud takes 4d6 Acid damage.
+
+**Turn 3.** You call six bolts of lightning from the cloud to strike six different creatures or objects beneath it. Each target makes a Dexterity saving throw, taking 10d6 Lightning damage on a failed save or half as much damage on a successful one.
+
+**Turn 4.** Hailstones rain down. Each creature under the cloud takes 2d6 Bludgeoning damage.
+
+**Turns 5-10.** Gusts and freezing rain assail the area under the cloud. Each creature there takes 1d6 Cold damage. Until the spell ends, the area is Difficult Terrain and Heavily Obscured, ranged attacks with weapons are impossible there, and strong wind blows through the area.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#storm%20of%20vengeance_xphb)

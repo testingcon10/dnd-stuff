@@ -1,10 +1,10 @@
 ---
 tags: [spell, reference]
 spell_level: 6
-school: "Evocation"
+school: "Abjuration"
 casting_time: "10 minutes"
 range: "Self"
-components: "V, S, M (a statuette of yourself carved from ivory and decorated with gems worth at least 1,500 gp)"
+components: "V, S, M (a gem-encrusted statuette of yourself worth 1,500+ GP)"
 duration: "10 days"
 classes: ["Wizard"]
 ritual: false
@@ -13,7 +13,9 @@ source: "2024"
 ---
 # Contingency
 
-Choose a spell of [[5th Level|5th level]] or lower that you can cast, that has a casting time of 1 action, and that can target you. You cast that spell as part of casting contingency, expending spell slots for both, but the contingent spell doesn't take effect immediately. Instead, it takes effect when a certain circumstance occurs, which you describe when casting the two spells. You can have only one contingency spell active at a time.
+Choose a spell of level 5 or lower that you can cast, that has a casting time of an action, and that can target you. You cast that spell—called the contingent spell—as part of casting Contingency, expending spell slots for both, but the contingent spell doesn't come into effect. Instead, it takes effect when a certain trigger occurs. You describe that trigger when you cast the two spells. For example, a Contingency cast with [[Water Breathing]] might stipulate that [[Water Breathing]] comes into effect when you are engulfed in water or a similar liquid.
+The contingent spell takes effect immediately after the trigger occurs for the first time, whether or not you want it to, and then Contingency ends.
+The contingent spell takes effect only on you, even if it can normally target others. You can use only one Contingency spell at a time. If you cast this spell again, the effect of another Contingency spell on you ends. Also, Contingency ends on you if its material component is ever not on your person.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#contingency_xphb)

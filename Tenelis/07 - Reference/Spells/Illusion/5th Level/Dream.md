@@ -3,8 +3,8 @@ tags: [spell, reference]
 spell_level: 5
 school: "Illusion"
 casting_time: "1 minute"
-range: "Special"
-components: "V, S, M (a handful of sand, a dab of ink, and a writing quill plucked from a sleeping bird)"
+range: "Self"
+components: "V, S, M (a handful of sand)"
 duration: "8 hours"
 classes: ["Bard", "Warlock", "Wizard"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Dream
 
-This spell shapes a creature's dreams. You choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. You, or a willing creature you touch, enters a trance state and acts as a messenger, appearing in the target's dreams to converse with it. The messenger can also shape the dream's environment, creating landscapes, objects, and other images. If the target is unaware that the messenger is present, the messenger can cause the target to make a Wisdom save or have a nightmare that deals 3d6 psychic damage and prevents it from gaining benefit from the rest.
+You target a creature you know on the same plane of existence. You or a willing creature you touch enters a trance state to act as a dream messenger. While in the trance, the messenger is [[Incapacitated]] and has a Speed of 0.
+If the target is asleep, the messenger appears in the target's dreams and can converse with the target as long as it remains asleep, through the spell's duration. The messenger can also shape the dream's environment, creating landscapes, objects, and other images. The messenger can emerge from the trance at any time, ending the spell. The target recalls the dream perfectly upon waking.
+If the target is awake when you cast the spell, the messenger knows it and can either end the trance (and the spell) or wait for the target to sleep, at which point the messenger enters its dreams.
+You can make the messenger terrifying to the target. If you do so, the messenger can deliver a message of no more than ten words, and then the target makes a Wisdom saving throw. On a failed save, the target gains no benefit from its rest, and it takes 3d6 Psychic damage when it wakes up.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dream_xphb)

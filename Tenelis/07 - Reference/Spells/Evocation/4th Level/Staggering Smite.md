@@ -1,7 +1,7 @@
 ---
 tags: [spell, reference]
 spell_level: 4
-school: "Evocation"
+school: "Enchantment"
 casting_time: "1 bonus action"
 range: "Self"
 components: "V"
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Staggering Smite
 
-Your weapon strikes with overwhelming force. The attack deals an extra 4d6 Psychic damage. Additionally, if the target is a creature, it must succeed on a Wisdom saving throw or have the [[Stunned]] condition until the end of your next turn.
+The target takes an extra 4d6 Psychic damage from the attack, and the target must succeed on a Wisdom saving throw or have the [[Stunned]] condition until the end of your next turn.
+
+## At Higher Levels
+The extra damage increases by 1d6 for each spell slot level above 4.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#staggering%20smite_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#staggering%20smite_xphb)

@@ -5,7 +5,7 @@ school: "Divination"
 casting_time: "1 minute"
 range: "Self"
 components: "V, S"
-duration: "Instantaneous"
+duration: "1 minute"
 classes: ["Druid", "Ranger"]
 ritual: true
 concentration: false
@@ -13,7 +13,14 @@ source: "2024"
 ---
 # Commune with Nature
 
-You briefly become one with nature and gain knowledge of the surrounding territory. In the outdoors, the spell gives you knowledge of the land within 3 miles of you; in caves and other natural underground settings, the radius is limited to 300 feet. You can learn up to three facts about the surrounding area relating to terrain and bodies of water, prevalent plants, minerals, animals, or peoples, powerful celestials, fey, fiends, elementals, or undead, or influence from other planes of existence. For example, you could determine the location of powerful undead in the area or locate a major source of safe drinking water.
+You commune with nature spirits and gain knowledge of the surrounding area. In the outdoors, the spell gives you knowledge of the area within 3 miles of you. In caves and other natural underground settings, the radius is limited to 300 feet. The spell doesn't function where nature has been replaced by construction, such as in castles and settlements.
+Choose three of the following facts; you learn those facts as they pertain to the spell's area:
+- Locations of settlements
+- Locations of portals to other planes of existence
+- Location of one Challenge Rating 10+ creature (DM's choice) that is a Celestial, an Elemental, a Fey, a Fiend, or an Undead
+- The most prevalent kind of plant, mineral, or Beast (you choose which to learn)
+- Locations of bodies of water
+For example, you could determine the location of a powerful monster in the area, the locations of bodies of water, and the locations of any towns.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#commune%20with%20nature_xphb)

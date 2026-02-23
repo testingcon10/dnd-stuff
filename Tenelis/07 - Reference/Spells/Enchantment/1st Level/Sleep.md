@@ -3,8 +3,8 @@ tags: [spell, reference]
 spell_level: 1
 school: "Enchantment"
 casting_time: "1 action"
-range: "90 feet"
-components: "V, S, M (a pinch of sand)"
+range: "60 feet"
+components: "V, S, M (a pinch of sand or rose petals)"
 duration: "Concentration, up to 1 minute"
 classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
@@ -13,10 +13,8 @@ source: "2024"
 ---
 # Sleep
 
-You send creatures into a magical slumber. Each creature of your choice that you can see within range must succeed on a Wisdom saving throw or have the [[Unconscious]] condition for the duration. An [[Unconscious]] creature wakes if it takes damage or if another creature uses an action to shake it awake.
-
-## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, you can target one additional creature for each slot level above 1st.
+Each creature of your choice in a 5-foot-radius Sphere centered on a point within range must succeed on a Wisdom saving throw or have the [[Incapacitated]] condition until the end of its next turn, at which point it must repeat the save. If the target fails the second save, the target has the [[Unconscious]] condition for the duration. The spell ends on a target if it takes damage or someone within 5 feet of it takes an action to shake it out of the spell's effect.
+Creatures that don't sleep, such as elves, or that have Immunity to the [[Exhaustion]] condition automatically succeed on saves against this spell.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#sleep_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#sleep_xphb)

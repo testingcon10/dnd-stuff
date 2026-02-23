@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Hex
 
-You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 necrotic damage to the target whenever you hit it with an attack. Also, choose one ability when you cast the spell; the target has disadvantage on ability checks made with the chosen ability. If the target drops to 0 hit points before the spell ends, you can use a bonus action to curse a new creature.
+You place a curse on a creature that you can see within range. Until the spell ends, you deal an extra 1d6 Necrotic damage to the target whenever you hit it with an attack roll. Also, choose one ability when you cast the spell. The target has Disadvantage on ability checks made with the chosen ability.
+If the target drops to 0 Hit Points before this spell ends, you can take a Bonus Action on a later turn to curse a new creature.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of 3rd or [[4th Level|4th level]], you can maintain concentration on the spell for up to 8 hours. When you use a spell slot of [[5th Level|5th level]] or higher, you can maintain concentration on the spell for up to 24 hours.
+Your Concentration can last longer with a spell slot of level 2 (up to 4 hours), 3-4 (up to 8 hours), or 5+ (24 hours).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hex_xphb)

@@ -2,18 +2,18 @@
 tags: [spell, reference]
 spell_level: 0
 school: "Divination"
-casting_time: "1 reaction (when you or an ally within 10 feet fails an ability check)"
-range: "10 feet"
+casting_time: "1 action"
+range: "Touch"
 components: "V, S"
-duration: "Instantaneous"
-classes: ["Cleric", "Druid"]
+duration: "Concentration, up to 1 minute"
+classes: ["Cleric", "Druid", "Artificer"]
 ritual: false
-concentration: false
+concentration: true
 source: "2024"
 ---
 # Guidance
 
-You channel divine insight. When you or an ally within 10 feet of you fails an ability check, you can use your Reaction to give a 1d4 bonus to the check, potentially turning the failure into a success.
+You touch a willing creature and choose a skill. Until the spell ends, the creature adds 1d4 to any ability check using the chosen skill.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#guidance_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#guidance_xphb)

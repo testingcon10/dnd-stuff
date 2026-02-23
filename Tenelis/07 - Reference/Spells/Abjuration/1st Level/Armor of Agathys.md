@@ -2,9 +2,9 @@
 tags: [spell, reference]
 spell_level: 1
 school: "Abjuration"
-casting_time: "1 action"
+casting_time: "1 bonus action"
 range: "Self"
-components: "V, S, M (a cup of water)"
+components: "V, S, M (a shard of blue glass)"
 duration: "1 hour"
 classes: ["Warlock"]
 ritual: false
@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Armor of Agathys
 
-A protective magical force surrounds you, manifesting as a spectral frost that covers you and your gear. You gain 5 temporary hit points for the duration. If a creature hits you with a melee attack while you have these temporary hit points, the creature takes 5 cold damage.
+Protective magical frost surrounds you. You gain 5 Temporary Hit Points. If a creature hits you with a melee attack roll before the spell ends, the creature takes 5 Cold damage. The spell ends early if you have no Temporary Hit Points.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
+The Temporary Hit Points and the Cold damage both increase by 5 for each spell slot level above 1.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#armor%20of%20agathys_xphb)

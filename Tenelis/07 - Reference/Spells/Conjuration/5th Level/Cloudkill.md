@@ -13,10 +13,12 @@ source: "2024"
 ---
 # Cloudkill
 
-You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners and its area is heavily obscured. A creature that enters the spell's area for the first time on a turn or starts its turn there must make a Constitution saving throw, taking 5d8 poison damage on a failed save or half as much on a success. The fog moves 10 feet away from you at the start of each of your turns, rolling along the surface of the ground and sinking into openings.
+You create a 20-foot-radius Sphere of yellow-green fog centered on a point within range. The fog lasts for the duration or until strong wind (such as the one created by [[Gust of Wind]]) disperses it, ending the spell. Its area is Heavily Obscured.
+Each creature in the Sphere makes a Constitution saving throw, taking 5d8 Poison damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
+The Sphere moves 10 feet away from you at the start of each of your turns.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage increases by 1d8 for each slot level above 5th.
+The damage increases by 1d8 for each spell slot level above 5.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cloudkill_xphb)

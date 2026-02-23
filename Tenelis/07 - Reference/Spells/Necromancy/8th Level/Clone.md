@@ -4,7 +4,7 @@ spell_level: 8
 school: "Necromancy"
 casting_time: "1 hour"
 range: "Touch"
-components: "V, S, M (a diamond worth at least 1,000 gp and at least 1 cubic inch of flesh of the creature that is to be cloned, which the spell consumes, and a vessel worth at least 2,000 gp that has a sealable lid and is large enough to hold a Medium creature)"
+components: "V, S, M (a diamond worth 1,000+ GP, which the spell consumes, and a sealable vessel worth 2,000+ GP that is large enough to hold the creature being cloned)"
 duration: "Instantaneous"
 classes: ["Wizard"]
 ritual: false
@@ -13,7 +13,8 @@ source: "2024"
 ---
 # Clone
 
-This spell grows an inert duplicate of a living creature as a safeguard against death. The clone forms inside a sealed vessel and grows to full size and maturity after 120 days. If the original creature dies after the clone matures, its soul transfers to the clone, provided the soul is free and willing, and it awakens in the clone's body with all its memories intact.
+You touch a creature or at least 1 cubic inch of its flesh. An inert duplicate of that creature forms inside the vessel used in the spell's casting and finishes growing after 120 days; you choose whether the finished clone is the same age as the creature or younger. The clone remains inert and endures indefinitely while its vessel remains undisturbed.
+If the original creature dies after the clone finishes forming, the creature's soul transfers to the clone if the soul is free and willing to return. The clone is physically identical to the original and has the same personality, memories, and abilities, but none of the original's equipment. The creature's original remains, if any, become inert and can't be revived, since the creature's soul is elsewhere.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#clone_xphb)

@@ -4,7 +4,7 @@ spell_level: 6
 school: "Conjuration"
 casting_time: "1 action"
 range: "5 feet"
-components: "V, S, M (a gilded ladle worth 500+ gp)"
+components: "V, S, M (a gilded ladle worth 500 + GP)"
 duration: "10 minutes"
 classes: ["Warlock", "Wizard"]
 ritual: false
@@ -13,9 +13,9 @@ source: "2024"
 ---
 # Tasha's Bubbling Cauldron
 
-You conjure a clattering cauldron filled with bubbling liquid. It appears in an unoccupied space on the ground within range and lasts for the duration.
-
-When you cast the spell, choose up to three potions from among the common and uncommon potions listed in the Player's Handbook. These potions can be drawn from the cauldron as an action. A creature can draw each potion only once. The potions retain their potency for the duration or until used.
+You conjure a claw-footed cauldron filled with bubbling liquid. The cauldron appears in an unoccupied space on the ground within 5 feet of you and lasts for the duration. The cauldron can't be moved and disappears when the spell ends, along with the bubbling liquid inside it.
+The liquid in the cauldron duplicates the properties of a Common or an Uncommon potion of your choice (such as a [[Potion of Healing]]). As a Bonus Action, you or an ally can reach into the cauldron and withdraw one potion of that kind. The potion is contained in a vial that disappears when the potion is consumed. The cauldron can produce a number of these potions equal to your spellcasting ability modifier (minimum 1). When the last of these potions is withdrawn from the cauldron, the cauldron disappears, and the spell ends.
+Potions obtained from the cauldron that aren't consumed disappear when you cast this spell again.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tasha's%20bubbling%20cauldron_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tasha%27s%20bubbling%20cauldron_xphb)

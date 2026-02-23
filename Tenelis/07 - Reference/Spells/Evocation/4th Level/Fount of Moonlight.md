@@ -13,9 +13,9 @@ source: "2024"
 ---
 # Fount of Moonlight
 
-A cool light wreathing your body sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet for the duration. Until the spell ends, you have Resistance to Radiant damage, and your melee attacks deal an extra 2d6 Radiant damage on a hit.
-
-In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can use your Reaction to force the creature to make a Constitution saving throw. On a failed save, the creature has the [[Blinded]] condition until the end of your next turn.
+A cool light wreathes your body for the duration, emitting Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
+Until the spell ends, you have Resistance to Radiant damage, and your melee attacks deal an extra 2d6 Radiant damage on a hit.
+In addition, immediately after you take damage from a creature you can see within 60 feet of yourself, you can take a Reaction to force the creature to make a Constitution saving throw. On a failed save, the creature has the [[Blinded]] condition until the end of your next turn.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fount%20of%20moonlight_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fount%20of%20moonlight_xphb)

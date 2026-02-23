@@ -4,7 +4,7 @@ spell_level: 7
 school: "Illusion"
 casting_time: "12 hours"
 range: "Touch"
-components: "V, S, M (snow or ice in quantities sufficient to make a life-size copy of the duplicated creature; some hair, fingernail clippings, or other piece of that creature's body placed inside the snow or ice; and powdered ruby worth 1,500 gp, sprinkled over the duplicate and consumed by the spell)"
+components: "V, S, M (powdered ruby worth 1,500+ GP, which the spell consumes)"
 duration: "Until dispelled"
 classes: ["Wizard"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Simulacrum
 
-You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. The simulacrum is friendly to you and creatures you designate, obeys your spoken commands, and has all the statistics and abilities of the original creature except it can't regain hit points or spell slots.
+You create a simulacrum of one Beast or Humanoid that is within 10 feet of you for the entire casting of the spell. You finish the casting by touching both the creature and a pile of ice or snow that is the same size as that creature, and the pile turns into the simulacrum, which is a creature. It uses the game statistics of the original creature at the time of casting, except it is a Construct, its Hit Point maximum is half as much, and it can't cast this spell.
+The simulacrum is Friendly to you and creatures you designate. It obeys your commands and acts on your turn in combat. The simulacrum can't gain levels, and it can't take Short or Long Rests.
+If the simulacrum takes damage, the only way to restore its Hit Points is to repair it as you take a Long Rest, during which you expend components worth 100 GP per Hit Point restored. The simulacrum must stay within 5 feet of you for the repair.
+The simulacrum lasts until it drops to 0 Hit Points, at which point it reverts to snow and melts away. If you cast this spell again, any simulacrum you created with this spell is instantly destroyed.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#simulacrum_xphb)

@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Eldritch Blast
 
-A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack. On a hit, the target takes 1d10 force damage.
+You hurl a beam of crackling energy. Make a ranged spell attack against one creature or object in range. On a hit, the target takes 1d10 Force damage.
 
 ## At Higher Levels
-The spell creates more beams at higher levels: two beams at [[5th Level|5th level]], three at 11th level, and four at 17th level. You can direct the beams at the same target or different ones, making a separate attack roll for each beam.
+The spell creates two beams at level 5, three beams at level 11, and four beams at level 17. You can direct the beams at the same target or at different ones. Make a separate attack roll for each beam.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#eldritch%20blast_xphb)

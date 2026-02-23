@@ -13,7 +13,8 @@ source: "2024"
 ---
 # Meteor Swarm
 
-Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius sphere centered on each point must make a Dexterity saving throw, taking 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half as much on a success. A creature in the area of more than one meteor only makes one saving throw. The spell damages objects in the area and ignites flammable objects that aren't being worn or carried.
+Blazing orbs of fire plummet to the ground at four different points you can see within range. Each creature in a 40-foot-radius Sphere centered on each of those points makes a Dexterity saving throw. A creature takes 20d6 Fire damage and 20d6 Bludgeoning damage on a failed save or half as much damage on a successful one. A creature in the area of more than one fiery Sphere is affected only once.
+A nonmagical object that isn't being worn or carried also takes the damage if it's in the spell's area, and the object starts burning if it's flammable.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#meteor%20swarm_xphb)

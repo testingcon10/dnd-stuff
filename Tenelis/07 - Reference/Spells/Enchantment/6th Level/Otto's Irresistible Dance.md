@@ -13,7 +13,8 @@ source: "2024"
 ---
 # Otto's Irresistible Dance
 
-Choose one creature that you can see within range. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. A creature that can't be charmed is immune to this spell. The dancing creature must use all its movement to dance without leaving its space and has disadvantage on Dexterity saving throws and attack rolls. While the target is affected, other creatures have advantage on attack rolls against it. The target can use its action to make a Wisdom saving throw to end the effect.
+One creature that you can see within range must make a Wisdom saving throw. On a successful save, the target dances comically until the end of its next turn, during which it must spend all its movement to dance in place.
+On a failed save, the target has the [[Charmed]] condition for the duration. While [[Charmed]], the target dances comically, must use all its movement to dance in place, and has Disadvantage on Dexterity saving throws and attack rolls, and other creatures have Advantage on attack rolls against it. On each of its turns, the target can take an action to collect itself and repeat the save, ending the spell on itself on a success.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#otto's%20irresistible%20dance_xphb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#otto%27s%20irresistible%20dance_xphb)

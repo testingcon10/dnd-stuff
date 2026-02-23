@@ -4,7 +4,7 @@ spell_level: 7
 school: "Necromancy"
 casting_time: "1 hour"
 range: "Touch"
-components: "V, S, M (a diamond worth at least 1,000 gp, which the spell consumes)"
+components: "V, S, M (a diamond worth 1,000+ GP, which the spell consumes)"
 duration: "Instantaneous"
 classes: ["Bard", "Cleric"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Resurrection
 
-You touch a dead creature that has been dead for no more than a century, that didn't die of old age, and that isn't undead. The target returns to life with all its hit points restored. This spell neutralizes any poisons and cures nonmagical diseases that affected the creature at the time of death, and it closes all mortal wounds. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks, which is reduced by 1 after each long rest.
+With a touch, you revive a dead creature that has been dead for no more than a century, didn't die of old age, and wasn't Undead when it died.
+The creature returns to life with all its Hit Points. This spell also neutralizes any poisons that affected the creature at the time of death. This spell closes all mortal wounds and restores any missing body parts.
+Coming back from the dead is an ordeal. The target takes a -4 penalty to D20 Tests. Every time the target finishes a Long Rest, the penalty is reduced by 1 until it becomes 0.
+Casting this spell to revive a creature that has been dead for 365 days or longer taxes you. Until you finish a Long Rest, you can't cast spells again, and you have Disadvantage on D20 Tests.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#resurrection_xphb)

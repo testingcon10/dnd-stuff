@@ -13,10 +13,12 @@ source: "2024"
 ---
 # Conjure Animals
 
-You conjure nature spirits that fill a 15-foot-radius Sphere centered on a point you can see within range. The spirits last for the duration and create one of the following effects within the Sphere on each of your turns as a Bonus Action: each creature of your choice in the Sphere must succeed on a Dexterity saving throw or take 2d10 Slashing damage from spectral claws and fangs.
+You conjure nature spirits that appear as a Large pack of spectral, intangible animals in an unoccupied space you can see within range. The pack lasts for the duration, and you choose the spirits' animal form, such as wolves, serpents, or birds.
+You have Advantage on Strength saving throws while you're within 5 feet of the pack, and when you move on your turn, you can also move the pack up to 30 feet to an unoccupied space you can see.
+Whenever the pack moves within 10 feet of a creature you can see and whenever a creature you can see enters a space within 10 feet of the pack or ends its turn there, you can force that creature to make a Dexterity saving throw. On a failed save, the creature takes 3d10 Slashing damage. A creature makes this save only once per turn.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, the damage increases by 1d10 for each slot level above 3rd.
+The damage increases by 1d10 for each spell slot level above 3.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20animals_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20animals_xphb)

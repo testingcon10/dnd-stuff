@@ -1,19 +1,19 @@
 ---
 tags: [spell, reference]
 spell_level: 4
-school: "Abjuration"
+school: "Transmutation"
 casting_time: "1 action"
 range: "Touch"
-components: "V, S, M (diamond dust worth 100 gp, which the spell consumes)"
+components: "V, S, M (diamond dust worth 100+ GP, which the spell consumes)"
 duration: "Concentration, up to 1 hour"
-classes: ["Druid", "Ranger", "Sorcerer", "Wizard"]
+classes: ["Druid", "Ranger", "Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Stoneskin
 
-This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
+Until the spell ends, one willing creature you touch has Resistance to Bludgeoning, Piercing, and Slashing damage.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#stoneskin_xphb)

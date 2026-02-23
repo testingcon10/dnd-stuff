@@ -13,7 +13,9 @@ source: "2024"
 ---
 # Calm Emotions
 
-You attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a Charisma saving throw. You can choose one of two effects for those who fail: you can suppress any effect causing a target to be charmed or frightened, or you can make a target indifferent about creatures of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell, or if it witnesses any of its friends being harmed.
+Each Humanoid in a 20-foot-radius Sphere centered on a point you choose within range must succeed on a Charisma saving throw or be affected by one of the following effects (choose for each creature):
+- The creature has Immunity to the [[Charmed]] and [[Frightened]] conditions until the spell ends. If the creature was already [[Charmed]] or [[Frightened]], those conditions are suppressed for the duration.
+- The creature becomes Indifferent about creatures of your choice that it's Hostile toward. This indifference ends if the target takes damage or witnesses its allies taking damage. When the spell ends, the creature's attitude returns to normal.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#calm%20emotions_xphb)

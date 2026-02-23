@@ -4,16 +4,16 @@ spell_level: 2
 school: "Abjuration"
 casting_time: "1 action"
 range: "Touch"
-components: "V, S, M (gold dust worth at least 25 gp, which the spell consumes)"
+components: "V, S, M (gold dust worth 25+ GP, which the spell consumes)"
 duration: "Until dispelled"
-classes: ["Wizard"]
+classes: ["Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Arcane Lock
 
-You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. The object's DC to break or pick any locks on it increases by 10 while under the effect of this spell.
+You touch a closed door, window, gate, container, or hatch and magically lock it for the duration. This lock can't be unlocked by any nonmagical means. You and any creatures you designate when you cast the spell can open and close the object despite the lock. You can also set a password that, when spoken within 5 feet of the object, unlocks it for 1 minute.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#arcane%20lock_xphb)

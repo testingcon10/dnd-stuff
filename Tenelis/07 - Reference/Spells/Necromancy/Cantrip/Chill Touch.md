@@ -5,7 +5,7 @@ school: "Necromancy"
 casting_time: "1 action"
 range: "Touch"
 components: "V, S"
-duration: "1 round"
+duration: "Instantaneous"
 classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
@@ -13,9 +13,10 @@ source: "2024"
 ---
 # Chill Touch
 
-You touch one creature and channel necrotic energy into it. The target must succeed on a Constitution saving throw or take 1d10 Necrotic damage. If the target is an Undead, it also has Disadvantage on attack rolls against you until the end of your next turn.
+Channeling the chill of the grave, make a melee spell attack against a target within reach. On a hit, the target takes 1d10 Necrotic damage, and it can't regain Hit Points until the end of your next turn.
 
-This spell's damage increases by 1d10 when you reach [[5th Level|5th level]] (2d10), 11th level (3d10), and 17th level (4d10).
+## At Higher Levels
+The damage increases by 1d10 when you reach levels 5 (2d10), 11 (3d10), and 17 (4d10).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chill%20touch_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chill%20touch_xphb)

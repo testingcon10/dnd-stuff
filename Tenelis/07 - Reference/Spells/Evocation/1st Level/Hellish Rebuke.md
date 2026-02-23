@@ -2,7 +2,7 @@
 tags: [spell, reference]
 spell_level: 1
 school: "Evocation"
-casting_time: "1 reaction, which you take in response to being damaged by a creature within 60 feet of you that you can see"
+casting_time: "1 reaction (which you take in response to taking damage from a creature that you can see within 60 feet of yourself)"
 range: "60 feet"
 components: "V, S"
 duration: "Instantaneous"
@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Hellish Rebuke
 
-You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw, taking 2d10 fire damage on a failed save, or half as much damage on a successful one. This reaction spell provides warlocks with excellent retaliatory damage.
+The creature that damaged you is momentarily surrounded by green flames. It makes a Dexterity saving throw, taking 2d10 Fire damage on a failed save or half as much damage on a successful one.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, the damage increases by 1d10 for each slot level above 1st.
+The damage increases by 1d10 for each spell slot level above 1.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hellish%20rebuke_xphb)

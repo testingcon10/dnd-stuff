@@ -6,14 +6,17 @@ casting_time: "1 action"
 range: "30 feet"
 components: "V, S"
 duration: "1 minute"
-classes: ["Bard", "Sorcerer", "Warlock", "Wizard"]
+classes: ["Bard", "Sorcerer", "Warlock", "Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Mage Hand
 
-A spectral, floating hand appears at a point you choose within range. It can manipulate objects, open unlocked doors, stow or retrieve items from open containers, or pour out a vial. It can't attack, activate magic items, or carry more than 10 pounds. You can move the hand up to 30 feet each time you use it.
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again.
+When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial.
+As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet.
+The hand can't attack, activate magic items, or carry more than 10 pounds.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mage%20hand_xphb)

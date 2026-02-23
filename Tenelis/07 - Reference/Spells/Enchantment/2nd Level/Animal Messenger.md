@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Animal Messenger
 
-By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location and a recipient who matches a general description, and you speak a message of up to twenty-five words. The beast travels for the duration toward the specified location, covering about 50 miles per 24 hours or 25 miles for a flying messenger. When the messenger arrives, it delivers your message to the creature you described, replicating the sound of your voice.
+A Tiny Beast of your choice that you can see within range must succeed on a Charisma saving throw, or it attempts to deliver a message for you (if the target's Challenge Rating isn't 0, it automatically succeeds). You specify a location you have visited and a recipient who matches a general description, such as "a person dressed in the uniform of the town guard" or "a red-haired dwarf wearing a pointed hat." You also communicate a message of up to twenty-five words. The Beast travels for the duration toward the specified location, covering about 25 miles per 24 hours or 50 miles if the Beast can fly.
+When the Beast arrives, it delivers your message to the creature that you described, mimicking your communication. If the Beast doesn't reach its destination before the spell ends, the message is lost, and the Beast returns to where you cast the spell.
 
 ## At Higher Levels
-The duration of the spell increases by 48 hours for each slot level above 2nd.
+The spell's duration increases by 48 hours for each spell slot level above 2.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animal%20messenger_xphb)

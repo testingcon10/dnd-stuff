@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Barkskin
 
-You touch a willing creature. Until the spell ends, the target's skin has a rough, bark-like appearance, and the target has an AC of 17 if its AC is lower than that.
+You touch a willing creature. Until the spell ends, the target's skin assumes a bark-like appearance, and the target has an Armor Class of 17 if its AC is lower than that.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#barkskin_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#barkskin_xphb)

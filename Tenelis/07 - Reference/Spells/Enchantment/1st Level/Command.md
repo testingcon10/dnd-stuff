@@ -5,7 +5,7 @@ school: "Enchantment"
 casting_time: "1 action"
 range: "60 feet"
 components: "V"
-duration: "1 round"
+duration: "Instantaneous"
 classes: ["Bard", "Cleric", "Paladin"]
 ritual: false
 concentration: false
@@ -13,10 +13,15 @@ source: "2024"
 ---
 # Command
 
-You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn't understand your language, or if your command is directly harmful to it. Common commands include Approach, Drop, Flee, Grovel, and Halt.
+You speak a one-word command to a creature you can see within range. The target must succeed on a Wisdom saving throw or follow the command on its next turn. Choose the command from these options:
+- **Approach.** The target moves toward you by the shortest and most direct route, ending its turn if it moves within 5 feet of you.
+- **Drop.** The target drops whatever it is holding and then ends its turn.
+- **Flee.** The target spends its turn moving away from you by the fastest available means.
+- **Grovel.** The target has the [[Prone]] condition and then ends its turn.
+- **Halt.** On its turn, the target doesn't move and takes no action or Bonus Action.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, you can affect one additional creature for each slot level above 1st.
+You can affect one additional creature for each spell slot level above 1.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#command_xphb)

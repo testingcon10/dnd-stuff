@@ -3,17 +3,30 @@ tags: [spell, reference]
 spell_level: 7
 school: "Evocation"
 casting_time: "1 action"
-range: "Self (60-foot cone)"
+range: "60 feet"
 components: "V, S"
 duration: "Instantaneous"
-classes: ["Sorcerer", "Wizard"]
+classes: ["Bard", "Sorcerer", "Wizard"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Prismatic Spray
 
-Eight multicolored rays of light flash from your hand in a 60-foot cone. Each creature in the area must make a Dexterity saving throw, and for each target, roll a d8 to determine which color ray affects it. The rays include red (10d6 fire damage), orange (10d6 acid damage), yellow (10d6 lightning damage), green (10d6 poison damage), blue (10d6 cold damage), indigo (restrained then petrified on failed saves), violet (blinded then banished on failed saves), and a special result of being struck by two rays on an 8.
+Eight rays of light flash from you in a 60-foot Cone. Each creature in the Cone makes a Dexterity saving throw. For each target, roll 1d8 to determine which color ray affects it, consulting the Prismatic Rays table.
+
+**Prismatic Rays**
+
+| 1d8 | Ray |
+| --- | --- |
+| 1 | Red. Failed Save: 12d6 Fire damage. Successful Save: Half as much damage. |
+| 2 | Orange. Failed Save: 12d6 Acid damage. Successful Save: Half as much damage. |
+| 3 | Yellow. Failed Save: 12d6 Lightning damage. Successful Save: Half as much damage. |
+| 4 | Green. Failed Save: 12d6 Poison damage. Successful Save: Half as much damage. |
+| 5 | Blue. Failed Save: 12d6 Cold damage. Successful Save: Half as much damage. |
+| 6 | Indigo. Failed Save: The target has the [[Restrained]] condition and makes a Constitution saving throw at the end of each of its turns. If it successfully saves three times, the condition ends. If it fails three times, it has the [[Petrified]] condition until it is freed by an effect like the [[Greater Restoration]] spell. The successes and failures needn't be consecutive; keep track of both until the target collects three of a kind. |
+| 7 | Violet. Failed Save: The target has the [[Blinded]] condition and makes a Wisdom saving throw at the start of your next turn. On a successful save, the condition ends. On a failed save, the condition ends, and the creature teleports to another plane of existence (DM's choice). |
+| 8 | Special. The target is struck by two rays. Roll twice, rerolling any 8. |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#prismatic%20spray_xphb)

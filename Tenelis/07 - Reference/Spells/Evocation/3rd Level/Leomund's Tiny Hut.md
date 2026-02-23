@@ -3,8 +3,8 @@ tags: [spell, reference]
 spell_level: 3
 school: "Evocation"
 casting_time: "1 minute"
-range: "Self (10-foot-radius hemisphere)"
-components: "V, S, M (a small crystal bead)"
+range: "10 feet"
+components: "V, S, M (a crystal bead)"
 duration: "8 hours"
 classes: ["Bard", "Wizard"]
 ritual: true
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Leomund's Tiny Hut
 
-A 10-foot-radius immobile dome of force springs into existence around and above you and remains stationary for the duration. Up to nine Medium or smaller creatures can fit inside the dome with you, and the spell fails if its area includes a larger creature. Creatures and objects within the dome when you cast this spell can move through it freely, but all other creatures and objects are barred from passing through. The atmosphere inside is comfortable and dry, and the interior can be dimly lit or dark as you choose.
+A 10-foot Emanation springs into existence around you and remains stationary for the duration. The spell fails when you cast it if the Emanation isn't big enough to fully encapsulate all creatures in its area.
+Creatures and objects within the Emanation when you cast the spell can move through it freely. All other creatures and objects are barred from passing through it. Spells of level 3 or lower can't be cast through it, and the effects of such spells can't extend into it.
+The atmosphere inside the Emanation is comfortable and dry, regardless of the weather outside. Until the spell ends, you can command the interior to have Dim Light or [[Darkness]] (no action required). The Emanation is opaque from the outside and of any color you choose, but it's transparent from the inside.
+The spell ends early if you leave the Emanation or if you cast it again.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#leomund's%20tiny%20hut_xphb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#leomund%27s%20tiny%20hut_xphb)

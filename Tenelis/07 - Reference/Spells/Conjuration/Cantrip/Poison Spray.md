@@ -1,22 +1,22 @@
 ---
 tags: [spell, reference]
 spell_level: 0
-school: "Conjuration"
+school: "Necromancy"
 casting_time: "1 action"
-range: "10 feet"
+range: "30 feet"
 components: "V, S"
 duration: "Instantaneous"
-classes: ["Druid", "Sorcerer", "Warlock", "Wizard"]
+classes: ["Druid", "Sorcerer", "Warlock", "Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Poison Spray
 
-You extend your hand toward a creature you can see within range and project a puff of noxious gas from your palm. The creature must succeed on a Constitution saving throw or take 1d12 poison damage.
+You spray toxic mist at a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d12 Poison damage.
 
 ## At Higher Levels
-This spell's damage increases by 1d12 when you reach [[5th Level|5th level]] (2d12), 11th level (3d12), and 17th level (4d12).
+The damage increases by 1d12 when you reach levels 5 (2d12), 11 (3d12), and 17 (4d12).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#poison%20spray_xphb)

@@ -2,8 +2,8 @@
 tags: [spell, reference]
 spell_level: 4
 school: "Conjuration"
-casting_time: "1 minute"
-range: "Self (15-foot emanation)"
+casting_time: "1 action"
+range: "15 feet"
 components: "V, S"
 duration: "Concentration, up to 10 minutes"
 classes: ["Druid", "Wizard"]
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Conjure Minor Elementals
 
-You [[Conjure Elemental|conjure elemental]] spirits that swirl around you. Until the spell ends, whenever you deal damage with an attack or a spell, you can deal an extra 2d8 damage of a type appropriate to the spirits: Cold, Fire, Lightning, or Thunder (your choice when you deal the damage). Once on each of your turns, you can also use this extra damage when you deal damage with a spell attack.
+You conjure spirits from the Elemental Planes that flit around you in a 15-foot Emanation for the duration. Until the spell ends, any attack you make deals an extra 2d8 damage when you hit a creature in the Emanation. This damage is Acid, Cold, Fire, or Lightning (your choice when you make the attack).
+In addition, the ground in the Emanation is Difficult Terrain for your enemies.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the extra damage increases by 2d8 for each slot level above 4th.
+The damage increases by 1d8 for each spell slot level above 4.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20minor%20elementals_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20minor%20elementals_xphb)

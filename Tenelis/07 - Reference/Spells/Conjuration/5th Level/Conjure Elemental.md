@@ -2,9 +2,9 @@
 tags: [spell, reference]
 spell_level: 5
 school: "Conjuration"
-casting_time: "1 minute"
+casting_time: "1 action"
 range: "60 feet"
-components: "V, S, M (burning incense for air, soft clay for earth, sulfur and phosphorus for fire, or water and sand for water)"
+components: "V, S"
 duration: "Concentration, up to 10 minutes"
 classes: ["Druid", "Wizard"]
 ritual: false
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Conjure Elemental
 
-You conjure elemental energy that fills a 15-foot-radius Sphere centered on a point you can see within range. The energy lasts for the duration and creates one of the following effects on each of your turns as a Bonus Action: each creature of your choice in the Sphere takes 6d8 damage of a type you choose — Acid, Cold, Fire, or Thunder.
+You conjure a Large, intangible spirit from the Elemental Planes that appears in an unoccupied space within range. Choose the spirit's element, which determines its damage type: air (Lightning), earth (Thunder), fire (Fire), or water (Cold). The spirit lasts for the duration.
+Whenever a creature you can see enters the spirit's space or starts its turn within 5 feet of the spirit, you can force that creature to make a Dexterity saving throw if the spirit has no creature [[Restrained]]. On failed save, the target takes 8d8 damage of the spirit's type, and the target has the [[Restrained]] condition until the spell ends. At the start of each of its turns, the [[Restrained]] target repeats the save. On a failed save, the target takes 4d8 damage of the spirit's type. On a successful save, the target isn't [[Restrained]] by the spirit.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage increases by 2d8 for each slot level above 5th.
+The damage increases by 1d8 for each spell slot level above 5.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20elemental_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#conjure%20elemental_xphb)

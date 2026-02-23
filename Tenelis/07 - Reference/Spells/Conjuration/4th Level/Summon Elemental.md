@@ -4,7 +4,7 @@ spell_level: 4
 school: "Conjuration"
 casting_time: "1 action"
 range: "90 feet"
-components: "V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth at least 400 gp)"
+components: "V, S, M (air, a pebble, ash, and water inside a gold-inlaid vial worth 400+ GP)"
 duration: "Concentration, up to 1 hour"
 classes: ["Druid", "Ranger", "Wizard"]
 ritual: false
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Summon Elemental
 
-You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.
+You call forth an Elemental spirit. It manifests in an unoccupied space that you can see within range and uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain details in its stat block. The creature disappears when it drops to 0 Hit Points or when the spell ends.
+The creature is an ally to you and your allies. In combat, the creature shares your Initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its movement to avoid danger.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, use the higher level wherever the spell's level appears in the stat block.
+Use the spell slot's level for the spell's level in the stat block.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20elemental_xphb)

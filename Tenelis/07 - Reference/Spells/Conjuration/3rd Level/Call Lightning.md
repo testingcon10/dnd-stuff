@@ -13,10 +13,13 @@ source: "2024"
 ---
 # Call Lightning
 
-A storm cloud appears at a point you can see 100 feet directly above you, and a bolt of lightning flashes down to a point you choose within range. Each creature within 5 feet of that point must make a Dexterity saving throw, taking 3d10 lightning damage on a failed save or half as much on a successful one. On each of your turns until the spell ends, you can use your action to call down lightning again. If you are outdoors in stormy conditions when you cast this spell, the damage increases by 1d10.
+A storm cloud appears at a point within range that you can see above yourself. It takes the shape of a Cylinder that is 10 feet tall with a 60-foot radius.
+When you cast the spell, choose a point you can see under the cloud. A [[Lightning Bolt|lightning bolt]] shoots from the cloud to that point. Each creature within 5 feet of that point makes a Dexterity saving throw, taking 3d10 Lightning damage on a failed save or half as much damage on a successful one.
+Until the spell ends, you can take a Magic action to call down lightning in that way again, targeting the same point or a different one.
+If you're outdoors in a storm when you cast this spell, the spell gives you control over that storm instead of creating a new one. Under such conditions, the spell's damage increases by 1d10.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, the damage increases by 1d10 for each slot level above 3rd.
+The damage increases by 1d10 for each spell slot level above 3.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#call%20lightning_xphb)

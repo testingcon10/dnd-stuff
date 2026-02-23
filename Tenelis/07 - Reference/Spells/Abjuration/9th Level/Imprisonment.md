@@ -4,7 +4,7 @@ spell_level: 9
 school: "Abjuration"
 casting_time: "1 minute"
 range: "30 feet"
-components: "V, S, M (a vellum depiction or a carved statuette in the likeness of the target, and a special component that varies according to the version of the spell you choose, worth at least 500 gp per Hit Die of the target)"
+components: "V, S, M (a statuette of the target worth 5,000+ GP)"
 duration: "Until dispelled"
 classes: ["Warlock", "Wizard"]
 ritual: false
@@ -13,7 +13,16 @@ source: "2024"
 ---
 # Imprisonment
 
-You create a magical restraint to hold a creature you can see within range. The target must succeed on a Wisdom saving throw or be bound by the spell for the duration. You choose one of several forms of imprisonment: Burial, Chaining, Hedged Prison, Minimus Containment, or Slumber. A [[Dispel Magic|dispel magic]] spell can end the spell only when cast as a 9th-level spell targeting either the prison or the special component used to create it.
+You create a magical restraint to hold a creature that you can see within range. The target must make a Wisdom saving throw. On a successful save, the target is unaffected, and it is immune to this spell for the next 24 hours. On a failed save, the target is imprisoned. While imprisoned, the target doesn't need to breathe, eat, or drink, and it doesn't age. [[Divination]] spells can't locate or perceive the imprisoned target, and the target can't teleport.
+Until the spell ends, the target is also affected by one of the following effects of your choice:
+- **Burial.** The target is entombed beneath the earth in a hollow globe of magical force that is just large enough to contain the target. Nothing can pass into or out of the globe.
+- **Chaining.** Chains firmly rooted in the ground hold the target in place. The target has the [[Restrained]] condition and can't be moved by any means.
+- **Hedged Prison.** The target is trapped in a demiplane that is warded against teleportation and planar travel. The demiplane is your choice of a labyrinth, a cage, a tower, or the like.
+- **Minimus Containment.** The target becomes 1 inch tall and is trapped inside an indestructible gemstone or a similar object. Light can pass through the gemstone (allowing the target to see out and other creatures to see in), but nothing else can pass through by any means.
+- **Slumber.** The target has the [[Unconscious]] condition and can't be awoken.
+
+**Ending the Spell.** When you cast the spell, specify a trigger that will end it. The trigger can be as simple or as elaborate as you choose, but the DM must agree that it has a high likelihood of happening within the next decade. The trigger must be an observable action, such as someone making a particular offering at the temple of your god, saving your true love, or defeating a specific monster.
+A [[Dispel Magic]] spell can end the spell only if it is cast with a level 9 spell slot, targeting either the prison or the component used to create it.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#imprisonment_xphb)

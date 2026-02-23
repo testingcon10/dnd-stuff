@@ -13,7 +13,16 @@ source: "2024"
 ---
 # Divine Word
 
-You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Each creature of your choice that you can see within range is affected based on its current hit points: 50 hp or less it is deafened for 1 minute, 40 hp or less it is deafened and blinded for 10 minutes, 30 hp or less it is blinded, deafened, and stunned for 1 hour, and 20 hp or less it is killed instantly. Additionally, any celestial, elemental, fey, or fiend with a failed save is forced back to its plane of origin.
+You utter a word imbued with power from the Upper Planes. Each creature of your choice in range makes a Charisma saving throw. On a failed save, a target that has 50 Hit Points or fewer suffers an effect based on its current Hit Points, as shown in the Divine Word Effects table. Regardless of its Hit Points, a Celestial, an Elemental, a Fey, or a Fiend target that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to the current plane for 24 hours by any means short of a Wish spell.
+
+**Divine Word Effects**
+
+| Hit Points | Effect |
+| --- | --- |
+| 0-20 | The target dies. |
+| 21-30 | The target has the [[Blinded]], [[Deafened]], and [[Stunned]] conditions for 1 hour. |
+| 31-40 | The target has the [[Blinded]] and [[Deafened]] conditions for 10 minutes. |
+| 41-50 | The target has the [[Deafened]] condition for 1 minute. |
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#divine%20word_xphb)

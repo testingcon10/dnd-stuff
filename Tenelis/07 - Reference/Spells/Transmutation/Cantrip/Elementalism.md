@@ -6,14 +6,24 @@ casting_time: "1 action"
 range: "30 feet"
 components: "V, S"
 duration: "Instantaneous"
-classes: ["Druid", "Sorcerer", "Wizard"]
+classes: ["Druid", "Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Elementalism
 
-You exert control over the elements, creating one of the following effects within range: a harmless sensory effect related to air, earth, fire, or water (such as a shower of sparks, a puff of wind, a spray of light mist, or a gentle rumbling of stone); you instantaneously light or snuff out a candle, torch, or small campfire; you chill or warm up to 1 pound of nonliving material for up to 1 hour; or you cause earth, fire, water, or mist to shape itself into a crude form you designate for 1 minute.
+You exert control over the elements, creating one of the following effects within range.
+
+**Beckon Air.** You create a breeze strong enough to ripple cloth, stir dust, rustle leaves, and close open doors and shutters, all in a 5-foot Cube. Doors and shutters being held open by someone or something aren't affected.
+
+**Beckon Earth.** You create a thin shroud of dust or sand that covers surfaces in a 5-foot-square area, or you cause a single word to appear in your handwriting in a patch of dirt or sand.
+
+**Beckon Fire.** You create a thin cloud of harmless embers and colored, scented smoke in a 5-foot Cube. You choose the color and scent, and the embers can light candles, torches, or lamps in that area. The smoke's scent lingers for 1 minute.
+
+**Beckon Water.** You create a spray of cool mist that lightly dampens creatures and objects in a 5-foot Cube. Alternatively, you create 1 cup of clean water either in an open container or on a surface, and the water evaporates in 1 minute.
+
+**Sculpt Element.** You cause dirt, sand, fire, smoke, mist, or water that can fit in a 1-foot Cube to assume a crude shape (such as that of a creature) for 1 hour.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#elementalism_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#elementalism_xphb)

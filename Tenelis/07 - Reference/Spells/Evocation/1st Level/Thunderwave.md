@@ -3,7 +3,7 @@ tags: [spell, reference]
 spell_level: 1
 school: "Evocation"
 casting_time: "1 action"
-range: "Self (15-foot cube)"
+range: "15 feet"
 components: "V, S"
 duration: "Instantaneous"
 classes: ["Bard", "Druid", "Sorcerer", "Wizard"]
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Thunderwave
 
-A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a Constitution saving throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn't pushed. Unsecured objects are automatically pushed 10 feet away, and the spell emits a thunderous boom audible out to 300 feet.
+You unleash a wave of thunderous energy. Each creature in a 15-foot Cube originating from you makes a Constitution saving throw. On a failed save, a creature takes 2d8 Thunder damage and is pushed 10 feet away from you. On a successful save, a creature takes half as much damage only.
+In addition, unsecured objects that are entirely within the Cube are pushed 10 feet away from you, and a thunderous boom is audible within 300 feet.
 
 ## At Higher Levels
-The damage increases by 1d8 for each slot level above 1st.
+The damage increases by 1d8 for each spell slot level above 1.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#thunderwave_xphb)

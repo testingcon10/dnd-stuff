@@ -6,14 +6,16 @@ casting_time: "1 action"
 range: "60 feet"
 components: "S"
 duration: "1 hour"
-classes: ["Warlock", "Wizard"]
+classes: ["Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Demiplane
 
-You create a shadowy door on a flat solid surface that you can see within range. The door is large enough to allow Medium creatures to pass through unhindered and leads to an extradimensional space that is an empty room 30 feet in each dimension, made of wood or stone. When the spell ends, the door disappears, and any creatures or objects inside the demiplane remain trapped there. Each time you cast this spell, you can create a new demiplane or connect the door to a demiplane you created with a previous casting.
+You create a shadowy Medium door on a flat solid surface that you can see within range. This door can be opened and closed, and it leads to a demiplane that is an empty room 30 feet in each dimension, made of wood or stone (your choice).
+When the spell ends, the door vanishes, and any objects inside the demiplane remain there. Any creatures inside also remain unless they opt to be shunted through the door as it vanishes, landing with the [[Prone]] condition in the unoccupied spaces closest to the door's former space.
+Each time you cast this spell, you can create a new demiplane or connect the shadowy door to a demiplane you created with a previous casting of this spell. Additionally, if you know the nature and contents of a demiplane created by a casting of this spell by another creature, you can connect the shadowy door to that demiplane instead.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#demiplane_xphb)

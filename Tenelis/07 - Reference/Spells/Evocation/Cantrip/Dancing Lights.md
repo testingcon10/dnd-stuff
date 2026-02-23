@@ -1,19 +1,20 @@
 ---
 tags: [spell, reference]
 spell_level: 0
-school: "Evocation"
+school: "Illusion"
 casting_time: "1 action"
 range: "120 feet"
-components: "V, S, M (a bit of phosphorus or wychwood, or a glowworm)"
+components: "V, S, M (a bit of phosphorus)"
 duration: "Concentration, up to 1 minute"
-classes: ["Bard", "Sorcerer", "Wizard"]
+classes: ["Bard", "Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Dancing Lights
 
-You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can combine the four lights into one glowing vaguely humanoid form of Medium size. Each light sheds dim light in a 10-foot radius. As a bonus action, you can move the lights up to 60 feet to a new spot within range.
+You create up to four torch-size lights within range, making them appear as torches, lanterns, or glowing orbs that hover for the duration. Alternatively, you combine the four lights into one glowing Medium form that is vaguely humanlike. Whichever form you choose, each light sheds Dim Light in a 10-foot radius.
+As a Bonus Action, you can move the lights up to 60 feet to a space within range. A light must be within 20 feet of another light created by this spell, and a light vanishes if it exceeds the spell's range.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dancing%20lights_xphb)

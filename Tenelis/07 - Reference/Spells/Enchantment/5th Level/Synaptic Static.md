@@ -13,7 +13,8 @@ source: "2024"
 ---
 # Synaptic Static
 
-You choose a point within range and cause psychic energy to explode there. Each creature in a 20-foot-radius sphere centered on that point must make an Intelligence saving throw. A creature with an Intelligence score of 2 or less isn't affected. On a failed save, a target takes 8d6 psychic damage and must subtract 1d6 from all attack rolls, ability checks, and concentration checks it makes until the end of its next turn. On a successful save, a target takes half as much damage and suffers no other effect.
+You cause psychic energy to erupt at a point within range. Each creature in a 20-foot-radius Sphere centered on that point makes an Intelligence saving throw, taking 8d6 Psychic damage on a failed save or half as much damage on a successful one.
+On a failed save, a target also has muddled thoughts for 1 minute. During that time, it subtracts 1d6 from all its attack rolls and ability checks, as well as any Constitution saving throws to maintain Concentration. The target makes an Intelligence saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#synaptic%20static_xphb)

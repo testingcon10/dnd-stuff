@@ -13,11 +13,11 @@ source: "2024"
 ---
 # Sorcerous Burst
 
-You cast sorcerous energy at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, or Thunder.
+You cast sorcerous energy at one creature or object within range. Make a ranged attack roll against the target. On a hit, the target takes 1d8 damage of a type you choose: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.
+If you roll an 8 on a d8 for this spell, you can roll another d8, and add it to the damage. When you cast this spell, the maximum number of these d8s you can add to the spell's damage equals your spellcasting ability modifier.
 
-If you roll an 8 on any of the d8s for this spell, you can roll an additional d8, and add it to the damage. You can do so only once per turn.
-
-This spell's damage increases by 1d8 when you reach [[5th Level|5th level]] (2d8), 11th level (3d8), and 17th level (4d8).
+## At Higher Levels
+The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#sorcerous%20burst_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#sorcerous%20burst_xphb)

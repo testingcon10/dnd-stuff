@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Hail of Thorns
 
-As part of casting this spell, you make a ranged weapon attack. If you hit, the target and each creature within 5 feet of the target must succeed on a Dexterity saving throw or take 1d10 Piercing damage.
+As you hit the creature, this spell creates a rain of thorns that sprouts from your Ranged weapon or ammunition. The target of the attack and each creature within 5 feet of it make a Dexterity saving throw, taking 1d10 Piercing damage on a failed save or half as much damage on a successful one.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, the damage increases by 1d10 for each slot level above 1st.
+The damage increases by 1d10 for each spell slot level above 1.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hail%20of%20thorns_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hail%20of%20thorns_xphb)

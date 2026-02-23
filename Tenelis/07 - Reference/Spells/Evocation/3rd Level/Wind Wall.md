@@ -4,7 +4,7 @@ spell_level: 3
 school: "Evocation"
 casting_time: "1 action"
 range: "120 feet"
-components: "V, S, M (a tiny fan and a feather of exotic origin)"
+components: "V, S, M (a fan and a feather)"
 duration: "Concentration, up to 1 minute"
 classes: ["Druid", "Ranger"]
 ritual: false
@@ -13,7 +13,9 @@ source: "2024"
 ---
 # Wind Wall
 
-A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick, and you can shape it in any way you choose so long as it makes one continuous path along the ground. Each creature in the area when the wall appears must make a Strength saving throw, taking 3d8 bludgeoning damage on a failed save or half as much on a success. The strong wind keeps fog, smoke, and other gases at bay, and Small or smaller flying creatures or objects can't pass through the wall.
+A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 50 feet long, 15 feet high, and 1 foot thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration.
+When the wall appears, each creature in its area makes a Strength saving throw, taking 4d8 Bludgeoning damage on a failed save or half as much damage on a successful one.
+The strong wind keeps fog, smoke, and other gases at bay. Small or smaller flying creatures or objects can't pass through the wall. Loose, lightweight materials brought into the wall fly upward. Arrows, bolts, and other ordinary projectiles launched at targets behind the wall are deflected upward and miss automatically. Boulders hurled by Giants or siege engines, and similar projectiles, are unaffected. Creatures in [[Gaseous Form|gaseous form]] can't pass through it.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wind%20wall_xphb)

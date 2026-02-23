@@ -4,19 +4,21 @@ spell_level: 2
 school: "Conjuration"
 casting_time: "1 action"
 range: "60 feet"
-components: "V, S, M (a bit of tallow, a pinch of brimstone, and a dusting of powdered iron)"
+components: "V, S, M (a ball of wax)"
 duration: "Concentration, up to 1 minute"
-classes: ["Druid", "Wizard"]
+classes: ["Druid", "Sorcerer", "Wizard"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Flaming Sphere
 
-A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice within range and lasts for the duration. Any creature that ends its turn within 5 feet of the sphere must make a Dexterity saving throw, taking 2d6 fire damage on a failed save, or half as much on a success. As a bonus action, you can move the sphere up to 30 feet. If you ram the sphere into a creature, that creature must make the saving throw, and the sphere stops moving this turn.
+You create a 5-foot-diameter sphere of fire in an unoccupied space on the ground within range. It lasts for the duration. Any creature that ends its turn within 5 feet of the sphere makes a Dexterity saving throw, taking 2d6 Fire damage on a failed save or half as much damage on a successful one.
+As a Bonus Action, you can move the sphere up to 30 feet, rolling it along the ground. If you move the sphere into a creature's space, that creature makes the save against the sphere, and the sphere stops moving for the turn.
+When you move the sphere, you can direct it over barriers up to 5 feet tall and jump it across pits up to 10 feet wide. Flammable objects that aren't being worn or carried start burning if touched by the sphere, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet.
 
 ## At Higher Levels
-The damage increases by 1d6 for each slot level above 2nd.
+The damage increases by 1d6 for each spell slot level above 2.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flaming%20sphere_xphb)

@@ -4,7 +4,7 @@ spell_level: 6
 school: "Illusion"
 casting_time: "1 action"
 range: "120 feet"
-components: "V, S, M (a bit of fleece and jade dust worth at least 25 gp)"
+components: "V, S, M (jade dust worth 25+ GP)"
 duration: "Until dispelled"
 classes: ["Bard", "Wizard"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Programmed Illusion
 
-You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific condition occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes. When the triggering condition occurs, the illusion springs into existence and performs in the manner you described, then disappears and resets after 10 minutes.
+You create an illusion of an object, a creature, or some other visible phenomenon within range that activates when a specific trigger occurs. The illusion is imperceptible until then. It must be no larger than a 30-foot Cube, and you decide when you cast the spell how the illusion behaves and what sounds it makes. This scripted performance can last up to 5 minutes.
+When the trigger you specify occurs, the illusion springs into existence and performs in the manner you described. Once the illusion finishes performing, it disappears and remains dormant for 10 minutes, after which the illusion can be activated again.
+The trigger can be as general or as detailed as you like, though it must be based on visual or audible phenomena that occur within 30 feet of the area. For example, you could create an illusion of yourself to appear and warn off others who attempt to open a trapped door.
+Physical interaction with the image reveals it to be illusory, since things can pass through it. A creature that takes the Study action to examine the image can determine that it is an illusion with a successful Intelligence ([[Investigation]]) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image, and any noise it makes sounds hollow to the creature.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#programmed%20illusion_xphb)

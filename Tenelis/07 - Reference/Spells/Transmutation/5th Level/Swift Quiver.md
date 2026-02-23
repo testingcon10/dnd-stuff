@@ -3,8 +3,8 @@ tags: [spell, reference]
 spell_level: 5
 school: "Transmutation"
 casting_time: "1 bonus action"
-range: "Touch"
-components: "V, S, M (a quiver containing at least one piece of ammunition)"
+range: "Self"
+components: "V, S, M (a Quiver worth 1+ GP)"
 duration: "Concentration, up to 1 minute"
 classes: ["Ranger"]
 ritual: false
@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Swift Quiver
 
-You transmute your quiver so it produces an endless supply of nonmagical ammunition, which seems to leap into your hand when you reach for it. On each of your turns until the spell ends, you can use a bonus action to make two attacks with a weapon that uses ammunition from the quiver. Each time you make such a ranged attack, your quiver magically replaces the piece of ammunition you used with a similar piece of nonmagical ammunition.
+When you cast the spell and as a Bonus Action until it ends, you can make two attacks with a weapon that fires Arrows or Bolts, such as a [[Longbow]] or a [[Light Crossbow]]. The spell magically creates the ammunition needed for each attack. Each Arrow or Bolt created by the spell deals damage like a nonmagical piece of ammunition of its kind and disintegrates immediately after it hits or misses.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#swift%20quiver_xphb)

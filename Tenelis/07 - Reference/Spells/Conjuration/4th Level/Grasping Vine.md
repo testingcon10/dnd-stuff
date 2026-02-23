@@ -13,10 +13,12 @@ source: "2024"
 ---
 # Grasping Vine
 
-You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration. Make a melee spell attack against one creature within 30 feet of the vine. On a hit, the target takes 4d8 Bludgeoning damage and is pulled up to 30 feet toward the vine. On each of your subsequent turns, you can use a Bonus Action to repeat the attack against a creature within 30 feet of the vine.
+You conjure a vine that sprouts from a surface in an unoccupied space that you can see within range. The vine lasts for the duration.
+Make a melee spell attack against a creature within 30 feet of the vine. On a hit, the target takes 4d8 Bludgeoning damage and is pulled up to 30 feet toward the vine; if the target is Huge or smaller, it has the [[Grappled]] condition (escape DC equal to your spell save DC). The vine can grapple only one creature at a time, and you can cause the vine to release a [[Grappled]] creature (no action required).
+As a Bonus Action on your later turns, you can repeat the attack against a creature within 30 feet of the vine.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the damage increases by 1d8 for each slot level above 4th.
+The number of creatures the vine can grapple increases by one for each spell slot level above 4.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#grasping%20vine_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#grasping%20vine_xphb)

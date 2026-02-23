@@ -3,7 +3,7 @@ tags: [spell, reference]
 spell_level: 5
 school: "Evocation"
 casting_time: "1 action"
-range: "Self (30-foot radius)"
+range: "30 feet"
 components: "V"
 duration: "Instantaneous"
 classes: ["Paladin"]
@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Destructive Wave
 
-You strike the ground, creating a burst of divine energy that ripples outward from you. Each creature you choose within 30 feet of you must succeed on a Constitution saving throw or take 5d6 thunder damage, as well as 5d6 radiant or necrotic damage (your choice), and be knocked prone. A creature that succeeds on its saving throw takes half as much damage and isn't knocked prone.
+Destructive energy ripples outward from you in a 30-foot Emanation. Each creature you choose in the Emanation makes a Constitution saving throw. On a failed save, a target takes 5d6 Thunder damage and 5d6 Radiant or Necrotic damage (your choice) and has the [[Prone]] condition. On a successful save, a target takes half as much damage only.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#destructive%20wave_xphb)

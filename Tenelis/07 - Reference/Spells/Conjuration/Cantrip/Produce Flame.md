@@ -2,7 +2,7 @@
 tags: [spell, reference]
 spell_level: 0
 school: "Conjuration"
-casting_time: "1 action"
+casting_time: "1 bonus action"
 range: "Self"
 components: "V, S"
 duration: "10 minutes"
@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Produce Flame
 
-A flickering flame appears in your hand, shedding bright light in a 10-foot radius and dim light for an additional 10 feet. The spell ends if you dismiss it or cast it again. You can also attack with the flame by hurling it at a creature within 30 feet, making a ranged spell attack that deals 1d8 fire damage on a hit, ending the spell.
+A flickering flame appears in your hand and remains there for the duration. While there, the flame emits no heat and ignites nothing, and it sheds Bright Light in a 20-foot radius and Dim Light for an additional 20 feet. The spell ends if you cast it again.
+Until the spell ends, you can take a Magic action to hurl fire at a creature or an object within 60 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 Fire damage.
 
 ## At Higher Levels
-This spell's damage increases by 1d8 when you reach [[5th Level|5th level]] (2d8), 11th level (3d8), and 17th level (4d8).
+The damage increases by 1d8 when you reach levels 5 (2d8), 11 (3d8), and 17 (4d8).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#produce%20flame_xphb)

@@ -4,16 +4,19 @@ spell_level: 9
 school: "Conjuration"
 casting_time: "1 action"
 range: "60 feet"
-components: "V, S, M (a diamond worth at least 5,000 gp)"
+components: "V, S, M (a diamond worth 5,000+ GP)"
 duration: "Concentration, up to 1 minute"
-classes: ["Cleric", "Sorcerer", "Wizard"]
+classes: ["Cleric", "Sorcerer", "Warlock", "Wizard"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Gate
 
-You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening 5 to 20 feet in diameter, and any creature or object that passes through it appears within 5 feet of the destination. You can also use the spell to call a specific creature by name, and if that creature is on another plane, it is drawn through the portal to the nearest unoccupied space on your side.
+You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening, which you can make 5 to 20 feet in diameter. You can orient the portal in any direction you choose. The portal lasts for the duration, and the portal's destination is visible through it.
+The portal has a front and a back on each plane where it appears. Travel through the portal is possible only by moving through its front. Anything that does so is instantly transported to the other plane, appearing in the unoccupied space nearest to the portal.
+Deities and other planar rulers can prevent portals created by this spell from opening in their presence or anywhere within their domains.
+When you cast this spell, you can speak the name of a specific creature (a pseudonym, title, or nickname doesn't work). If that creature is on a plane other than the one you are on, the portal opens next to the named creature and transports it to the nearest unoccupied space on your side of the portal. You gain no special power over the creature, and it is free to act as the DM deems appropriate. It might leave, attack you, or help you.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#gate_xphb)

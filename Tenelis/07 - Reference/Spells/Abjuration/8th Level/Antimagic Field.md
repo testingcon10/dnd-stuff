@@ -3,8 +3,8 @@ tags: [spell, reference]
 spell_level: 8
 school: "Abjuration"
 casting_time: "1 action"
-range: "Self (10-foot-radius sphere)"
-components: "V, S, M (a pinch of powdered iron or iron filings)"
+range: "10 feet"
+components: "V, S, M (iron filings)"
 duration: "Concentration, up to 1 hour"
 classes: ["Cleric", "Wizard"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Antimagic Field
 
-A 10-foot-radius invisible sphere of antimagic surrounds you, moving with you as its center. Within the sphere, spells can't be cast, summoned creatures disappear, and magic items become mundane. Spells and other magical effects are suppressed within the sphere and can't protrude into it, though they resume functioning once no longer within the area.
+An aura of antimagic surrounds you in a 10-foot Emanation. No one can cast spells, take Magic actions, or create other magical effects inside the aura, and those things can't target or otherwise affect anything inside it. Magical properties of magic items don't work inside the aura or on anything inside it.
+Areas of effect created by spells or other magic can't extend into the aura, and no one can teleport into or out of it or use planar travel there. Portals close temporarily while in the aura.
+Ongoing spells, except those cast by an Artifact or a deity, are suppressed in the area. While an effect is suppressed, it doesn't function, but the time it spends suppressed counts against its duration.
+[[Dispel Magic]] has no effect on the aura, and the auras created by different Antimagic Field spells don't nullify each other.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#antimagic%20field_xphb)

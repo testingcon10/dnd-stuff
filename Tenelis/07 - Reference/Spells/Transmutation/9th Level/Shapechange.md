@@ -4,7 +4,7 @@ spell_level: 9
 school: "Transmutation"
 casting_time: "1 action"
 range: "Self"
-components: "V, S, M (a jade circlet worth at least 1,500 gp, which you must place on your head before you cast the spell)"
+components: "V, S, M (a jade circlet worth 1,500+ GP)"
 duration: "Concentration, up to 1 hour"
 classes: ["Druid", "Wizard"]
 ritual: false
@@ -13,7 +13,10 @@ source: "2024"
 ---
 # Shapechange
 
-You assume the form of a different creature for the duration. The new form can be of any creature with a challenge rating equal to your level or lower. The creature can't be a Construct or Undead. Your statistics are replaced by the statistics of the chosen creature, though you retain your personality, Hit Point maximum, and Hit Points. You gain Temporary Hit Points equal to the Hit Points of the new form. You also retain your class features and can cast spells. If the new form can make multiple attacks, you can use that ability.
+You shape-shift into another creature for the duration or until you take a Magic action to shape-shift into a different eligible form. The new form must be of a creature that has a Challenge Rating no higher than your level or Challenge Rating. You must have seen the sort of creature before, and it can't be a Construct or an Undead.
+When you cast the spell, you gain a number of Temporary Hit Points equal to the Hit Points of the first form into which you shape-shift. These Temporary Hit Points vanish if any remain when the spell ends.
+Your game statistics are replaced by the stat block of the chosen form, but you retain your creature type; alignment; personality; Intelligence, Wisdom, and Charisma scores; Hit Points; Hit Point Dice; proficiencies; and ability to communicate. If you have the Spellcasting feature, you retain it too.
+Upon shape-shifting, you determine whether your equipment drops to the ground or changes in size and shape to fit the new form while you're in it.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shapechange_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shapechange_xphb)

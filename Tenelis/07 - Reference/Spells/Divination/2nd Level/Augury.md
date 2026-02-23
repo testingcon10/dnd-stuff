@@ -4,16 +4,27 @@ spell_level: 2
 school: "Divination"
 casting_time: "1 minute"
 range: "Self"
-components: "V, S, M (specially marked sticks, bones, or similar tokens worth at least 25 gp)"
+components: "V, S, M (specially marked sticks, bones, cards, or other divinatory tokens worth 25+ GP)"
 duration: "Instantaneous"
-classes: ["Cleric"]
+classes: ["Cleric", "Druid", "Wizard"]
 ritual: true
 concentration: false
 source: "2024"
 ---
 # Augury
 
-By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divining tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The DM chooses from the following possible omens: Weal (good results), Woe (bad results), Weal and Woe (both good and bad), or Nothing (for actions with no especially good or bad results). Casting the spell more than once before a long rest increases the chance of a random reading.
+You receive an omen from an otherworldly entity about the results of a course of action that you plan to take within the next 30 minutes. The DM chooses the omen from the Omens table.
+
+**Omens**
+
+| Omen | For Results That Will Be... |
+| --- | --- |
+| Weal | Good |
+| Woe | Bad |
+| Weal and woe | Good and bad |
+| Indifference | Neither good nor bad |
+The spell doesn't account for circumstances, such as other spells, that might change the results.
+If you cast the spell more than once before finishing a Long Rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#augury_xphb)

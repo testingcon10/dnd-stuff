@@ -13,9 +13,18 @@ source: "2024"
 ---
 # True Polymorph
 
-Choose one creature or nonmagical object you can see within range. The creature is transformed into a different creature or into an object; or the object is transformed into a creature. The transformation lasts for the duration or until the target drops to 0 Hit Points or dies. If you concentrate on this spell for the full duration, the spell lasts until dispelled.
+Choose one creature or nonmagical object that you can see within range. The creature shape-shifts into a different creature or a nonmagical object, or the object shape-shifts into a creature (the object must be neither worn nor carried). The transformation lasts for the duration or until the target dies or is destroyed, but if you maintain Concentration on this spell for the full duration, the spell lasts until dispelled.
+An unwilling creature can make a Wisdom saving throw, and if it succeeds, it isn't affected by this spell.
 
-Creature into Creature: The new form can be any kind of creature whose challenge rating is equal to or less than the target's. The target's statistics are replaced by the statistics of the new form, but it retains its personality, Hit Point maximum, and Hit Points. The target gains Temporary Hit Points equal to the Hit Points of the new form.
+**Creature into Creature.** If you turn a creature into another kind of creature, the new form can be any kind you choose that has a Challenge Rating equal to or less than the target's Challenge Rating or level. The target's game statistics are replaced by the stat block of the new form, but it retains its Hit Points, Hit Point Dice, alignment, and personality.
+The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. These Temporary Hit Points vanish if any remain when the spell ends.
+The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
+The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
+
+**Object into Creature.** You can turn an object into any kind of creature, as long as the creature's size is no larger than the object's size and the creature has a Challenge Rating of 9 or lower. The creature is Friendly to you and your allies. In combat, it takes its turns immediately after yours, and it obeys your commands.
+If the spell lasts more than an hour, you no longer control the creature. It might remain Friendly to you, depending on how you have treated it.
+
+**Creature into Object.** If you turn a creature into an object, it transforms along with whatever it is wearing and carrying into that form, as long as the object's size is no larger than the creature's size. The creature's statistics become those of the object, and the creature has no memory of time spent in this form after the spell ends and it returns to normal.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20polymorph_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20polymorph_xphb)

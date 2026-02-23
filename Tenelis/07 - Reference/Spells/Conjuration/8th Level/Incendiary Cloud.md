@@ -6,14 +6,16 @@ casting_time: "1 action"
 range: "150 feet"
 components: "V, S"
 duration: "Concentration, up to 1 minute"
-classes: ["Sorcerer", "Wizard"]
+classes: ["Druid", "Sorcerer", "Wizard"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Incendiary Cloud
 
-A swirling cloud of smoke shot through with white-hot embers appears in a 20-foot-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. Each creature in the cloud when it appears or that enters it for the first time on a turn or starts its turn there must make a Dexterity saving throw, taking 10d8 fire damage on a failed save or half as much on a success. The cloud moves 10 feet directly away from you at the start of each of your turns.
+A swirling cloud of embers and smoke fills a 20-foot-radius Sphere centered on a point within range. The cloud's area is Heavily Obscured. It lasts for the duration or until a strong wind (like that created by [[Gust of Wind]]) disperses it.
+When the cloud appears, each creature in it makes a Dexterity saving throw, taking 10d8 Fire damage on a failed save or half as much damage on a successful one. A creature must also make this save when the Sphere moves into its space and when it enters the Sphere or ends its turn there. A creature makes this save only once per turn.
+The cloud moves 10 feet away from you in a direction you choose at the start of each of your turns.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#incendiary%20cloud_xphb)

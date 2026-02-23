@@ -4,16 +4,20 @@ spell_level: 8
 school: "Enchantment"
 casting_time: "1 hour"
 range: "60 feet"
-components: "V, S, M (either a lump of alum soaked in vinegar for antipathy or a drop of honey for sympathy)"
+components: "V, S, M (a mix of vinegar and honey)"
 duration: "10 days"
-classes: ["Druid", "Wizard"]
+classes: ["Bard", "Druid", "Wizard"]
 ritual: false
 concentration: false
 source: "2024"
 ---
-# Antipathy/Sympathy
+# Antipathy-Sympathy
 
-This spell attracts or repels creatures of your choice. You target a Huge or smaller object or creature or an area no larger than a 200-foot cube and specify a kind of intelligent creature. With antipathy, targeted creatures must succeed on a Wisdom saving throw or become frightened and must use their movement to move away from the target. With sympathy, targeted creatures must succeed on a Wisdom saving throw or use their movement on each turn to move toward the target. The effect lasts for the full duration and a creature that successfully saves must repeat the save every 24 hours.
+As you cast the spell, choose whether it creates antipathy or sympathy, and target one creature or object that is Huge or smaller. Then specify a kind of creature, such as red dragons, goblins, or vampires. A creature of the chosen kind makes a Wisdom saving throw when it comes within 120 feet of the target. Your choice of antipathy or sympathy determines what happens to a creature when it fails that save:
+- **Antipathy.** The creature has the [[Frightened]] condition. The [[Frightened]] creature must use its movement on its turns to get as far away as possible from the target, moving by the safest route.
+- **Sympathy.** The creature has the [[Charmed]] condition. The [[Charmed]] creature must use its movement on its turns to get as close as possible to the target, moving by the safest route. If the creature is within 5 feet of the target, the creature can't willingly move away. If the target damages the [[Charmed]] creature, that creature can make a Wisdom saving throw to end the effect, as described below.
+
+**Ending the Effect.** If the [[Frightened]] or [[Charmed]] creature ends its turn more than 120 feet away from the target, the creature makes a Wisdom saving throw. On a successful save, the creature is no longer affected by the target. A creature that successfully saves against this effect is immune to it for 1 minute, after which it can be affected again.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#antipathy/sympathy_xphb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#antipathy%2fsympathy_xphb)

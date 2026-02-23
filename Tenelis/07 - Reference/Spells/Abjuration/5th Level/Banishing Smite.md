@@ -1,19 +1,19 @@
 ---
 tags: [spell, reference]
 spell_level: 5
-school: "Abjuration"
+school: "Conjuration"
 casting_time: "1 bonus action"
 range: "Self"
 components: "V"
-duration: "Instantaneous"
+duration: "Concentration, up to 1 minute"
 classes: ["Paladin"]
 ritual: false
-concentration: false
+concentration: true
 source: "2024"
 ---
 # Banishing Smite
 
-Your weapon crackles with force. The attack deals an extra 5d10 Force damage. Additionally, if this attack reduces the target to 50 Hit Points or fewer, the target must succeed on a Charisma saving throw or be banished to a harmless demiplane, where it has the [[Incapacitated]] condition. At the end of your next turn, the target reappears in the space it left or the nearest unoccupied space.
+The target hit by the attack roll takes an extra 5d10 Force damage from the attack. If the attack reduces the target to 50 Hit Points or fewer, the target must succeed on a Charisma saving throw or be transported to a harmless demiplane for the duration. While there, the target has the [[Incapacitated]] condition. When the spell ends, the target reappears in the space it left or in the nearest unoccupied space if that space is occupied.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#banishing%20smite_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#banishing%20smite_xphb)

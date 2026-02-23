@@ -2,7 +2,7 @@
 tags: [spell, reference]
 spell_level: 3
 school: "Transmutation"
-casting_time: "1 action or 8 hours"
+casting_time: "1 action"
 range: "150 feet"
 components: "V, S"
 duration: "Instantaneous"
@@ -13,7 +13,11 @@ source: "2024"
 ---
 # Plant Growth
 
-This spell channels vitality into plants within a specific area. There are two possible uses for the spell. If you cast this spell using 1 action, choose a point within range and all normal plants in a 100-foot radius centered on that point become thick and overgrown, costing 4 feet of movement for every 1 foot a creature moves through the area. If you cast this spell over 8 hours, you enrich the land in a half-mile radius centered on a point within range, causing plants to yield twice the normal amount of food when harvested for 1 year.
+This spell channels vitality into plants. The casting time you use determines whether the spell has the Overgrowth or the Enrichment effect below.
+
+**Overgrowth.** Choose a point within range. All normal plants in a 100-foot-radius Sphere centered on that point become thick and overgrown. A creature moving through that area must spend 4 feet of movement for every 1 foot it moves. You can exclude one or more areas of any size within the spell's area from being affected.
+
+**Enrichment.** All plants in a half-mile radius centered on a point within range become enriched for 365 days. The plants yield twice the normal amount of food when harvested. They can benefit from only one Plant Growth per year.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#plant%20growth_xphb)

@@ -4,26 +4,19 @@ spell_level: 2
 school: "Transmutation"
 casting_time: "1 action"
 range: "Touch"
-components: "V, S, M (fur or a feather from a beast)"
+components: "V, S, M (fur or a feather)"
 duration: "Concentration, up to 1 hour"
-classes: ["Bard", "Cleric", "Druid", "Ranger", "Sorcerer", "Wizard"]
+classes: ["Bard", "Cleric", "Druid", "Ranger", "Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: true
 source: "2024"
 ---
 # Enhance Ability
 
-You touch a creature and bestow upon it a magical enhancement. Choose one of the following effects; the target gains that effect until the spell ends.
-
-Bear's Endurance: The target has Advantage on Constitution checks and gains 2d6 Temporary Hit Points.
-Bull's Strength: The target has Advantage on Strength checks and its carrying capacity doubles.
-Cat's Grace: The target has Advantage on Dexterity checks and takes no damage from falling 20 feet or less.
-Eagle's Splendor: The target has Advantage on Charisma checks.
-Fox's Cunning: The target has Advantage on Intelligence checks.
-Owl's Wisdom: The target has Advantage on Wisdom checks.
+You touch a creature and choose Strength, Dexterity, Intelligence, Wisdom, or Charisma. For the duration, the target has Advantage on ability checks using the chosen ability.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, you can target one additional creature for each slot level above 2nd.
+You can target one additional creature for each spell slot level above 2. You can choose a different ability for each target.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#enhance%20ability_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#enhance%20ability_xphb)

@@ -13,7 +13,8 @@ source: "2024"
 ---
 # Fire Storm
 
-A storm made up of sheets of roaring flame appears in a location you choose within range. The area of the storm consists of up to ten 10-foot cubes, which you can arrange as you wish, provided each cube has at least one face adjacent to another cube. Each creature in the area must make a Dexterity saving throw, taking 7d10 fire damage on a failed save, or half as much on a successful one. The fire damages objects in the area and ignites flammable objects that aren't being worn or carried, though you can choose whether the flames damage plant life.
+A storm of fire appears within range. The area of the storm consists of up to ten 10-foot Cubes, which you arrange as you like. Each Cube must be contiguous with at least one other Cube. Each creature in the area makes a Dexterity saving throw, taking 7d10 Fire damage on a failed save or half as much damage on a successful one.
+Flammable objects in the area that aren't being worn or carried start burning.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fire%20storm_xphb)

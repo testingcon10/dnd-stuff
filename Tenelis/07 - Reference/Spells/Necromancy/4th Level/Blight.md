@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Blight
 
-Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Constitution saving throw, taking 8d8 necrotic damage on a failed save, or half as much damage on a successful one. This spell has no effect on undead or constructs; if the target is a plant creature or a magical plant, it makes the saving throw with disadvantage and takes maximum damage.
+A creature that you can see within range makes a Constitution saving throw, taking 8d8 Necrotic damage on a failed save or half as much damage on a successful one. A Plant creature automatically fails the save.
+Alternatively, target a nonmagical plant that isn't a creature, such as a tree or shrub. It doesn't make a save; it simply withers and dies.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the damage increases by 1d8 for each slot level above 4th.
+The damage increases by 1d8 for each spell slot level above 4.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blight_xphb)

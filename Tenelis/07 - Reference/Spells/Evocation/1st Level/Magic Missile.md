@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Magic Missile
 
-You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several. Magic Missile always hits (no attack roll, no save) — only the [[Shield]] spell can block it.
+You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, the spell creates one more dart for each slot level above 1st.
+The spell creates one more dart for each spell slot level above 1.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#magic%20missile_xphb)

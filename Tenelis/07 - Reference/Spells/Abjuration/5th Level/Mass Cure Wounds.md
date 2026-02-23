@@ -13,10 +13,10 @@ source: "2024"
 ---
 # Mass Cure Wounds
 
-A wave of healing energy washes out from a point of your choice within range. Choose up to six creatures in a 30-foot-radius sphere centered on that point. Each target regains hit points equal to 3d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+A wave of healing energy washes out from a point you can see within range. Choose up to six creatures in a 30-foot-radius Sphere centered on that point. Each target regains Hit Points equal to 5d8 plus your spellcasting ability modifier.
 
 ## At Higher Levels
-Healing increases by 1d8 for each slot level above 5th.
+The healing increases by 5d8 for each spell slot level above 5.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20cure%20wounds_xphb)

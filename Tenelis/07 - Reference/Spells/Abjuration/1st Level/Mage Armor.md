@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Mage Armor
 
-You touch a willing creature who isn't wearing armor, and a protective magical force surrounds it until the spell ends. The target's base AC becomes 13 + its Dexterity modifier. The spell ends if the target dons armor or if you dismiss the spell as an action.
+You touch a willing creature who isn't wearing armor. Until the spell ends, the target's base AC becomes 13 plus its Dexterity modifier. The spell ends early if the target dons armor.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mage%20armor_xphb)

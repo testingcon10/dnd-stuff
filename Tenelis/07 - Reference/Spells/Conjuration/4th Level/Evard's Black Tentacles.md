@@ -4,7 +4,7 @@ spell_level: 4
 school: "Conjuration"
 casting_time: "1 action"
 range: "90 feet"
-components: "V, S, M (a piece of tentacle from a giant octopus or a giant squid)"
+components: "V, S, M (a tentacle)"
 duration: "Concentration, up to 1 minute"
 classes: ["Wizard"]
 ritual: false
@@ -13,7 +13,9 @@ source: "2024"
 ---
 # Evard's Black Tentacles
 
-Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain. When a creature enters the affected area for the first time on a turn or starts its turn there, the creature must succeed on a Dexterity saving throw or take 3d6 bludgeoning damage and be restrained by the tentacles until the spell ends. A creature that starts its turn restrained by the tentacles takes 3d6 bludgeoning damage and can use its action to make a Strength or Dexterity check against your spell save DC to free itself.
+Squirming, ebony tentacles fill a 20-foot square on ground that you can see within range. For the duration, these tentacles turn the ground in that area into Difficult Terrain.
+Each creature in that area makes a Strength saving throw. On a failed save, it takes 3d6 Bludgeoning damage, and it has the [[Restrained]] condition until the spell ends. A creature also makes that save if it enters the area or ends it turn there. A creature makes that save only once per turn.
+A [[Restrained]] creature can take an action to make a Strength ([[Athletics]]) check against your spell save DC, ending the condition on itself on a success.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#evard's%20black%20tentacles_xphb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#evard%27s%20black%20tentacles_xphb)

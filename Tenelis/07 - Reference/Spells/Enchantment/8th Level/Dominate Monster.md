@@ -13,10 +13,12 @@ source: "2024"
 ---
 # Dominate Monster
 
-You attempt to beguile a creature you can see within range, which must succeed on a Wisdom saving throw or be charmed by you for the duration. While charmed, you have a telepathic link with it and can issue commands as a bonus action, which the creature does its best to obey. Each time the target takes damage, it makes a new Wisdom saving throw, ending the effect on a success.
+One creature you can see within range must succeed on a Wisdom saving throw or have the [[Charmed]] condition for the duration. The target has Advantage on the save if you or your allies are fighting it. Whenever the target takes damage, it repeats the save, ending the spell on itself on a success.
+You have a telepathic link with the [[Charmed]] target while the two of you are on the same plane of existence. On your turn, you can use this link to issue commands to the target (no action required), such as "Attack that creature," "Move over there," or "Fetch that object." The target does its best to obey on its turn. If it completes an order and doesn't receive further direction from you, it acts and moves as it likes, focusing on protecting itself.
+You can command the target to take a Reaction but must take your own Reaction to do so.
 
 ## At Higher Levels
-When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
+Your Concentration can last longer with a level 9 spell slot (up to 8 hours).
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dominate%20monster_xphb)

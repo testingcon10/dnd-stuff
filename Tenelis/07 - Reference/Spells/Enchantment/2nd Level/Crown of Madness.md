@@ -13,7 +13,9 @@ source: "2024"
 ---
 # Crown of Madness
 
-One humanoid of your choice that you can see within range must succeed on a Wisdom saving throw or become charmed by you for the duration. While the target is charmed, a twisted crown of jagged iron appears on its head, and a madness glows in its eyes. The charmed target must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if none are within its reach.
+One creature that you can see within range must succeed on a Wisdom saving throw or have the [[Charmed]] condition for the duration. The creature succeeds automatically if it isn't Humanoid.
+A spectral crown appears on the [[Charmed]] target's head, and it must use its action before moving on each of its turns to make a melee attack against a creature other than itself that you mentally choose. The target can act normally on its turn if you choose no creature or if no creature is within its reach. The target repeats the save at the end of each of its turns, ending the spell on itself on a success.
+On your later turns, you must take the Magic action to maintain control of the target, or the spell ends.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#crown%20of%20madness_xphb)

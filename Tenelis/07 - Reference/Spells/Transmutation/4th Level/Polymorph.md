@@ -13,9 +13,10 @@ source: "2024"
 ---
 # Polymorph
 
-This spell transforms a creature you can see within range into a new form. An unwilling creature must make a Wisdom saving throw to avoid the effect. A shapechanger automatically succeeds. The transformation lasts for the duration or until the target drops to 0 Hit Points or dies.
-
-The new form can be any Beast whose challenge rating is equal to or less than the target's level or challenge rating. The target's game statistics are replaced by the statistics of the chosen Beast, but the target retains its personality, Hit Point maximum, and Hit Points. The target gains a number of Temporary Hit Points equal to the Hit Points of the new form. The target is limited in the actions it can perform by the nature of its new form, and it can't speak or cast spells. The target's gear melds into the new form.
+You attempt to transform a creature that you can see within range into a Beast. The target must succeed on a Wisdom saving throw or shape-shift into Beast form for the duration. That form can be any Beast you choose that has a Challenge Rating equal to or less than the target's (or the target's level if it doesn't have a Challenge Rating). The target's game statistics are replaced by the stat block of the chosen Beast, but the target retains its alignment, personality, creature type, Hit Points, and Hit Point Dice.
+The target gains a number of Temporary Hit Points equal to the Hit Points of the Beast form. These Temporary Hit Points vanish if any remain when the spell ends. The spell ends early on the target if it has no Temporary Hit Points left.
+The target is limited in the actions it can perform by the anatomy of its new form, and it can't speak or cast spells.
+The target's gear melds into the new form. The creature can't use or otherwise benefit from any of that equipment.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#polymorph_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#polymorph_xphb)

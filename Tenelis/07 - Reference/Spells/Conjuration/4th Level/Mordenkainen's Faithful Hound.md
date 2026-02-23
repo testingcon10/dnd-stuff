@@ -4,16 +4,19 @@ spell_level: 4
 school: "Conjuration"
 casting_time: "1 action"
 range: "30 feet"
-components: "V, S, M (a tiny silver whistle, a piece of bone, and a thread)"
+components: "V, S, M (a silver whistle)"
 duration: "8 hours"
-classes: ["Wizard"]
+classes: ["Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Mordenkainen's Faithful Hound
 
-You conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration, until you dismiss it as an action, or until you move more than 100 feet away from it. The hound is invisible to all creatures except you and can't be harmed. When a Small or larger creature comes within 30 feet of it without first speaking a password that you specify when you cast this spell, the hound starts barking loudly. The hound sees invisible creatures and can bite attackers, making a melee spell attack with a +10 bonus dealing 4d8 piercing damage.
+You conjure a phantom watchdog in an unoccupied space that you can see within range. The hound remains for the duration or until the two of you are more than 300 feet apart from each other.
+No one but you can see the hound, and it is intangible and invulnerable. When a Small or larger creature comes within 30 feet of it without first speaking the password that you specify when you cast this spell, the hound starts barking loudly. The hound has Truesight with a range of 30 feet.
+At the start of each of your turns, the hound attempts to bite one enemy within 5 feet of it. That enemy must succeed on a Dexterity saving throw or take 4d8 Force damage.
+On your later turns, you can take a Magic action to move the hound up to 30 feet.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20faithful%20hound_xphb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen%27s%20faithful%20hound_xphb)

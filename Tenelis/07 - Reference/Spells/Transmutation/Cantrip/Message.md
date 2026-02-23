@@ -4,16 +4,17 @@ spell_level: 0
 school: "Transmutation"
 casting_time: "1 action"
 range: "120 feet"
-components: "V, S, M (a short piece of copper wire)"
+components: "S, M (a copper wire)"
 duration: "1 round"
-classes: ["Bard", "Sorcerer", "Wizard"]
+classes: ["Bard", "Druid", "Sorcerer", "Wizard", "Artificer"]
 ritual: false
 concentration: false
 source: "2024"
 ---
 # Message
 
-You point your finger toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear. You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier, though magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood blocks the spell.
+You point toward a creature within range and whisper a message. The target (and only the target) hears the message and can reply in a whisper that only you can hear.
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence; 1 foot of stone, metal, or wood; or a thin sheet of lead blocks the spell.
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#message_xphb)

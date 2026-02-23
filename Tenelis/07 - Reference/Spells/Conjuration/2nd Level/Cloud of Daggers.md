@@ -13,10 +13,11 @@ source: "2024"
 ---
 # Cloud of Daggers
 
-You fill the air with spinning daggers in a Cube 5 feet on each side, centered on a point you choose within range. A creature takes 4d4 Slashing damage when it enters the area for the first time on a turn or starts its turn there. You can also move the Cube up to 10 feet as a Bonus Action on your turns.
+You conjure spinning daggers in a 5-foot Cube centered on a point within range. Each creature in that area takes 4d4 Slashing damage. A creature also takes this damage if it enters the Cube or ends its turn there or if the Cube moves into its space. A creature takes this damage only once per turn.
+On your later turns, you can take a Magic action to teleport the Cube up to 30 feet.
 
 ## At Higher Levels
-When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, the damage increases by 2d4 for each slot level above 2nd.
+The damage increases by 2d4 for each spell slot level above 2.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cloud%20of%20daggers_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cloud%20of%20daggers_xphb)

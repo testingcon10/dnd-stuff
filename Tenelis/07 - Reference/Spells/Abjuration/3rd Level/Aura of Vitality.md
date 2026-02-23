@@ -3,7 +3,7 @@ tags: [spell, reference]
 spell_level: 3
 school: "Abjuration"
 casting_time: "1 action"
-range: "Self (30-foot radius)"
+range: "30 feet"
 components: "V"
 duration: "Concentration, up to 1 minute"
 classes: ["Cleric", "Druid", "Paladin"]
@@ -13,7 +13,7 @@ source: "2024"
 ---
 # Aura of Vitality
 
-Healing energy radiates from you in a 30-foot-radius Aura. Until the spell ends, whenever you or a creature in the Aura regains Hit Points from a spell, that creature regains an additional 2d6 Hit Points.
+An aura radiates from you in a 30-foot Emanation for the duration. When you create the aura and at the start of each of your turns while it persists, you can restore 2d6 Hit Points to one creature in it.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#aura%20of%20vitality_2024)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#aura%20of%20vitality_xphb)
