@@ -19,4 +19,4 @@ A sudden loud ringing noise painfully intense erupts from a point of your choice
 Damage increases by 1d8 for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shatter_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shatter_xphb)

@@ -16,4 +16,4 @@ source: "2024"
 You gain the service of a familiar, a spirit that takes an animal form you choose (such as a bat, cat, hawk, or owl, among others). The familiar acts independently of you but always obeys your commands. You can communicate with it telepathically within 100 feet, and as an action you can see through its eyes and hear what it hears. As an action, you can temporarily dismiss it to a pocket dimension or permanently dismiss it.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#find%20familiar_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#find%20familiar_xphb)

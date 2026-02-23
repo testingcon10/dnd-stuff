@@ -16,4 +16,4 @@ source: "2024"
 For the spell's duration, your eyes become an inky void imbued with dread power. One creature of your choice within 60 feet that you can see must succeed on a Wisdom saving throw or be affected by one of the following effects of your choice: Asleep, Panicked, or Sickened. On each of your turns until the spell ends, you can use your action to target another creature with this effect.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#eyebite_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#eyebite_xphb)

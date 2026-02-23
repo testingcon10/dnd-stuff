@@ -19,4 +19,4 @@ A hail of rock-hard ice pounds to the ground in a 20-foot-radius, 40-foot-high c
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the bludgeoning damage increases by 1d8 for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ice%20storm_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ice%20storm_xphb)

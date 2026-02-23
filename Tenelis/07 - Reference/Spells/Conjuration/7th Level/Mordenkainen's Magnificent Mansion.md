@@ -16,4 +16,4 @@ source: "2024"
 You conjure an extradimensional dwelling in range that has a single entrance, a 5-foot-wide, 10-foot-tall shimmering portal. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. The dwelling contains up to 100 rooms arranged as you wish, and is furnished and decorated as you choose, complete with sufficient food to serve a nine-course banquet for up to 100 people and a staff of 100 near-transparent servants.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20magnificent%20mansion_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20magnificent%20mansion_xphb)

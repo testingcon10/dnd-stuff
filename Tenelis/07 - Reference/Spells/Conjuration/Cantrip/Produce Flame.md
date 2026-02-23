@@ -19,4 +19,4 @@ A flickering flame appears in your hand, shedding bright light in a 10-foot radi
 This spell's damage increases by 1d8 when you reach [[5th Level|5th level]] (2d8), 11th level (3d8), and 17th level (4d8).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#produce%20flame_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#produce%20flame_xphb)

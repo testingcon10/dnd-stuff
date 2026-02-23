@@ -19,4 +19,4 @@ You attempt to beguile a creature you can see within range, which must succeed o
 When you cast this spell with a 9th-level spell slot, the duration is concentration, up to 8 hours.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dominate%20monster_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dominate%20monster_xphb)

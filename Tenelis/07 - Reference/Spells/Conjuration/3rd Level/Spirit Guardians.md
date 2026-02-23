@@ -19,4 +19,4 @@ You call forth spirits to protect you. They flit around you to a distance of 15 
 Damage increases by 1d8 for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#spirit%20guardians_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#spirit%20guardians_xphb)

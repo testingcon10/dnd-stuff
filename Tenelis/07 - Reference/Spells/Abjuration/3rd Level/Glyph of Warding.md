@@ -19,4 +19,4 @@ You inscribe a glyph that harms other creatures on a surface or within an object
 When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, the damage of an Explosive Runes glyph increases by 1d8 for each slot level above 3rd. If you create a Spell Glyph, you can store any spell of up to the same level as the slot you use for the glyph of warding.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#glyph%20of%20warding_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#glyph%20of%20warding_xphb)

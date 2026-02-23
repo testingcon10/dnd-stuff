@@ -16,4 +16,4 @@ source: "2024"
 You conjure a portal linking an unoccupied space you can see within range to a precise location on a different plane of existence. The portal is a circular opening 5 to 20 feet in diameter, and any creature or object that passes through it appears within 5 feet of the destination. You can also use the spell to call a specific creature by name, and if that creature is on another plane, it is drawn through the portal to the nearest unoccupied space on your side.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#gate_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#gate_xphb)

@@ -19,4 +19,4 @@ A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube 
 The damage increases by 1d8 for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#thunderwave_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#thunderwave_xphb)

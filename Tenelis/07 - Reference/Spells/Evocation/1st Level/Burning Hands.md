@@ -19,4 +19,4 @@ As you hold your hands with thumbs touching and fingers spread, a thin sheet of 
 When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, the damage increases by 1d6 for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#burning%20hands_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#burning%20hands_xphb)

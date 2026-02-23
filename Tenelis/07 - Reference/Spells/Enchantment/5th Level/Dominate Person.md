@@ -19,4 +19,4 @@ You attempt to beguile a humanoid that you can see within range. It must succeed
 When you cast this spell using a 6th-level slot, the duration is concentration, up to 10 minutes. Using a 7th-level slot, the duration is concentration, up to 1 hour. Using an 8th-level slot, the duration is concentration, up to 8 hours.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dominate%20person_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dominate%20person_xphb)

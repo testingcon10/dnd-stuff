@@ -19,4 +19,4 @@ You touch a willing creature. The target gains a flying speed of 60 feet for the
 You can target one additional creature for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fly_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fly_xphb)

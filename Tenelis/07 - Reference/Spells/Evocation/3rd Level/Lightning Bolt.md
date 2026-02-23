@@ -19,4 +19,4 @@ A stroke of lightning forming a line 100 feet long and 5 feet wide blasts out fr
 Damage increases by 1d6 for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#lightning%20bolt_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#lightning%20bolt_xphb)

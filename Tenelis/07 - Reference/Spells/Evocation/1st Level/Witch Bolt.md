@@ -19,4 +19,4 @@ A beam of crackling, blue energy lances out toward a creature within range, form
 The initial damage increases by 1d12 for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#witch%20bolt_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#witch%20bolt_xphb)

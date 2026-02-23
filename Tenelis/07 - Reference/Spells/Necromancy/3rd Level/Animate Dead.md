@@ -19,4 +19,4 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, you animate or reassert control over two additional undead creatures for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animate%20dead_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animate%20dead_xphb)

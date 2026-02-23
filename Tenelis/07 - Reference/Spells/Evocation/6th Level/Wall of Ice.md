@@ -19,4 +19,4 @@ You create a wall of ice on a solid surface within range. You can form it into a
 When you cast this spell using a spell slot of [[7th Level|7th level]] or higher, the damage the wall deals when it appears increases by 2d6, and the damage from passing through the frigid air increases by 1d6, for each slot level above 6th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20ice_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20ice_xphb)

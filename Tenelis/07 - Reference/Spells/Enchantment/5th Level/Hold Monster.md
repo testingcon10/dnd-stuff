@@ -19,4 +19,4 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, you can target one additional creature for each slot level above 5th. The creatures must be within 30 feet of each other when you target them.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hold%20monster_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hold%20monster_xphb)

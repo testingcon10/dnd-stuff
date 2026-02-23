@@ -16,4 +16,4 @@ source: "2024"
 You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 20-foot cube. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. You can designate creatures that won't set off the alarm. You choose whether the alarm is mental or audible.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#alarm_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#alarm_xphb)

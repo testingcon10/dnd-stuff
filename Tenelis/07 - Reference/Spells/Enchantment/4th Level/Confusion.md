@@ -19,4 +19,4 @@ This spell assaults and twists creatures' minds, spawning delusions and provokin
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the radius of the sphere increases by 5 feet for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#confusion_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#confusion_xphb)

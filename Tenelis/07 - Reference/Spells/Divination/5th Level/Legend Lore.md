@@ -16,4 +16,4 @@ source: "2024"
 Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. The lore might consist of current tales, forgotten stories, or even secret lore that has never been widely known. If the thing you named isn't of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive is.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#legend%20lore_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#legend%20lore_xphb)

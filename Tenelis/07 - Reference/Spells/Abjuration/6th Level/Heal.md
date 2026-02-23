@@ -19,4 +19,4 @@ Choose a creature that you can see within range. A surge of positive energy wash
 When you cast this spell using a spell slot of [[7th Level|7th level]] or higher, the amount of healing increases by 10 for each slot level above 6th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#heal_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#heal_xphb)

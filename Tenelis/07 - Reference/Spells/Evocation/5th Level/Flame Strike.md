@@ -19,4 +19,4 @@ A vertical column of divine fire roars down from the heavens in a location you s
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the fire damage or the radiant damage (your choice) increases by 1d6 for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flame%20strike_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flame%20strike_xphb)

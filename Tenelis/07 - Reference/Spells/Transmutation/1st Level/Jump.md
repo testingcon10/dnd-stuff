@@ -16,4 +16,4 @@ source: "2024"
 You touch a creature, and its jump distance is tripled until the spell ends. This affects long jumps, high jumps, and standing jumps alike, enabling the target to traverse large gaps or reach elevated positions that would otherwise be inaccessible.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#jump_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#jump_xphb)

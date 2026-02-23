@@ -18,4 +18,4 @@ You drive a disorienting spike of psychic energy into the mind of one creature y
 This spell's damage increases by 1d6 when you reach [[5th Level|5th level]] (2d6), 11th level (3d6), and 17th level (4d6).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mind%20sliver_tce)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mind%20sliver_xphb)

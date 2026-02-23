@@ -19,4 +19,4 @@ You create the image of an object, a creature, or some other visible phenomenon 
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the spell lasts until dispelled, without requiring your concentration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#major%20image_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#major%20image_xphb)

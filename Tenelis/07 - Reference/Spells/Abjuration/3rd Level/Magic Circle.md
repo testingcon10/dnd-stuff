@@ -19,4 +19,4 @@ You create a 10-foot-radius, 20-foot-tall cylinder of magical energy centered on
 When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, the duration increases by 1 hour for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#magic%20circle_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#magic%20circle_xphb)

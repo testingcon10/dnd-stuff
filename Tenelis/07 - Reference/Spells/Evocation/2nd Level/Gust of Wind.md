@@ -16,4 +16,4 @@ source: "2024"
 A line of strong wind 60 feet long and 10 feet wide blasts from you in a direction you choose for the spell's duration. Each creature that starts its turn in the line must succeed on a Strength saving throw or be pushed 15 feet away from you in the direction following the line. Any creature in the line must spend 2 feet of movement for every 1 foot it moves when moving closer to you. The gust disperses gas or vapor, and it extinguishes candles, torches, and similar unprotected flames in the area.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#gust%20of%20wind_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#gust%20of%20wind_xphb)

@@ -19,4 +19,4 @@ You place a magical command on a creature that you can see within range, forcing
 When you cast this spell using a spell slot of 7th or [[8th Level|8th level]], the duration is 1 year. When you use a spell slot of [[9th Level|9th level]], the spell lasts until it is ended by one of the spells mentioned in the description.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#geas_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#geas_xphb)

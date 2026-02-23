@@ -16,4 +16,4 @@ source: "2024"
 A veil of shadows and silence radiates from you, masking you and your companions from detection. For the duration, each creature you choose within 30 feet of you has a +10 bonus to Dexterity ([[Stealth]]) checks and can't be tracked except by magical means.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#pass%20without%20trace_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#pass%20without%20trace_xphb)

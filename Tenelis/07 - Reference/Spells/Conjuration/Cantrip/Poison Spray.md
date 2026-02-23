@@ -19,4 +19,4 @@ You extend your hand toward a creature you can see within range and project a pu
 This spell's damage increases by 1d12 when you reach [[5th Level|5th level]] (2d12), 11th level (3d12), and 17th level (4d12).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#poison%20spray_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#poison%20spray_xphb)

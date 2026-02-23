@@ -19,4 +19,4 @@ You evoke a fiery blade in your free hand. The blade is similar in size and shap
 The damage increases by 1d6 for every two slot levels above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flame%20blade_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flame%20blade_xphb)

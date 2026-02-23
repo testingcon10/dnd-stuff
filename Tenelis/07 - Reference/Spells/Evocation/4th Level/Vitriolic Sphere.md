@@ -19,4 +19,4 @@ You point at a location within range, and a glowing, 1-foot-diameter ball of eme
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the initial damage increases by 2d4 for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#vitriolic%20sphere_xge)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#vitriolic%20sphere_xphb)

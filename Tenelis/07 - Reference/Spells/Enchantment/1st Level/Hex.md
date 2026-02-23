@@ -19,4 +19,4 @@ You place a curse on a creature that you can see within range. Until the spell e
 When you cast this spell using a spell slot of 3rd or [[4th Level|4th level]], you can maintain concentration on the spell for up to 8 hours. When you use a spell slot of [[5th Level|5th level]] or higher, you can maintain concentration on the spell for up to 24 hours.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hex_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hex_xphb)

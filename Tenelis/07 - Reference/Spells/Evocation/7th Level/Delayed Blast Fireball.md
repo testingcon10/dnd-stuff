@@ -19,4 +19,4 @@ A beam of yellow light flashes from your pointing finger and condenses at a chos
 When you cast this spell using a spell slot of [[8th Level|8th level]] or higher, the base damage increases by 1d6 for each slot level above 7th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#delayed%20blast%20fireball_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#delayed%20blast%20fireball_xphb)

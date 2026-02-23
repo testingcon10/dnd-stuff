@@ -19,4 +19,4 @@ You attempt to charm a creature you can see within range. It must make a Wisdom 
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, you can target one additional creature for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#charm%20monster_xge)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#charm%20monster_xphb)

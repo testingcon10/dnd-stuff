@@ -16,4 +16,4 @@ source: "2024"
 A creature of your choice that you can see within range perceives everything as hilariously funny and falls into fits of laughter. The target must succeed on a Wisdom saving throw or fall prone, becoming incapacitated and unable to stand up for the duration. A creature with an Intelligence score of 4 or less isn't affected. At the end of each of its turns and each time it takes damage, the target can make another Wisdom saving throw, ending the effect on a success.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tasha's%20hideous%20laughter_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tasha's%20hideous%20laughter_xphb)

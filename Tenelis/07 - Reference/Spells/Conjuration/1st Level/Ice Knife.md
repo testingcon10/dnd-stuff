@@ -19,4 +19,4 @@ You create a shard of ice and fling it at one creature within range. Make a rang
 When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, the cold damage increases by 1d6 for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ice%20knife_xge)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ice%20knife_xphb)

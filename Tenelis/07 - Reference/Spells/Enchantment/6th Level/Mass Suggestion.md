@@ -19,4 +19,4 @@ You suggest a course of activity (limited to a sentence or two) and magically in
 When you cast this spell using a 7th-level spell slot, the duration is 10 days. When you use an 8th-level spell slot, the duration is 30 days. When you use a 9th-level spell slot, the duration is a year and a day.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20suggestion_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20suggestion_xphb)

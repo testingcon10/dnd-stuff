@@ -19,4 +19,4 @@ You plant four pieces of nonmagical ammunition in the ground within range and la
 The amount of ammunition that can be affected increases by two for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cordon%20of%20arrows_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cordon%20of%20arrows_xphb)

@@ -19,4 +19,4 @@ A bright streak flashes from your pointing finger to a point you choose within r
 Damage increases by 1d6 for each slot level above 3rd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fireball_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fireball_xphb)

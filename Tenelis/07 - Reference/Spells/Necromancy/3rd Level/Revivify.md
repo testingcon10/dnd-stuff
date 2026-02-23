@@ -16,4 +16,4 @@ source: "2024"
 You touch a creature that has died within the last minute. That creature returns to life with 1 hit point. This spell can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#revivify_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#revivify_xphb)

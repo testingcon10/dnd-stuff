@@ -16,4 +16,4 @@ source: "2024"
 For the duration, no sound can be created within or pass through a 20-foot-radius sphere centered on a point you choose within range. Creatures inside the area are immune to thunder damage and are deafened. Casting a spell that includes a verbal component is impossible within the area. Can be cast as a ritual.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#silence_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#silence_xphb)

@@ -19,4 +19,4 @@ You choose a creature you can see within range and mystically mark it as your qu
 At [[3rd Level|3rd level]] the duration extends to 8 hours, and at [[5th Level|5th level]] to 24 hours.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hunter's%20mark_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hunter's%20mark_xphb)

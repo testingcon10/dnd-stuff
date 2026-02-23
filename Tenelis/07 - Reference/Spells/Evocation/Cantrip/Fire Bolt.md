@@ -19,4 +19,4 @@ You hurl a mote of fire at a creature or object within range. Make a ranged spel
 The spell's damage increases by 1d10 at [[5th Level|5th level]] (2d10), 11th level (3d10), and 17th level (4d10).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fire%20bolt_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#fire%20bolt_xphb)

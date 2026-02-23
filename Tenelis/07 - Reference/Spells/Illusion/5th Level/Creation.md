@@ -19,4 +19,4 @@ You pull wisps of shadow material from the Shadowfell to create a nonliving obje
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the cube increases by 5 feet for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#creation_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#creation_xphb)

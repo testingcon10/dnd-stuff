@@ -16,4 +16,4 @@ source: "2024"
 A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration. This bonus action spell is an efficient way to bolster a front-line ally's defenses, and its 10-minute duration means it can last through multiple encounters.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shield%20of%20faith_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shield%20of%20faith_xphb)

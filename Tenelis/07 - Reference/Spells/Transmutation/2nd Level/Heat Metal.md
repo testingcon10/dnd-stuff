@@ -19,4 +19,4 @@ Choose a manufactured metal object, such as a metal weapon or a suit of heavy or
 When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, the damage increases by 1d8 for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#heat%20metal_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#heat%20metal_xphb)

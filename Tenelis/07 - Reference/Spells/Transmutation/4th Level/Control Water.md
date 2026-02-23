@@ -16,4 +16,4 @@ source: "2024"
 Until the spell ends, you control any freestanding water inside an area you choose that is a cube up to 100 feet on a side. You choose from several effects when you cast this spell: Flood, Part Water, Redirect Flow, or Whirlpool. As an action on your turn, you can repeat the same effect or choose a different one. Each effect allows you to manipulate water in different ways, such as raising its level, parting it to create a trench, changing its flow direction, or creating a spinning vortex.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#control%20water_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#control%20water_xphb)

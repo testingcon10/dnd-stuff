@@ -19,4 +19,4 @@ You create a bolt of lightning that arcs toward a target of your choice within r
 When you cast this spell using a spell slot of [[7th Level|7th level]] or higher, one additional bolt leaps from the first target to another target for each slot level above 6th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chain%20lightning_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#chain%20lightning_xphb)

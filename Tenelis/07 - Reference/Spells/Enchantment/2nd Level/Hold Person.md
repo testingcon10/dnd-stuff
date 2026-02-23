@@ -19,4 +19,4 @@ Choose a humanoid that you can see within range. The target must succeed on a Wi
 You can target one additional humanoid for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hold%20person_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hold%20person_xphb)

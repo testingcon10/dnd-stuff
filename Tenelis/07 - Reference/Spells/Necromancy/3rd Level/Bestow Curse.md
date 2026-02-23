@@ -19,4 +19,4 @@ You touch a creature, and that creature must succeed on a Wisdom saving throw or
 When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, the duration is concentration up to 10 minutes. With a 5th-level slot, the duration is 8 hours. With a 7th-level slot, the duration is 24 hours. With a 9th-level slot, the curse lasts until dispelled and doesn't require concentration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bestow%20curse_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bestow%20curse_xphb)

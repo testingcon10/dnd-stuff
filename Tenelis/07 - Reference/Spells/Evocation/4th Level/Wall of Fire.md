@@ -19,4 +19,4 @@ You create a wall of fire on a solid surface within range. The wall can be up to
 Damage increases by 1d8 for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20fire_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20fire_xphb)

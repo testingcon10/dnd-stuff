@@ -19,4 +19,4 @@ This spell lets you convince a beast that you mean it no harm. Choose a beast th
 When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, you can affect one additional beast for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animal%20friendship_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animal%20friendship_xphb)

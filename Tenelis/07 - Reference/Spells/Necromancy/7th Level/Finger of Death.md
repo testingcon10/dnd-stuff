@@ -19,4 +19,4 @@ You send negative energy coursing through a creature that you can see within ran
 When you cast this spell using a spell slot of [[8th Level|8th level]] or higher, the damage increases by 2d8 for each slot level above 7th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#finger%20of%20death_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#finger%20of%20death_xphb)

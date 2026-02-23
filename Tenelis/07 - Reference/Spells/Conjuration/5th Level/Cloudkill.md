@@ -19,4 +19,4 @@ You create a 20-foot-radius sphere of poisonous, yellow-green fog centered on a 
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cloudkill_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cloudkill_xphb)

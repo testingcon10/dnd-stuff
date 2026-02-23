@@ -16,4 +16,4 @@ source: "2024"
 Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful. This makes you supernaturally persuasive and undetectable by truth-divining magic for the duration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#glibness_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#glibness_xphb)

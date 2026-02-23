@@ -16,4 +16,4 @@ source: "2024"
 You touch one object no larger than 10 feet in any dimension. Until the spell ends, the object sheds bright light in a 20-foot radius and dim light for an additional 20 feet. Completely covering the object blocks the light. The spell ends if you cast it again or dismiss it as an action.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#light_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#light_xphb)

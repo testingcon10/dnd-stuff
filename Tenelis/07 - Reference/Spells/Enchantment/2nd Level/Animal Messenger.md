@@ -19,4 +19,4 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 The duration of the spell increases by 48 hours for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animal%20messenger_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#animal%20messenger_xphb)

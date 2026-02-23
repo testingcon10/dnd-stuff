@@ -18,4 +18,4 @@ You utter a [[Divine Word|divine word]], and burning radiance erupts from you. E
 The spell's damage increases by 1d6 when you reach [[5th Level|5th level]] (2d6), 11th level (3d6), and 17th level (4d6).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#word%20of%20radiance_xge)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#word%20of%20radiance_xphb)

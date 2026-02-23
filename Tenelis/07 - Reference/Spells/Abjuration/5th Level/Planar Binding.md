@@ -19,4 +19,4 @@ With this spell, you attempt to bind a celestial, an elemental, a fey, or a fien
 When you cast this spell using a spell slot of a higher level, the duration increases to 10 days with a 6th-level slot, 30 days with a 7th-level slot, 180 days with an 8th-level slot, and a year and a day with a 9th-level slot.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#planar%20binding_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#planar%20binding_xphb)

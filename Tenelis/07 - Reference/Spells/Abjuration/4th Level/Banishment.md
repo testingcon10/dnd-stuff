@@ -19,4 +19,4 @@ You attempt to send one creature you can see within range to another plane. The 
 You can target one additional creature for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#banishment_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#banishment_xphb)

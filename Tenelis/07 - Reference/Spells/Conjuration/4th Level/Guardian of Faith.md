@@ -16,4 +16,4 @@ source: "2024"
 A Large spectral guardian appears and hovers for the duration in an unoccupied space of your choice that you can see within range. The guardian occupies that space and is indistinct except for a gleaming sword and shield emblazoned with the symbol of your deity. Any creature hostile to you that moves to a space within 10 feet of the guardian for the first time on a turn must succeed on a Dexterity saving throw or take 20 radiant damage. The guardian vanishes when it has dealt a total of 60 damage.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#guardian%20of%20faith_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#guardian%20of%20faith_xphb)

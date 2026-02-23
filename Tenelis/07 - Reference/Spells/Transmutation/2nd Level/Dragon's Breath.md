@@ -19,4 +19,4 @@ You touch one willing creature and imbue it with the power to spew magical energ
 When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, the damage increases by 1d6 for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dragon's%20breath_xge)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dragon's%20breath_xphb)

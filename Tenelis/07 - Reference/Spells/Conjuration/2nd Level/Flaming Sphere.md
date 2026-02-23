@@ -19,4 +19,4 @@ A 5-foot-diameter sphere of fire appears in an unoccupied space of your choice w
 The damage increases by 1d6 for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flaming%20sphere_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flaming%20sphere_xphb)

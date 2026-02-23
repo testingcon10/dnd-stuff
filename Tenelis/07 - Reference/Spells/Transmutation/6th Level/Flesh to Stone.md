@@ -16,4 +16,4 @@ source: "2024"
 You attempt to turn one creature that you can see within range into stone. If the target's body is made of flesh, the creature must make a Constitution saving throw. On a failed save, it is restrained as its flesh begins to harden. The creature must make a Constitution saving throw at the end of each of its turns; after three successful saves, the spell ends, but after three failures, the creature is turned to stone and subjected to the petrified condition for the duration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flesh%20to%20stone_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#flesh%20to%20stone_xphb)

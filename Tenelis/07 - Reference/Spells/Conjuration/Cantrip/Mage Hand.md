@@ -16,4 +16,4 @@ source: "2024"
 A spectral, floating hand appears at a point you choose within range. It can manipulate objects, open unlocked doors, stow or retrieve items from open containers, or pour out a vial. It can't attack, activate magic items, or carry more than 10 pounds. You can move the hand up to 30 feet each time you use it.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mage%20hand_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mage%20hand_xphb)

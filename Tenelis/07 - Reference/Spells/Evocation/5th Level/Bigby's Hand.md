@@ -19,4 +19,4 @@ You create a Large hand of shimmering, translucent force in an unoccupied space 
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage from the clenched fist option increases by 2d8 and the damage from the grasping hand increases by 2d6 for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bigby's%20hand_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bigby's%20hand_xphb)

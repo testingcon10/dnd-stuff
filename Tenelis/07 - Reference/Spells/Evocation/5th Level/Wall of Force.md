@@ -16,4 +16,4 @@ source: "2024"
 An invisible wall of force springs into existence at a point you choose within range. The wall can be a flat surface (up to ten 10-foot-by-10-foot panels) or a sphere/hemisphere up to 10 feet in radius. Nothing can physically pass through the wall. It is immune to all damage and can't be dispelled by [[Dispel Magic]]. A [[Disintegrate]] spell destroys it instantly. The wall extends into the Ethereal Plane, blocking ethereal travel.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20force_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20force_xphb)

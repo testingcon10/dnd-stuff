@@ -16,4 +16,4 @@ source: "2024"
 You shape an illusory duplicate of one beast or humanoid that is within range for the entire casting time of the spell. The duplicate is a creature, partially real and formed from ice or snow, and it appears to be the same as the original, but it has half the creature's hit point maximum and is formed without any equipment. The simulacrum is friendly to you and creatures you designate, obeys your spoken commands, and has all the statistics and abilities of the original creature except it can't regain hit points or spell slots.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#simulacrum_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#simulacrum_xphb)

@@ -19,4 +19,4 @@ You call forth the spirit of a construct. It manifests in an unoccupied space th
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20construct_tce)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20construct_xphb)

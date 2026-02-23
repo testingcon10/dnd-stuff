@@ -19,4 +19,4 @@ You attempt to reshape another creature's memories. One creature that you can se
 If you cast this spell using a spell slot of [[6th Level|6th level]] or higher, you can alter the target's memories of an event that took place up to 7 days ago ([[6th Level|6th level]]), 30 days ago ([[7th Level|7th level]]), 1 year ago ([[8th Level|8th level]]), or any time in the creature's past ([[9th Level|9th level]]).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#modify%20memory_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#modify%20memory_xphb)

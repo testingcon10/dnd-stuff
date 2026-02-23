@@ -16,4 +16,4 @@ source: "2024"
 Your magic and an offering put you in contact with a god or a god's servants. You ask a single question concerning a specific goal, event, or activity to occur within 7 days. The DM offers a truthful reply, which might be a short phrase, a cryptic rhyme, or an omen. The spell doesn't account for possible circumstances that might change the outcome, and casting it two or more times before a long rest increases the chance of a random reading.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#divination_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#divination_xphb)

@@ -19,4 +19,4 @@ A frigid beam of blue-white light streaks toward a creature within range. Make a
 This spell's damage increases by 1d8 when you reach [[5th Level|5th level]] (2d8), 11th level (3d8), and 17th level (4d8).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ray%20of%20frost_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#ray%20of%20frost_xphb)

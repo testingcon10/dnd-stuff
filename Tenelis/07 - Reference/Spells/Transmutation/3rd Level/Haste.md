@@ -16,4 +16,4 @@ source: "2024"
 Choose a willing creature you can see within range. Until the spell ends, the target's speed is doubled, it gains a +2 bonus to AC, it has advantage on Dexterity saving throws, and it gains an additional action each turn (Attack [one weapon attack only], Dash, Disengage, Hide, or Use an Object). When the spell ends, the target can't move or take actions until after its next turn (lethargy wave).
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#haste_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#haste_xphb)

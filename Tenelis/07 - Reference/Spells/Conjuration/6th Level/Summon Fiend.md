@@ -19,4 +19,4 @@ You call forth a fiendish spirit. It manifests in an unoccupied space that you c
 When you cast this spell using a spell slot of [[7th Level|7th level]] or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20fiend_tce)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20fiend_xphb)

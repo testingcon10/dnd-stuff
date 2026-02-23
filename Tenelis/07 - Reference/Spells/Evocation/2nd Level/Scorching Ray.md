@@ -19,4 +19,4 @@ You create three rays of fire and hurl them at targets within range. You can hur
 When you cast this spell using a spell slot of [[3rd Level|3rd level]] or higher, you create one additional ray for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#scorching%20ray_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#scorching%20ray_xphb)

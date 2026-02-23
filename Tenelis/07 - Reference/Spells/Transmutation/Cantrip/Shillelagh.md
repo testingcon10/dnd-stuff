@@ -16,4 +16,4 @@ source: "2024"
 The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical if it isn't already. The spell ends if you cast it again or if you let go of the weapon.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shillelagh_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#shillelagh_xphb)

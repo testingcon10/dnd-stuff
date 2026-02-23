@@ -19,4 +19,4 @@ You tap into the nightmares of a creature you can see within range and create an
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, the damage increases by 1d10 for each slot level above 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#phantasmal%20killer_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#phantasmal%20killer_xphb)

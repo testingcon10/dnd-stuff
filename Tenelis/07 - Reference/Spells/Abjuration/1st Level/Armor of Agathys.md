@@ -19,4 +19,4 @@ A protective magical force surrounds you, manifesting as a spectral frost that c
 When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, both the temporary hit points and the cold damage increase by 5 for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#armor%20of%20agathys_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#armor%20of%20agathys_xphb)

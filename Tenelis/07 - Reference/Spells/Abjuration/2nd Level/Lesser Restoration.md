@@ -16,4 +16,4 @@ source: "2024"
 You touch a creature and can end either one disease or one condition afflicting it. The condition can be blinded, deafened, paralyzed, or poisoned.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#lesser%20restoration_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#lesser%20restoration_xphb)

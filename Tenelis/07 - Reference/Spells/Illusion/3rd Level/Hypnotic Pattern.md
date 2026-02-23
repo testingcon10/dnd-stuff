@@ -16,4 +16,4 @@ source: "2024"
 You create a twisting pattern of colors that weaves through the air inside a 30-foot cube within range. Each creature in the area that can see the pattern must make a Wisdom saving throw. On a failure, the creature becomes charmed, incapacitated, and its speed drops to 0. The effect ends for an affected creature if it takes damage or someone uses an action to shake it awake.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hypnotic%20pattern_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#hypnotic%20pattern_xphb)

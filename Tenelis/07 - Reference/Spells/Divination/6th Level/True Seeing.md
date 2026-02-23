@@ -16,4 +16,4 @@ source: "2024"
 This spell gives the willing creature you touch the ability to see things as they actually are. For the duration, the creature has truesight out to a range of 120 feet, can see into the Ethereal Plane, and can see through illusions and detect the true form of shapechangers or creatures transformed by magic.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20seeing_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#true%20seeing_xphb)

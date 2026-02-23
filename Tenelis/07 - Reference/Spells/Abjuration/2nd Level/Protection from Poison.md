@@ -16,4 +16,4 @@ source: "2024"
 You touch a creature. If it is poisoned, you neutralize the poison. If more than one poison afflicts the target, you neutralize one poison that you know is present, or you neutralize one at random. For the duration, the target has advantage on saving throws against being poisoned, and it has resistance to poison damage.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#protection%20from%20poison_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#protection%20from%20poison_xphb)

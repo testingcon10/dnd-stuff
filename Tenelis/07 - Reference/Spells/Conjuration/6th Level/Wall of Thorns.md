@@ -19,4 +19,4 @@ You create a wall of tough, pliable, tangled brush bristling with needle-sharp t
 When you cast this spell using a spell slot of [[7th Level|7th level]] or higher, both types of damage increase by 1d8 for each slot level above 6th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20thorns_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20thorns_xphb)

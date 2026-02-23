@@ -16,4 +16,4 @@ source: "2024"
 This spell turns the flesh of a willing creature you touch as hard as stone. Until the spell ends, the target has resistance to nonmagical bludgeoning, piercing, and slashing damage.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#stoneskin_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#stoneskin_xphb)

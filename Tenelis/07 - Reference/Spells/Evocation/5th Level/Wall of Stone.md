@@ -16,4 +16,4 @@ source: "2024"
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 6 inches thick and is composed of ten 10-foot-by-10-foot panels. Each panel must be contiguous with at least one other panel. Each panel has AC 15 and 30 hit points per inch of thickness, and is immune to poison and psychic damage. If the wall cuts through a creature's space when it appears, the creature is pushed to one side of the wall (your choice). If the wall is maintained with concentration for its full duration, it becomes permanent and can't be dispelled.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20stone_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#wall%20of%20stone_xphb)

@@ -19,4 +19,4 @@ You call forth a celestial spirit. It manifests in an unoccupied space that you 
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, use the higher level wherever the spell's level appears in the stat block.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20celestial_tce)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#summon%20celestial_xphb)

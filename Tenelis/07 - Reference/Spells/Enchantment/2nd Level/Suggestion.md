@@ -16,4 +16,4 @@ source: "2024"
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature you can see within range that can hear and understand you. Creatures that can't be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. The target must make a Wisdom saving throw, and on a failed save, it pursues the course of action you described to the best of its ability for the duration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#suggestion_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#suggestion_xphb)

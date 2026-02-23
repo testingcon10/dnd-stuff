@@ -19,4 +19,4 @@ A nonmagical weapon you touch becomes a [[Magic Weapon|magic weapon]]. Choose on
 When you cast this spell using a spell slot of 5th or [[6th Level|6th level]], the bonus to attack rolls increases to +2 and the extra damage increases to 2d4. When you use a spell slot of [[7th Level|7th level]] or higher, the bonus increases to +3 and the extra damage increases to 3d4.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#elemental%20weapon_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#elemental%20weapon_xphb)

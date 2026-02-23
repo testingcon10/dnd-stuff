@@ -16,4 +16,4 @@ source: "2024"
 This spell grants up to ten willing creatures you can see within range the ability to breathe underwater until the spell ends. Affected creatures also retain their normal mode of respiration.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#water%20breathing_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#water%20breathing_xphb)

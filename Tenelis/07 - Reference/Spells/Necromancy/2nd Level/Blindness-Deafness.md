@@ -19,4 +19,4 @@ You can blind or deafen a foe. Choose one creature that you can see within range
 You can target one additional creature for each slot level above 2nd.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blindness%2fdeafness_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blindness%2fdeafness_xphb)

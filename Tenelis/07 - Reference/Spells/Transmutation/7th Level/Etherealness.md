@@ -19,4 +19,4 @@ You step into the border regions of the Ethereal Plane, in the area where it ove
 When you cast this spell using a spell slot of [[8th Level|8th level]] or higher, you can target up to three willing creatures (including you) for each slot level above 7th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#etherealness_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#etherealness_xphb)

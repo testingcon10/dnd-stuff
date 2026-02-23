@@ -16,4 +16,4 @@ source: "2024"
 Your body becomes blurred, shifting and wavering to all who can see you. For the duration, any creature has disadvantage on attack rolls against you. An attacker is immune to this effect if it doesn't rely on sight, as with blindsight, or can see through illusions, as with truesight.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blur_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#blur_xphb)

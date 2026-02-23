@@ -16,4 +16,4 @@ source: "2024"
 For the duration, the willing creature you touch has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#protection%20from%20energy_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#protection%20from%20energy_xphb)

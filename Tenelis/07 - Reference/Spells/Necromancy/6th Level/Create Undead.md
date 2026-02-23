@@ -19,4 +19,4 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 When you cast this spell using a 7th-level spell slot, you can animate or reassert control over four ghouls. When you cast this spell using an 8th-level spell slot, you can animate or reassert control over five ghouls or two ghasts or wights. When you cast this spell using a 9th-level spell slot, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#create%20undead_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#create%20undead_xphb)

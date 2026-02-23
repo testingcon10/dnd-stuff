@@ -16,4 +16,4 @@ source: "2024"
 You write on parchment, paper, or some other suitable writing material and imbue it with a potent illusion that lasts for the duration. To you and any creatures you designate when you cast the spell, the writing appears normal. To all others, the writing appears as if it were written in an unknown or magical script that is unintelligible. Alternatively, you can cause the writing to appear to be an entirely different message written in a different hand and language.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#illusory%20script_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#illusory%20script_xphb)

@@ -19,4 +19,4 @@ A blast of cold air erupts from your hands. Each creature in a 60-foot cone must
 When you cast this spell using a spell slot of [[6th Level|6th level]] or higher, the damage increases by 1d8 for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cone%20of%20cold_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#cone%20of%20cold_xphb)

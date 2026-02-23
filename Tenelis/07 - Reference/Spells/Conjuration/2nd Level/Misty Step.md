@@ -16,4 +16,4 @@ source: "2024"
 Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see. Its bonus action casting time and verbal-only components make it an excellent escape tool, even while grappled or restrained.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#misty%20step_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#misty%20step_xphb)

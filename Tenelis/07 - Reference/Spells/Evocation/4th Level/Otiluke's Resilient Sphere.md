@@ -16,4 +16,4 @@ source: "2024"
 A sphere of shimmering force encloses a creature or object of Large size or smaller within range. An unwilling creature must make a Dexterity saving throw or be enclosed for the duration. Nothing -- not physical objects, energy, or other spell effects -- can pass through the barrier, in either direction, though a creature can breathe there. The sphere is immune to all damage, and a creature or object inside can't be damaged by attacks or effects originating from outside, nor can a creature inside the sphere damage anything outside it. The sphere can be picked up and moved, weighing only half a pound regardless of contents.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#otiluke's%20resilient%20sphere_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#otiluke's%20resilient%20sphere_xphb)

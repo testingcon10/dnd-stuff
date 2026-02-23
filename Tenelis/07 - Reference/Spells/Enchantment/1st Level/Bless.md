@@ -19,4 +19,4 @@ You bless up to three creatures of your choice within range. Whenever a target m
 When you cast this spell using a spell slot of [[2nd Level|2nd level]] or higher, you can target one additional creature for each slot level above 1st.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bless_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#bless_xphb)

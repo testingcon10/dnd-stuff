@@ -16,4 +16,4 @@ source: "2024"
 This spell grants the creature you touch the ability to understand any spoken language it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tongues_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#tongues_xphb)

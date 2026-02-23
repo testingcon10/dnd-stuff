@@ -19,4 +19,4 @@ You make an area within range magically secure. The area is a cube that can be a
 When you cast this spell using a spell slot of [[5th Level|5th level]] or higher, you can increase the size of the cube by 100 feet for each slot level beyond 4th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mordenkainen's%20private%20sanctum_xphb)

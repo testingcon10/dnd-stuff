@@ -19,4 +19,4 @@ Choose one creature, object, or magical effect within range. Any spell of [[3rd 
 When you cast this spell using a spell slot of [[4th Level|4th level]] or higher, you automatically end effects of a spell on the target if the spell's level is equal to or less than your slot level.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dispel%20magic_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#dispel%20magic_xphb)

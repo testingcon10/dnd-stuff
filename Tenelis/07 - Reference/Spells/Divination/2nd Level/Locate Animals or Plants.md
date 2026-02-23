@@ -16,4 +16,4 @@ source: "2024"
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the closest creature or plant of that kind within 5 miles, if any are present.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#locate%20animals%20or%20plants_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#locate%20animals%20or%20plants_xphb)

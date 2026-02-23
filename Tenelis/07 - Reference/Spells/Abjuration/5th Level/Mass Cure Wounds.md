@@ -19,4 +19,4 @@ A wave of healing energy washes out from a point of your choice within range. Ch
 Healing increases by 1d8 for each slot level above 5th.
 
 ---
-🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20cure%20wounds_phb)
+🔗 [Full Details on 5e.tools](https://5e.tools/spells.html#mass%20cure%20wounds_xphb)
