@@ -172,6 +172,5 @@ alignment: True Neutral
 
 - Speaks the [[Kenku]] language
 - Befriended [[Grig]], a dwarf armorer in [[Drayik]]. After [[Grig]]'s death, brought his body and gold to [[Aya]] for a proper burial
-- Loaned [[Plate]] armor by [[Grig]] before the fight at [[Boar Tusk Brewery]]
 
 ## Notes

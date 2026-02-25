@@ -165,6 +165,5 @@ alignment: Lawful Neutral
 
 ## Backstory
 
-- Identified [[Eileen Whitebeak]] at the western bridge - recognized her as the sister of [[Corso]], leader of the Senin militia
 
 ## Notes

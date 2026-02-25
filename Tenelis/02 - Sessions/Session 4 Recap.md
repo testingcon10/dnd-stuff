@@ -51,6 +51,14 @@ After finishing shopping, TICB went to the shopping district to discover it was 
 
 -
 
+## Highlights
+
+| Player | Moment |
+|--------|--------|
+| [[Old Shell]] | Ensnared a Gold Thug in his trap during the [[Red Elk]] fight |
+| [[Netanyahu D. Kirkuenly\|Netanyahu]] | Struck a deal with [[Aya]] - poison knowledge in exchange for cleaning up [[The Golds]]. The party's first real alliance in [[Drayik]] |
+| [[Grig]] | A shopkeep who'd never killed before picked up a weapon and fought alongside strangers for his city |
+
 ## Memorable Quotes
 
 >
