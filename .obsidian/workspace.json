@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "14b06dd6dbe1a688",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6b5fd42a9976a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b702317c23ef78f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tenelis/02 - Sessions/Session 4 Recap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4 Recap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a156de7d544e0a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e484a017160f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8eba51b399ee385",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5039344bd84ea5f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Tenelis/02 - Sessions/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ff7e008a905b392c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3322ceb48d3c5c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "36fe58db246def15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff24719ccb20a2d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tenelis/06 - World/World Map.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for World Map"
+            }
+          },
+          {
+            "id": "8814b28570b447a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tenelis/06 - World/World Map.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from World Map"
+            }
+          },
+          {
+            "id": "41d701addbd69ee4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4ef39f3f6bdc3d7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d1560bb89d606bbe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tenelis/06 - World/World Map.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of World Map"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5039344bd84ea5f1",
+  "lastOpenFiles": [
+    "Tenelis/03 - Quests/Frogs in a Basket.md",
+    "Tenelis/03 - Quests/Trouble on the streets.md",
+    "Tenelis/03 - Quests/Uncover the Senin.md",
+    "Tenelis/02 - Sessions/Session 4 Recap.md",
+    "Tenelis/02 - Sessions/Session 000 - Example.md",
+    "Tenelis/99 - Templates/Template - Session Recap.md",
+    "Tenelis/07 - Reference/Spells/Conjuration/2nd Level/Summon Beast.md",
+    "Tenelis/07 - Reference/Spells/Conjuration/2nd Level/2nd Level.md",
+    "Tenelis/07 - Reference/Spells/Necromancy/1st Level/False Life.md",
+    "Tenelis/07 - Reference/Spells/Necromancy/1st Level/1st Level.md",
+    "Tenelis/06 - World/World Map.md",
+    "Tenelis/07 - Reference/Spells/Conjuration/3rd Level/Summon Undead.md",
+    "Tenelis/06 - World/Locations/Drayik.md",
+    "Tenelis/06 - World/Locations/Calin.md",
+    "Tenelis/05 - Loot Log/Loot Log.md",
+    "Tenelis/07 - Reference/Spells/Spells.md",
+    "Tenelis/01 - Party/Booker Locke.md",
+    "Tenelis/01 - Party/Cassius Bellona.md"
+  ]
+}
