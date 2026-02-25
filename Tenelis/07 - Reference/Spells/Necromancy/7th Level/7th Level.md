@@ -1,3 +1,3 @@
-# Necromancy — 7th Level
+# Necromancy - 7th Level
 
 [[Finger of Death]] | [[Resurrection]]

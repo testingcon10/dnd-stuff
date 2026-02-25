@@ -60,7 +60,7 @@ SORT file.name ASC
 ## Loot & Gold
 
 > [!treasure] Loot Tracking
-> [[Loot Log]] — Master inventory and gold tracking for the party.
+> [[Loot Log]] - Master inventory and gold tracking for the party.
 
 ---
 

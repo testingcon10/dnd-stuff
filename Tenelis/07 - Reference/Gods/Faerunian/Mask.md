@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Mask
 
-*God of Thieves — Chaotic Neutral*
+*God of Thieves - Chaotic Neutral*
 
 | Property | Value |
 |----------|-------|

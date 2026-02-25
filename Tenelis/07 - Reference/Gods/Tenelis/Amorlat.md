@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Amorlat
 
-*Goddess of Mana — Chaotic Good*
+*Goddess of Mana - Chaotic Good*
 
 | Property | Value |
 |----------|-------|

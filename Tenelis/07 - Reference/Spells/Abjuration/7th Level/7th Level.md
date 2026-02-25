@@ -1,3 +1,3 @@
-# Abjuration — 7th Level
+# Abjuration - 7th Level
 
 [[Symbol]]

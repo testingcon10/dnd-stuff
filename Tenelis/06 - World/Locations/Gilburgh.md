@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A northern settlement situated in the foothills between the Vesin Ridge Mountains and the central lowlands.
+A northern settlement situated in the foothills between the [[Vesin Ridge Mountains]] and the central lowlands.
 
 ## Notable Features
 

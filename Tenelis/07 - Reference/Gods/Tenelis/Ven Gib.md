@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Ven Gib
 
-*Goddess of Mischief — Chaotic Neutral*
+*Goddess of Mischief - Chaotic Neutral*
 
 | Property | Value |
 |----------|-------|

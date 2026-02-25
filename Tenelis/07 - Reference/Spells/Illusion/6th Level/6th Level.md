@@ -1,3 +1,3 @@
-# Illusion — 6th Level
+# Illusion - 6th Level
 
 [[Mental Prison]] | [[Programmed Illusion]]

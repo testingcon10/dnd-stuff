@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"07 - Reference\" -path:\"99 - Templates\"",
+  "search": "-path:\"07 - Reference\" -path:\"99 - Templates\" -path:\"02 - Sessions\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -60,6 +60,6 @@
   "repelStrength": 8,
   "linkStrength": 0.8,
   "linkDistance": 200,
-  "scale": 0.508761885579242,
+  "scale": 0.5087618855792412,
   "close": true
 }

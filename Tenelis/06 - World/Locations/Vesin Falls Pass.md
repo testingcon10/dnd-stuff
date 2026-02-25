@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A pass through the Vesin Ridge Mountains, likely named for waterfalls along the route. An important crossing point through the northern mountains.
+A pass through the [[Vesin Ridge Mountains]], likely named for waterfalls along the route. An important crossing point through the northern mountains.
 
 ## Notable Features
 

@@ -28,7 +28,7 @@ attitude: neutral
 
 ## Background
 
-Father of [[Aya]]. Co-ran the Mana House, a magic shop in [[Drayik]]. Has vanished under unknown circumstances.
+Father of [[Aya]]. Co-ran the [[Mana House]], a magic shop in [[Drayik]]. Has vanished under unknown circumstances.
 
 ## Relationships
 

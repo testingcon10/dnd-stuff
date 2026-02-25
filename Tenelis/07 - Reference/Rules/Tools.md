@@ -32,10 +32,10 @@ Proficiency with a tool lets you add your Proficiency Bonus to any ability check
 
 | Set | Cost | Weight |
 |-----|------|--------|
-| Dice Set | 1 SP | — |
+| Dice Set | 1 SP | - |
 | Dragonchess Set | 1 GP | 1/2 lb. |
-| Playing Card Set | 5 SP | — |
-| Three-Dragon Ante Set | 1 GP | — |
+| Playing Card Set | 5 SP | - |
+| Three-Dragon Ante Set | 1 GP | - |
 
 ## Musical Instruments
 

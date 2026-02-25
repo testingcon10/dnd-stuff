@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A southern settlement located between Mallo and Jokkon, in a region of mixed forest and rivers.
+A southern settlement located between [[Mallo]] and [[Jokkon]], in a region of mixed forest and rivers.
 
 ## Notable Features
 

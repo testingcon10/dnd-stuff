@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A remote settlement on the southwestern coast, at the southern tip of the Shigh Desert. Its name suggests it is the last port before the desert wastes.
+A remote settlement on the southwestern coast, at the southern tip of the [[Shigh Desert]]. Its name suggests it is the last port before the desert wastes.
 
 ## Notable Features
 

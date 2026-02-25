@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Human
 
-Humans are the most adaptable and ambitious people among the common races. They are highly versatile, gaining a +1 bonus to all [[Ability Scores|ability scores]] — or, with the popular [[Variant Human]] option, a feat at level 1.
+Humans are the most adaptable and ambitious people among the common races. They are highly versatile, gaining a +1 bonus to all [[Ability Scores|ability scores]] - or, with the popular [[Variant Human]] option, a feat at level 1.
 
 ## Traits
 - **Ability Score Increase:** All [[Ability Scores|ability scores]] +1

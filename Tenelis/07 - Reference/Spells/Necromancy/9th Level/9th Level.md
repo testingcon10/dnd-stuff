@@ -1,3 +1,3 @@
-# Necromancy — 9th Level
+# Necromancy - 9th Level
 
 [[Astral Projection]] | [[True Resurrection]]

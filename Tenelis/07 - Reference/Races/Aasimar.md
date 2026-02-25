@@ -19,9 +19,9 @@ Aasimar bear within their souls the light of the heavens, descended from humans 
 - **Light Bearer:** You know the Light cantrip (Charisma-based)
 
 ## Subraces
-- **Protector Aasimar** — +1 Wisdom, Radiant Soul (wings and radiant damage at [[3rd Level|3rd level]])
-- **Scourge Aasimar** — +1 Constitution, Radiant Consumption (radiant aura that damages all nearby, including yourself)
-- **Fallen Aasimar** — +1 Strength, Necrotic Shroud (frightening skeletal wings and necrotic damage)
+- **Protector Aasimar** - +1 Wisdom, Radiant Soul (wings and radiant damage at [[3rd Level|3rd level]])
+- **Scourge Aasimar** - +1 Constitution, Radiant Consumption (radiant aura that damages all nearby, including yourself)
+- **Fallen Aasimar** - +1 Strength, Necrotic Shroud (frightening skeletal wings and necrotic damage)
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#aasimar_vgm)

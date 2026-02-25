@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement at the western edge of the Vesin Ridge Mountains, likely named for or lending its name to the nearby mountain range.
+A settlement at the western edge of the [[Vesin Ridge Mountains]], likely named for or lending its name to the nearby mountain range.
 
 ## Notable Features
 

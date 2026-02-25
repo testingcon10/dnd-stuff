@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A river system in the central-southern region of Tenelis, winding through forested lowlands south of the Twin Lakes.
+A river system in the central-southern region of Tenelis, winding through forested lowlands south of the [[Twin Lakes]].
 
 ## Notable Features
 

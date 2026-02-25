@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Helm
 
-*God of Protection — Lawful Neutral*
+*God of Protection - Lawful Neutral*
 
 | Property | Value |
 |----------|-------|

@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Oghma
 
-*God of Knowledge — Neutral*
+*God of Knowledge - Neutral*
 
 | Property | Value |
 |----------|-------|

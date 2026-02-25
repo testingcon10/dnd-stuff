@@ -1,3 +1,3 @@
-# Illusion — 8th Level
+# Illusion - 8th Level
 
 [[Illusory Dragon]]

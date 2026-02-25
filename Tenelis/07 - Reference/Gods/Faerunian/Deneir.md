@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Deneir
 
-*God of Writing — Neutral Good*
+*God of Writing - Neutral Good*
 
 | Property | Value |
 |----------|-------|

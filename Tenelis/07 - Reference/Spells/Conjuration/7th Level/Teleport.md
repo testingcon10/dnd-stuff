@@ -20,12 +20,12 @@ The destination you choose must be known to you, and it must be on the same plan
 
 | Familiarity | Mishap | Similar Area | Off Target | On Target |
 | --- | --- | --- | --- | --- |
-| Permanent circle | — | — | — | 01-00 |
-| Linked object | — | — | — | 01-00 |
+| Permanent circle | - | - | - | 01-00 |
+| Linked object | - | - | - | 01-00 |
 | Very familiar | 01-05 | 06-13 | 14-24 | 25-00 |
 | Seen casually | 01-33 | 34-43 | 44-53 | 54-00 |
 | Viewed once or described | 01-43 | 44-53 | 54-73 | 74-00 |
-| False destination | 01-50 | 51-00 | — | — |
+| False destination | 01-50 | 51-00 | - | - |
 
 **Familiarity.** Here are the meanings of the terms in the table's Familiarity column:
 - "Permanent circle" means a permanent [[Teleportation Circle|teleportation circle]] whose sigil sequence you know.

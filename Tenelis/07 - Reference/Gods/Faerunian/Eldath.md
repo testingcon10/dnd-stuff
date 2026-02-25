@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Eldath
 
-*Goddess of Peace — Neutral Good*
+*Goddess of Peace - Neutral Good*
 
 | Property | Value |
 |----------|-------|

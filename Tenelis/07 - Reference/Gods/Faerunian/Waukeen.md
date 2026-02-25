@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Waukeen
 
-*Goddess of Trade — Neutral*
+*Goddess of Trade - Neutral*
 
 | Property | Value |
 |----------|-------|

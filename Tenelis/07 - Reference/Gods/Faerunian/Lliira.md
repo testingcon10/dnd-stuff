@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Lliira
 
-*Goddess of Joy — Chaotic Good*
+*Goddess of Joy - Chaotic Good*
 
 | Property | Value |
 |----------|-------|

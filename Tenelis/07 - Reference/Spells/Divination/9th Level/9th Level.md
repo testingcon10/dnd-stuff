@@ -1,3 +1,3 @@
-# Divination — 9th Level
+# Divination - 9th Level
 
 [[Foresight]]

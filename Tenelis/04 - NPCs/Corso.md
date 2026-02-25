@@ -28,13 +28,13 @@ attitude: neutral
 
 ## Background
 
-Leader of the Senin militia. Obsessed with an ancient Senin prophecy — the old prophecy led to the genocide of his people. His sister [[Eileen Whitebeak]] opposes his radical approach.
+Leader of the Senin militia. Obsessed with an ancient Senin prophecy - the old prophecy led to the genocide of his people. His sister [[Eileen Whitebeak]] opposes his radical approach.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| [[Eileen Whitebeak]] | Sister — strained, she opposes his radical approach |
+| [[Eileen Whitebeak]] | Sister - strained, she opposes his radical approach |
 
 ## Interaction Log
 

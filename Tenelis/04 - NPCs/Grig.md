@@ -28,7 +28,7 @@ attitude: friendly
 
 ## Background
 
-Dwarf armorer in the [[Drayik]] shopping district. Befriended [[Cassius Bellona]]. Had never killed before the events at Boar Tusk Brewery, but put his life on the line for the greater good of [[Drayik]], hoping to end the corruption plaguing the city.
+[[Dwarf]] armorer in the [[Drayik]] shopping district. Befriended [[Cassius Bellona]]. Had never killed before the events at [[Boar Tusk Brewery]], but put his life on the line for the greater good of [[Drayik]], hoping to end the corruption plaguing the city.
 
 ## Relationships
 
@@ -42,9 +42,9 @@ Dwarf armorer in the [[Drayik]] shopping district. Befriended [[Cassius Bellona]
 | Session | Summary |
 |---------|---------|
 | Session 4 | Befriended by the party, helped kill 2 Gold Thug members |
-| Session 5 | Fought alongside the party at Boar Tusk Brewery. Killed by a half-orc henchman |
+| Session 5 | Fought alongside the party at [[Boar Tusk Brewery]]. Killed by a half-orc henchman |
 
 ## Notes
 
-- Deceased — killed by a half-orc henchman of [[The Golds]] at [[Boar Tusk Brewery]]
+- Deceased - killed by a half-orc henchman of [[The Golds]] at [[[[Boar Tusk Brewery]]]]
 - Body and gold given to [[Aya]] by [[Cassius Bellona]] for a proper burial

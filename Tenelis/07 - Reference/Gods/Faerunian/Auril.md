@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Auril
 
-*Goddess of Winter — Neutral Evil*
+*Goddess of Winter - Neutral Evil*
 
 | Property | Value |
 |----------|-------|

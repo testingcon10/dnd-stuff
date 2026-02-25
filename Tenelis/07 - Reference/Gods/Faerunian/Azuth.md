@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Azuth
 
-*God of Wizards — Lawful Neutral*
+*God of Wizards - Lawful Neutral*
 
 | Property | Value |
 |----------|-------|

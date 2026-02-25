@@ -23,10 +23,10 @@ The Golds operate as the mob in the [[Drayik]] shopping district.
 
 | NPC | Role | Notes |
 |-----|------|-------|
-| [[Uzog]] | Member | Orc. Has access to the Kenku catacombs |
+| [[Uzog]] | Member | [[Orc]]. Has access to the [[Kenku]] catacombs |
 | [[Nath]] | Associated | Leader of the [[Avian Brotherhood]] |
 | [[Von]] | Associated | Leader of the [[Elven Mafia]] |
-| [[Kay'Dara]] | Lieutenant (deceased) | Killed at Boar Tusk Brewery |
+| [[Kay'Dara]] | Lieutenant (deceased) | Killed at [[Boar Tusk Brewery]] |
 
 ## Territory
 

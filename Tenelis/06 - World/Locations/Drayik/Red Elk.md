@@ -31,4 +31,4 @@ A tavern in [[Drayik]]. The barkeep helped the party and [[Grig]] kill 2 Gold Th
 
 ## Notes
 
-- Not a gambling spot — not listed in [[The Golds]]' manifest
+- Not a gambling spot - not listed in [[The Golds]]' manifest

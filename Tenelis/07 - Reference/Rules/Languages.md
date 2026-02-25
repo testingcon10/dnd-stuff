@@ -13,7 +13,7 @@ These languages are widely spoken across the worlds of D&D.
 | Language | Typical Speakers | Script |
 |----------|-----------------|--------|
 | Common | Humans, most civilized peoples | Common |
-| Common Sign Language | Hearing-impaired or covert communicators | — |
+| Common Sign Language | Hearing-impaired or covert communicators | - |
 | Dwarvish | Dwarves | Dwarvish |
 | Elvish | Elves | Elvish |
 | Giant | Ogres, Giants | Dwarvish |
@@ -30,13 +30,13 @@ These languages are encountered less frequently, and typically only by those wit
 |----------|-----------------|--------|
 | Abyssal | Demons | Infernal |
 | Celestial | Celestials | Celestial |
-| Deep Speech | Aberrations | — |
+| Deep Speech | Aberrations | - |
 | Draconic | Dragons, [[Dragonborn]] | Draconic |
 | Druidic | Druids (secret) | Elvish |
 | Infernal | Devils | Infernal |
 | Primordial | Elementals | Dwarvish |
 | Sylvan | Fey creatures | Elvish |
-| Thieves' Cant | Rogues (secret) | — |
+| Thieves' Cant | Rogues (secret) | - |
 | Undercommon | Underdark traders | Elvish |
 
 ---

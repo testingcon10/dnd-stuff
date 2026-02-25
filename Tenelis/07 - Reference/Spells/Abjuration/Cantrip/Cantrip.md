@@ -1,3 +1,3 @@
-# Abjuration — Cantrip
+# Abjuration - Cantrip
 
 [[Blade Ward]] | [[Resistance]]

@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Oo'yin
 
-*Goddess of Creation and Stars — Lawful Good*
+*Goddess of Creation and Stars - Lawful Good*
 
 | Property | Value |
 |----------|-------|

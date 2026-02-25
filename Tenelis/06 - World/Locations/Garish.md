@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-An older settlement in the southeast, the original counterpart to New Garish further north along the coast.
+An older settlement in the southeast, the original counterpart to [[New Garish]] further north along the coast.
 
 ## Notable Features
 

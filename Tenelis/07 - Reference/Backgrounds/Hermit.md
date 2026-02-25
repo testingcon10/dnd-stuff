@@ -6,7 +6,7 @@ source: "2024"
 
 *Background*
 
-You spent an extended period living in seclusion — perhaps in a monastery, a forest, a desert cave, or some other isolated retreat. In that time of solitary contemplation, you found quiet and perhaps even illumination.
+You spent an extended period living in seclusion - perhaps in a monastery, a forest, a desert cave, or some other isolated retreat. In that time of solitary contemplation, you found quiet and perhaps even illumination.
 
 | Property | Value |
 |----------|-------|

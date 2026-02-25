@@ -39,7 +39,7 @@ attitude: neutral
 
 ## Known Access
 
-- Kenku catacombs
+- [[Kenku]] catacombs
 
 ## Interaction Log
 

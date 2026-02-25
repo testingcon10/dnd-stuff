@@ -28,6 +28,6 @@ After the recent attack on [[Delmind]] during the Festival of the Daughter. The 
 
 | Session | Update |
 |---------|--------|
-| Session 5 | [[Old Shell]] identified [[Eileen Whitebeak]] at the western bridge — sister of [[Corso]], leader of the Senin militia. She is not on good terms with [[Corso]] due to his radical approach. After the attack on [[Delmind]], she believes violence will not change opinions of her people |
+| Session 5 | [[Old Shell]] identified [[Eileen Whitebeak]] at the western bridge - sister of [[Corso]], leader of the Senin militia. She is not on good terms with [[Corso]] due to his radical approach. After the attack on [[Delmind]], she believes violence will not change opinions of her people |
 
 ## Notes

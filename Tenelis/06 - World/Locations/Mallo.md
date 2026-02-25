@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement in the central-south region, situated at the southern edge of the Vorge Plains.
+A settlement in the central-south region, situated at the southern edge of the [[The Vorge Plains|Vorge Plains]].
 
 ## Notable Features
 

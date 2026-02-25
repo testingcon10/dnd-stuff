@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A long mountain range running north-south through the central-western part of Tenelis, separating the Shigh Desert from the fertile central lands.
+A long mountain range running north-south through the central-western part of Tenelis, separating the [[Shigh Desert]] from the fertile central lands.
 
 ## Notable Features
 

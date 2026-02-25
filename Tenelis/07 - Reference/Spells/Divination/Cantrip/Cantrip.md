@@ -1,3 +1,3 @@
-# Divination — Cantrip
+# Divination - Cantrip
 
 [[Guidance]] | [[True Strike]]

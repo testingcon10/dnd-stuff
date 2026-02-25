@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Prom Leap
 
-*God of Swamps — Lawful Good*
+*God of Swamps - Lawful Good*
 
 | Property | Value |
 |----------|-------|

@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Unowen
 
-*God of Strength — Neutral Good*
+*God of Strength - Neutral Good*
 
 | Property | Value |
 |----------|-------|

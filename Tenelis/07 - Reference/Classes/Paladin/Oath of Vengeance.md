@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Oath of Vengeance
 
-The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when a dragon rampages through the countryside, when thieves' guilds grow too powerful — these are the evils that paladins of vengeance swear to end, by any means necessary.
+The Oath of Vengeance is a solemn commitment to punish those who have committed a grievous sin. When evil forces slaughter helpless villagers, when a dragon rampages through the countryside, when thieves' guilds grow too powerful - these are the evils that paladins of vengeance swear to end, by any means necessary.
 
 **Class:** [[Paladin]] | **Source:** PHB | **Subclass Features at:** 3rd, 7th, 15th, 20th level
 

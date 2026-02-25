@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Tyr
 
-*God of Justice — Lawful Good*
+*God of Justice - Lawful Good*
 
 | Property | Value |
 |----------|-------|

@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-An eastern coastal settlement, likely founded as a newer counterpart to the older settlement of Garish to the south.
+An eastern coastal settlement, likely founded as a newer counterpart to the older settlement of [[Garish]] to the south.
 
 ## Notable Features
 

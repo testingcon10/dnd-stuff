@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Talona
 
-*Goddess of Disease and Poison — Chaotic Evil*
+*Goddess of Disease and Poison - Chaotic Evil*
 
 | Property | Value |
 |----------|-------|

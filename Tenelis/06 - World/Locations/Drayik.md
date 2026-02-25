@@ -32,7 +32,7 @@ A small coastal settlement on the southeastern shore of Tenelis.
 
 | NPC | Role | Notes |
 |-----|------|-------|
-| [[Uzog]] | [[The Golds]] | Orc |
+| [[Uzog]] | [[The Golds]] | [[Orc]] |
 | [[Nath]] | [[The Golds]] | |
 | [[Von]] | [[The Golds]] | |
 

@@ -1,3 +1,3 @@
-# Conjuration — 8th Level
+# Conjuration - 8th Level
 
 [[Demiplane]] | [[Incendiary Cloud]] | [[Maze]] | [[Mighty Fortress]] | [[Tsunami]]

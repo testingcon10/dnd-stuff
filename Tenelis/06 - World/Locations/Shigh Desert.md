@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A vast desert occupying much of western Tenelis, bordered by the Shigh Mountains to the east and the coast to the west and south.
+A vast desert occupying much of western Tenelis, bordered by the [[The Shigh Mountains|Shigh Mountains]] to the east and the coast to the west and south.
 
 ## Notable Features
 

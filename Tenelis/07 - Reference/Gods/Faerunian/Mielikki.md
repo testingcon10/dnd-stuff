@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Mielikki
 
-*Goddess of Forests — Neutral Good*
+*Goddess of Forests - Neutral Good*
 
 | Property | Value |
 |----------|-------|

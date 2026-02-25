@@ -4,7 +4,7 @@ spell_level: 6
 school: "Divination"
 casting_time: "1 minute"
 range: "Self"
-components: "V, S, M (a set of divination tools—such as cards or runes—worth 100+ GP)"
+components: "V, S, M (a set of divination tools-such as cards or runes-worth 100+ GP)"
 duration: "Concentration, up to 1 day"
 classes: ["Bard", "Cleric", "Druid"]
 ritual: false

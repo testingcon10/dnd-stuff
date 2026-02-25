@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement in southern Tenelis, near the coast and the edge of Habi Forest.
+A settlement in southern Tenelis, near the coast and the edge of [[Habi Forest]].
 
 ## Notable Features
 

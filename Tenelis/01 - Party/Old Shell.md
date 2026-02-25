@@ -141,7 +141,7 @@ alignment: Lawful Neutral
 | Quiver | 1 | 1 lb. |  |
 | Rations | 10 | 2 lb. |  |
 | Rope | 1 | 5 lb. |  |
-| Sprig of Mistletoe | 1 | — |  |
+| Sprig of Mistletoe | 1 | - |  |
 | [[Studded Leather]] | 1 | 13 lb. |  |
 | Tinderbox | 1 | 1 lb. |  |
 | Torch | 10 | 1 lb. |  |
@@ -165,6 +165,6 @@ alignment: Lawful Neutral
 
 ## Backstory
 
-- Identified [[Eileen Whitebeak]] at the western bridge — recognized her as the sister of [[Corso]], leader of the Senin militia
+- Identified [[Eileen Whitebeak]] at the western bridge - recognized her as the sister of [[Corso]], leader of the Senin militia
 
 ## Notes

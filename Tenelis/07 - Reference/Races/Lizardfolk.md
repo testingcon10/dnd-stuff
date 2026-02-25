@@ -7,7 +7,7 @@ source: "MotM"
 ---
 # Lizardfolk
 
-Lizardfolk are cold-blooded reptilian humanoids who view the world through a pragmatic, survival-driven lens, largely devoid of sentimentality. They are consummate survivors, at home in swamps and marshes, using every resource available to them — including the remains of fallen foes. Their alien mindset and resourceful nature make them formidable allies and unsettling companions.
+Lizardfolk are cold-blooded reptilian humanoids who view the world through a pragmatic, survival-driven lens, largely devoid of sentimentality. They are consummate survivors, at home in swamps and marshes, using every resource available to them - including the remains of fallen foes. Their alien mindset and resourceful nature make them formidable allies and unsettling companions.
 
 ## Traits
 - **Ability Score Increase:** Constitution +2, Wisdom +1

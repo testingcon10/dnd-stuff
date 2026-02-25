@@ -1,3 +1,3 @@
-# Enchantment — 4th Level
+# Enchantment - 4th Level
 
 [[Charm Monster]] | [[Compulsion]] | [[Confusion]] | [[Dominate Beast]]

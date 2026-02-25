@@ -19,9 +19,9 @@ Elves are a magical people of otherworldly grace, living in places of ethereal b
 - **Trance:** 4 hours of meditation replaces 8 hours of sleep
 
 ## Subraces
-- **High Elf** — +1 Intelligence, one wizard cantrip, extra language
-- **Wood Elf** — +1 Wisdom, 35 ft. speed, Mask of the Wild
-- **Dark Elf (Drow)** — +1 Charisma, superior darkvision (120 ft.), Drow Magic, sunlight sensitivity
+- **High Elf** - +1 Intelligence, one wizard cantrip, extra language
+- **Wood Elf** - +1 Wisdom, 35 ft. speed, Mask of the Wild
+- **Dark Elf (Drow)** - +1 Charisma, superior darkvision (120 ft.), Drow Magic, sunlight sensitivity
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#elf_phb)

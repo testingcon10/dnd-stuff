@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Kelemvor
 
-*God of the Dead — Lawful Neutral*
+*God of the Dead - Lawful Neutral*
 
 | Property | Value |
 |----------|-------|

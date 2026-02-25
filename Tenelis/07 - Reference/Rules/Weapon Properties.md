@@ -18,7 +18,7 @@ Many weapons have special properties related to their use, as shown in the [[Wea
 | **Reach** | This weapon adds 5 feet to your reach when you attack with it and when determining your reach for Opportunity Attacks with it. |
 | **Thrown** | You can throw this weapon to make a ranged attack, using the same ability modifier for the attack and damage rolls that you would use for a melee attack. |
 | **Two-Handed** | This weapon requires two hands when you attack with it. |
-| **Versatile** | This weapon can be used with one or two hands. A damage value in parentheses appears with the property — the damage when the weapon is used with two hands. |
+| **Versatile** | This weapon can be used with one or two hands. A damage value in parentheses appears with the property - the damage when the weapon is used with two hands. |
 
 ## Mastery Properties (2024)
 

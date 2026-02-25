@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Selûne
 
-*Goddess of the Moon — Chaotic Good*
+*Goddess of the Moon - Chaotic Good*
 
 | Property | Value |
 |----------|-------|

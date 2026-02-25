@@ -41,14 +41,14 @@ Lieutenant for [[The Golds]].
 
 ## Known Access
 
-- Kenku catacombs
+- [[Kenku]] catacombs
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-|         | Killed in the fight at Boar Tusk Brewery |
+|         | Killed in the fight at [[Boar Tusk Brewery]] |
 
 ## Notes
 
-- Deceased — died during the fight at Boar Tusk Brewery
+- Deceased - died during the fight at [[Boar Tusk Brewery]]

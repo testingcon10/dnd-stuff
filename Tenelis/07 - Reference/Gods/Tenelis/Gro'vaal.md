@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Gro'vaal
 
-*God of Decay — Neutral*
+*God of Decay - Neutral*
 
 | Property | Value |
 |----------|-------|

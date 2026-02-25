@@ -40,6 +40,6 @@ Henchman of [[Eileen Whitebeak]].
 
 | Session | Summary |
 |---------|---------|
-| Session 5 | Revealed the Kenku food trade routes to the party |
+| Session 5 | Revealed the [[Kenku]] food trade routes to the party |
 
 ## Notes

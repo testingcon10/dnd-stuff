@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Batib
 
-*Goddess of Beasts — Lawful Good*
+*Goddess of Beasts - Lawful Good*
 
 | Property | Value |
 |----------|-------|

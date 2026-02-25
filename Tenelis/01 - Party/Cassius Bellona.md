@@ -139,7 +139,7 @@ alignment: True Neutral
 | Plate Armor | 1 | 65 lb. | Equipped |
 | [[Potion of Growth]] | 1 | 0.1 lb. | Uncommon |
 | [[Potion of Healing]] | 16 | 0.5 lb. |  |
-| [[Potion of Water Breathing]] | 4 | — | Uncommon |
+| [[Potion of Water Breathing]] | 4 | - | Uncommon |
 | Quiver | 1 | 1 lb. |  |
 | Rations | 10 | 2 lb. |  |
 | Rope | 1 | 5 lb. |  |
@@ -170,7 +170,7 @@ alignment: True Neutral
 
 ## Backstory
 
-- Speaks the Kenku language
+- Speaks the [[Kenku]] language
 - Befriended [[Grig]], a dwarf armorer in [[Drayik]]. After [[Grig]]'s death, brought his body and gold to [[Aya]] for a proper burial
 - Loaned [[Plate]] armor by [[Grig]] before the fight at [[Boar Tusk Brewery]]
 

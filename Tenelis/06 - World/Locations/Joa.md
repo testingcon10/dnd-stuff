@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A small southern coastal settlement near Cui Mori.
+A small southern coastal settlement near [[Cui Mori]].
 
 ## Notable Features
 

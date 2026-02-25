@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A major mountain range stretching across northern Tenelis, forming a natural barrier. The settlement of Vesin sits at its western base.
+A major mountain range stretching across northern Tenelis, forming a natural barrier. The settlement of [[Vesin]] sits at its western base.
 
 ## Notable Features
 

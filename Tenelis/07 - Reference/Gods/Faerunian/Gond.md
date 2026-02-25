@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Gond
 
-*God of Craft — Neutral*
+*God of Craft - Neutral*
 
 | Property | Value |
 |----------|-------|

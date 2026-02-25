@@ -16,7 +16,7 @@ If you drop to 0 HP and aren't killed outright, you fall [[Unconscious]]. This c
 
 ## Death Saving Throws
 
-At the **start of each of your turns** while you have 0 HP, you make a Death Saving Throw — a special saving throw (DC 10) not tied to any ability score.
+At the **start of each of your turns** while you have 0 HP, you make a Death Saving Throw - a special saving throw (DC 10) not tied to any ability score.
 
 - **Roll 10 or higher:** Success.
 - **Roll 9 or lower:** Failure.

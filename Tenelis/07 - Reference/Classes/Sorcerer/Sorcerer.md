@@ -9,7 +9,7 @@ source: "PHB"
 ---
 # Sorcerer
 
-A spellcaster who draws on inherent magic from a gift or bloodline. Sorcerers use Sorcery Points and Metamagic to modify their spells on the fly — twinning single-target spells, casting without components, or extending durations.
+A spellcaster who draws on inherent magic from a gift or bloodline. Sorcerers use Sorcery Points and Metamagic to modify their spells on the fly - twinning single-target spells, casting without components, or extending durations.
 
 | Property | Value |
 |----------|-------|

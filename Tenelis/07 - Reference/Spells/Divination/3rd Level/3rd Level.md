@@ -1,3 +1,3 @@
-# Divination — 3rd Level
+# Divination - 3rd Level
 
 [[Clairvoyance]] | [[Tongues]]

@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A small eastern settlement near the coast, north of New Garish.
+A small eastern settlement near the coast, north of [[New Garish]].
 
 ## Notable Features
 

@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A small settlement on the edge of the Vorge Plains, named for a modest hill rising from the surrounding flatlands.
+A small settlement on the edge of the [[The Vorge Plains|Vorge Plains]], named for a modest hill rising from the surrounding flatlands.
 
 ## Notable Features
 

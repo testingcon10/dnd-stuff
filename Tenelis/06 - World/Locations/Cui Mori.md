@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A southern settlement near the coast, not far from the settlement of Joa.
+A southern settlement near the coast, not far from the settlement of [[Joa]].
 
 ## Notable Features
 

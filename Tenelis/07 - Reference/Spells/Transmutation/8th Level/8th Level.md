@@ -1,3 +1,3 @@
-# Transmutation — 8th Level
+# Transmutation - 8th Level
 
 [[Animal Shapes]] | [[Control Weather]] | [[Glibness]]

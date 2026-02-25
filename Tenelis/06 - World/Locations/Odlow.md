@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement on the western edge of the central plains, near the base of the Shigh Mountains.
+A settlement on the western edge of the central plains, near the base of the [[The Shigh Mountains|Shigh Mountains]].
 
 ## Notable Features
 

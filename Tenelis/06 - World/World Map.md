@@ -3,7 +3,7 @@ aliases: ["World Map"]
 tags: [map, world]
 ---
 
-# World Map — Tenelis
+# World Map - Tenelis
 
 ```leaflet
 id: tenelis-world-map

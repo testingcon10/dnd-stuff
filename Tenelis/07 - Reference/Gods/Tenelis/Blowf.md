@@ -8,7 +8,7 @@ source: "Homebrew"
 ---
 # Blowf
 
-*God of Gluttony — Chaotic Evil*
+*God of Gluttony - Chaotic Evil*
 
 | Property | Value |
 |----------|-------|

@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Shar
 
-*Goddess of [[Darkness]] and Loss — Neutral Evil*
+*Goddess of [[Darkness]] and Loss - Neutral Evil*
 
 | Property | Value |
 |----------|-------|

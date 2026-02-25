@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement in the forested northeast, east of the Coryik Mountains.
+A settlement in the forested northeast, east of the [[Coryik Mountains]].
 
 ## Notable Features
 

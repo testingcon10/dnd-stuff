@@ -1,3 +1,3 @@
-# Illusion — 9th Level
+# Illusion - 9th Level
 
 [[Weird]]

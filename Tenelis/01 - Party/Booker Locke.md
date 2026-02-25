@@ -93,8 +93,8 @@ alignment: Chaotic Good
 | Arrows | 10 | 0.05 lb. |  |
 | Backpack | 1 | 5 lb. |  |
 | Ball Bearings | 1000 | 0.002 lb. |  |
-| Bell | 1 | — |  |
-| Candle | 10 | — |  |
+| Bell | 1 | - |  |
+| Candle | 10 | - |  |
 | Crowbar | 1 | 5 lb. |  |
 | [[Disguise Kit]] | 1 | 3 lb. |  |
 | Grappling Hook | 1 | 4 lb. |  |
@@ -130,8 +130,8 @@ alignment: Chaotic Good
 
 ## Backstory
 
-- Has a twin sister, Gwen, who was kidnapped 6 years ago in [[Drayik]]
+- Has a twin sister, [[Gwen Locke|Gwen]], who was kidnapped 6 years ago in [[Drayik]]
 - Parents were murdered by the Senin
-- Received a package in the mail stating the Senin has information on Gwen
+- Received a package in the mail stating the Senin has information on [[Gwen Locke|Gwen]]
 
 ## Notes

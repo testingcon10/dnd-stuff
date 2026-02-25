@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Chauntea
 
-*Goddess of Agriculture — Neutral Good*
+*Goddess of Agriculture - Neutral Good*
 
 | Property | Value |
 |----------|-------|

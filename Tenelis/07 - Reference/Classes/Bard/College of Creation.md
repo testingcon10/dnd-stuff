@@ -7,7 +7,7 @@ source: "TCoE"
 ---
 # College of Creation
 
-Bards of the College of Creation believe the cosmos is a work of art — the creation of the first combineers. They draw on that cosmic power of creation to craft wonders with their performances.
+Bards of the College of Creation believe the cosmos is a work of art - the creation of the first combineers. They draw on that cosmic power of creation to craft wonders with their performances.
 
 **Class:** [[Bard]] | **Source:** TCoE | **Subclass Features at:** 3rd, 6th, 14th level
 

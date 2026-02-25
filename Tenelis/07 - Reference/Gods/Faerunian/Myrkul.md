@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Myrkul
 
-*God of Death — Neutral Evil*
+*God of Death - Neutral Evil*
 
 | Property | Value |
 |----------|-------|

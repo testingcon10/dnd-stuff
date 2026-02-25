@@ -1,3 +1,3 @@
-# Divination — 6th Level
+# Divination - 6th Level
 
 [[Find the Path]] | [[True Seeing]]

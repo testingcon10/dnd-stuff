@@ -1,3 +1,3 @@
-# Necromancy — 4th Level
+# Necromancy - 4th Level
 
 [[Blight]] | [[Shadow of Moil]]

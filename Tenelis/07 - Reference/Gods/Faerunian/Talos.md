@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Talos
 
-*God of Storms — Chaotic Evil*
+*God of Storms - Chaotic Evil*
 
 | Property | Value |
 |----------|-------|

@@ -6,7 +6,7 @@ Get the Tenelis vault on your computer in 5 steps. Takes about 10 minutes.
 
 ## Step 1: Create a GitHub account
 
-If you don't already have one, sign up at [github.com](https://github.com). **Remember your email** — you'll need it in Step 4.
+If you don't already have one, sign up at [github.com](https://github.com). **Remember your email** - you'll need it in Step 4.
 
 Once you have an account, message the DM your GitHub username so you can be added to the project.
 
@@ -14,8 +14,8 @@ Once you have an account, message the DM your GitHub username so you can be adde
 
 Install both of these (just click **Next** through both installers, don't change any settings):
 
-- **Git** — [Click here to download](https://git-scm.com/download/win)
-- **Obsidian** — [Click here to download](https://obsidian.md)
+- **Git** - [Click here to download](https://git-scm.com/download/win)
+- **Obsidian** - [Click here to download](https://obsidian.md)
 
 ## Step 3: Download the vault
 
@@ -26,7 +26,7 @@ Install both of these (just click **Next** through both installers, don't change
 cd ~/Documents && git clone https://github.com/testingcon10/dnd-stuff.git
 ```
 
-3. A GitHub sign-in window will pop up — **sign in with your GitHub account**
+3. A GitHub sign-in window will pop up - **sign in with your GitHub account**
 4. Wait for it to finish (you'll see the blinking cursor return)
 5. Close the window
 
@@ -54,7 +54,7 @@ git config --global user.email "your.github.email@example.com"
 1. Open **Obsidian**
 2. Click **Open folder as vault**
 3. Go to **Documents → dnd-stuff → Tenelis** and select that folder
-4. A popup asks if you trust this vault — click **Trust and enable plugins**
+4. A popup asks if you trust this vault - click **Trust and enable plugins**
 
 **You're all set!** Every time you open the vault, it automatically downloads the latest content.
 
@@ -97,4 +97,4 @@ Two people edited the same lines. Open the file, keep the text you want, delete 
 Open Obsidian **Settings** (gear icon at bottom left) → **Community plugins** → turn **off** "Restricted mode" → make sure the plugins are toggled on.
 
 **"I pushed and now nothing works" / something went really wrong**
-Don't panic — everything is saved on GitHub. Message the DM and we'll sort it out.
+Don't panic - everything is saved on GitHub. Message the DM and we'll sort it out.

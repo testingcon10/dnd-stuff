@@ -18,8 +18,8 @@ Bold and hardy, dwarves are known as skilled warriors, miners, and workers of st
 - **Stonecunning:** Double proficiency bonus on [[History]] checks related to stonework
 
 ## Subraces
-- **Hill Dwarf** — +1 Wisdom, +1 HP per level
-- **Mountain Dwarf** — +2 Strength, medium armor proficiency
+- **Hill Dwarf** - +1 Wisdom, +1 HP per level
+- **Mountain Dwarf** - +2 Strength, medium armor proficiency
 
 ---
 🔗 [Full Details on 5e.tools](https://5e.tools/races.html#dwarf_phb)

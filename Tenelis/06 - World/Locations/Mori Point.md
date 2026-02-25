@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement on the southern coast, possibly connected to Cui Mori by name and trade.
+A settlement on the southern coast, possibly connected to [[Cui Mori]] by name and trade.
 
 ## Notable Features
 

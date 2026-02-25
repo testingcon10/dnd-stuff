@@ -1,3 +1,3 @@
-# Abjuration — 9th Level
+# Abjuration - 9th Level
 
 [[Imprisonment]] | [[Invulnerability]] | [[Prismatic Wall]]

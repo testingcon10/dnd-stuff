@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Milil
 
-*God of Poetry and Song — Neutral Good*
+*God of Poetry and Song - Neutral Good*
 
 | Property | Value |
 |----------|-------|

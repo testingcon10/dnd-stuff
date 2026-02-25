@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Sune
 
-*Goddess of Love and Beauty — Chaotic Good*
+*Goddess of Love and Beauty - Chaotic Good*
 
 | Property | Value |
 |----------|-------|

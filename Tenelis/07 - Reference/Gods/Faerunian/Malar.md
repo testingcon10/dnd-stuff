@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Malar
 
-*God of the Hunt — Chaotic Evil*
+*God of the Hunt - Chaotic Evil*
 
 | Property | Value |
 |----------|-------|

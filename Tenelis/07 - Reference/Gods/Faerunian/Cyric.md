@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Cyric
 
-*God of Lies — Chaotic Evil*
+*God of Lies - Chaotic Evil*
 
 | Property | Value |
 |----------|-------|

@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Silvanus
 
-*God of Wild [[Nature]] — Neutral*
+*God of Wild [[Nature]] - Neutral*
 
 | Property | Value |
 |----------|-------|

@@ -1,3 +1,3 @@
-# Enchantment — 3rd Level
+# Enchantment - 3rd Level
 
 [[Catnap]] | [[Enemies Abound]]

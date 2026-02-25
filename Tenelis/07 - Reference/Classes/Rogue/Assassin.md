@@ -7,7 +7,7 @@ source: "PHB"
 ---
 # Assassin
 
-You focus your training on the grim art of death. Those who adhere to this archetype are diverse — hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. [[Stealth]], poison, and disguise help you eliminate your foes with deadly efficiency.
+You focus your training on the grim art of death. Those who adhere to this archetype are diverse - hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. [[Stealth]], poison, and disguise help you eliminate your foes with deadly efficiency.
 
 **Class:** [[Rogue]] | **Source:** PHB | **Subclass Features at:** 3rd, 9th, 13th, 17th level
 

@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Bane
 
-*God of Tyranny — Lawful Evil*
+*God of Tyranny - Lawful Evil*
 
 | Property | Value |
 |----------|-------|

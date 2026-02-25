@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A rugged mountain range in the north-central part of the continent, east of the Vesin Ridge Mountains.
+A rugged mountain range in the north-central part of the continent, east of the [[Vesin Ridge Mountains]].
 
 ## Notable Features
 

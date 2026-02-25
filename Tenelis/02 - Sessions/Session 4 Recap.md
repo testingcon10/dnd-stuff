@@ -14,7 +14,7 @@ players_present: []
 
 ## Previously...
 
-After finishing shopping, TICB went to the shopping district to discover it was almost deserted, aside from a few shops and a tavern. Two shopkeepers [[Aya]] and [[Grig]] were befriended. They discovered [[The Golds]] frequent the Boar Tusk Brewery nightly for cards and drinks. [[Grig]] and the barkeep of the Red Elk helped kill 2 Gold Thug members along with the party.
+After finishing shopping, TICB went to the shopping district to discover it was almost deserted, aside from a few shops and a tavern. Two shopkeepers [[Aya]] and [[Grig]] were befriended. They discovered [[The Golds]] frequent the [[Boar Tusk Brewery]] nightly for cards and drinks. [[Grig]] and the barkeep of the [[Red Elk]] helped kill 2 Gold Thug members along with the party.
 
 ## Summary
 
@@ -45,7 +45,7 @@ After finishing shopping, TICB went to the shopping district to discover it was 
 | NPC | Location | Disposition | Notes |
 |-----|----------|-------------|-------|
 | [[Aya]] | [[Drayik]] shopping district | Friendly | Shopkeeper |
-| [[Grig]] | [[Drayik]] shopping district | Friendly | Dwarf armorer |
+| [[Grig]] | [[Drayik]] shopping district | Friendly | [[Dwarf]] armorer |
 
 ## Quests Updated
 

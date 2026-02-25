@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Loviatar
 
-*Goddess of Pain — Lawful Evil*
+*Goddess of Pain - Lawful Evil*
 
 | Property | Value |
 |----------|-------|

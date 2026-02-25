@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A dense, ancient forest west of Tenelis City. Travelers report hearing faint whispers among the trees, though none can agree on what the voices say.
+A dense, ancient forest west of [[Tenelis City]]. Travelers report hearing faint whispers among the trees, though none can agree on what the voices say.
 
 ## Notable Features
 
@@ -46,7 +46,7 @@ A dense, ancient forest west of Tenelis City. Travelers report hearing faint whi
 
 | Destination | Distance | Route |
 |-------------|----------|-------|
-| Tenelis City | Unknown | Eastern road |
+| [[Tenelis City]] | Unknown | Eastern road |
 
 ## Session Log
 

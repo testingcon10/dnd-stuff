@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Lathander
 
-*God of Birth and Renewal — Neutral Good*
+*God of Birth and Renewal - Neutral Good*
 
 | Property | Value |
 |----------|-------|

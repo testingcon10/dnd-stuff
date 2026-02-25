@@ -8,7 +8,7 @@ source: "2024"
 ---
 # Savras
 
-*God of [[Divination]] and Fate — Lawful Neutral*
+*God of [[Divination]] and Fate - Lawful Neutral*
 
 | Property | Value |
 |----------|-------|

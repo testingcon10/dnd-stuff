@@ -131,16 +131,16 @@ alignment: Chaotic Neutral
 | Backpack | 1 | 5 lb. |  |
 | Bagpipes | 1 | 6 lb. |  |
 | [[Bedroll]] | 1 | 7 lb. |  |
-| Bell | 1 | — |  |
+| Bell | 1 | - |  |
 | Bullseye Lantern | 1 | 2 lb. |  |
 | [[Costume]] | 3 | 4 lb. |  |
 | [[Leather]] | 1 | 10 lb. |  |
 | Mirror | 1 | 0.5 lb. |  |
-| [[Necklace of Prayer Beads]] | 1 | — | Rare |
+| [[Necklace of Prayer Beads]] | 1 | - | Rare |
 | Oil | 8 | 1 lb. |  |
-| [[Potion of Vitality]] | 1 | — | Very Rare |
+| [[Potion of Vitality]] | 1 | - | Very Rare |
 | Rations | 9 | 2 lb. |  |
-| [[Sending Stones]] | 1 | — | Uncommon |
+| [[Sending Stones]] | 1 | - | Uncommon |
 | [[Studded Leather]] Armor | 1 | 13 lb. | Equipped |
 | Tinderbox | 1 | 1 lb. |  |
 | [[Waterskin]] | 1 | 5 lb. |  |
@@ -164,6 +164,6 @@ alignment: Chaotic Neutral
 ## Backstory
 
 - Chasing answers about the corruption in the military police of [[Cui Mori]]
-- Made a deal with [[Aya]] — promised to stop [[The Golds]] from abusing shopkeepers in [[Drayik]] in exchange for knowledge about poisons
+- Made a deal with [[Aya]] - promised to stop [[The Golds]] from abusing shopkeepers in [[Drayik]] in exchange for knowledge about poisons
 
 ## Notes

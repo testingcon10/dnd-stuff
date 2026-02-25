@@ -1,3 +1,3 @@
-# Transmutation — 7th Level
+# Transmutation - 7th Level
 
 [[Etherealness]] | [[Regenerate]] | [[Reverse Gravity]] | [[Sequester]]
