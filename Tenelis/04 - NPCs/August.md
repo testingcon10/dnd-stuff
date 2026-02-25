@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Uzog
-tags:
-  - npc
+aliases: []
+tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: ""
+faction: "Senin"
 location: ""
 status: alive
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # August
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -30,17 +28,18 @@ attitude: neutral
 
 ## Background
 
+Henchman of [[Eileen Whitebeak]].
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Eileen Whitebeak]] | Serves under |
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-|         |         |
+| Session 5 | Revealed the Kenku food trade routes to the party |
 
 ## Notes

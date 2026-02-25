@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Uzog
-tags:
-  - npc
+aliases: []
+tags: [npc]
 race: ""
 class: ""
 alignment: ""
 faction: ""
-location: ""
-status: alive
+location: "Drayik"
+status: missing
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Ewing
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -30,12 +28,13 @@ attitude: neutral
 
 ## Background
 
+Father of [[Aya]]. Co-ran the Mana House, a magic shop in [[Drayik]]. Has vanished under unknown circumstances.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Aya]] | Daughter |
 
 ## Interaction Log
 

@@ -18,16 +18,18 @@ level_range: ""
 **Level Range:** `=this.level_range`
 
 ## Description
-The once bustling shopping district now lies deserted. The Golds have taken over many of the shops and have put many out of business. Dealing with them may bring life back into the shopping district.
+The once bustling shopping district now lies deserted. [[The Golds]] have taken over many of the shops and have put many out of business. Dealing with them may bring life back into the shopping district.
 
 ## Objectives
 
-- Find the Gold Thugs in the Boar Tusk Brewery
+- ~~Find [[The Golds]] at the [[Boar Tusk Brewery]]~~
+- ~~Confront [[The Golds]] at [[Boar Tusk Brewery]]~~
 
 ## Progress Log
 
 | Session | Update |
 |---------|--------|
-|         |        |
+| Session 4 | Discovered [[The Golds]] frequent the [[Boar Tusk Brewery]] nightly for cards and drinks |
+| Session 5 | Cleaned up [[The Golds]] interference in [[Drayik]] with the fight at the [[Boar Tusk Brewery]] — for now |
 
 ## Notes

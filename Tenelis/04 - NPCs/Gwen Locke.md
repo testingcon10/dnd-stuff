@@ -1,19 +1,18 @@
 ---
 aliases:
-  - Uzog
-tags:
-  - npc
-race: ""
+  - Gwen
+tags: [npc]
+race: "Human"
 class: ""
 alignment: ""
 faction: ""
 location: ""
-status: alive
+status: missing
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Gwen Locke
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -30,12 +29,13 @@ attitude: neutral
 
 ## Background
 
+Twin sister of [[Booker Locke]]. Kidnapped 6 years ago in [[Drayik]] after her and Booker's parents were murdered by the Senin. The Senin may have information on her whereabouts.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Booker Locke]] | Twin brother |
 
 ## Interaction Log
 
@@ -44,3 +44,5 @@ attitude: neutral
 |         |         |
 
 ## Notes
+
+- [[Eileen Whitebeak]] claims she does not know Gwen

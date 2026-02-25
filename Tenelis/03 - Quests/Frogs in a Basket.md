@@ -18,7 +18,7 @@ level_range: ""
 **Level Range:** `=this.level_range`
 
 ## Description
-The Mana House now has new residents. A found journal reads the sudden disappearance of the man who previously lived there. Aya, his daughter, was mentioned. Could she know more?
+The [[Mana House]] now has new residents. A found journal reads the sudden disappearance of the man who previously lived there. [[Aya]], his daughter, was mentioned. Could she know more?
 ## Objectives
 
 - 

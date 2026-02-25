@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Uzog
-tags:
-  - npc
+aliases: []
+tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: ""
+faction: "Avian Brotherhood"
 location: ""
 status: alive
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Nath
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -35,7 +33,14 @@ attitude: neutral
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Avian Brotherhood]] | Leader |
+| [[The Golds]] | Fellow syndicate group |
+| [[Uzog]] | Associate |
+| [[Von]] | Associate |
+
+## Known Access
+
+- Kenku catacombs
 
 ## Interaction Log
 

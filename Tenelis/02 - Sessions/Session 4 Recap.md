@@ -1,8 +1,8 @@
 ---
 aliases: []
 tags: [session]
-session_number:
-session_date: {{date:YYYY-MM-DD}}
+session_number: 4
+session_date: 2025-02-19
 in_game_day: ""
 players_present: []
 ---
@@ -14,22 +14,23 @@ players_present: []
 
 ## Previously...
 
-After finish shopping TICB went to the shopping district to discover it was almost deserted, aside from a few shops and a tavern. Two shopkeepers Aya and Grig were befriended. They discovered The Golds operated in the district from the Boar Tusk Brewery. Grig and the barkeep of the Red Elk help kill 2 Gold Thug members along with the party.
+After finishing shopping, TICB went to the shopping district to discover it was almost deserted, aside from a few shops and a tavern. Two shopkeepers [[Aya]] and [[Grig]] were befriended. They discovered [[The Golds]] frequent the Boar Tusk Brewery nightly for cards and drinks. [[Grig]] and the barkeep of the Red Elk helped kill 2 Gold Thug members along with the party.
 
 ## Summary
 
 
 ## Key Events
 
-1. Aya and Grig were met
-2. Discovery of the Gold thugs 
-3. Killed 2 Gold Thug members
+1. [[Aya]] and [[Grig]] were met
+2. Discovery of [[The Golds|the Gold thugs]]
+3. [[Netanyahu D. Kirkuenly|Netanyahu]] promised [[Aya]] to stop [[The Golds]] from abusing shopkeepers in exchange for knowledge about poisons
+4. Killed 2 Gold Thug members
 
 ## Combat Encounters
 
 | Enemy      | Result | Notable Moments                              |
 | ---------- | ------ | -------------------------------------------- |
-| Gold Thugs | W      | Old Shell's ensnared a Gold Thug in his trap |
+| [[The Golds]] | Deceased | [[Old Shell]] ensnared a Gold Thug in his trap |
 
 ## Loot Acquired
 
@@ -43,7 +44,8 @@ After finish shopping TICB went to the shopping district to discover it was almo
 
 | NPC | Location | Disposition | Notes |
 |-----|----------|-------------|-------|
-|     |          |             |       |
+| [[Aya]] | [[Drayik]] shopping district | Friendly | Shopkeeper |
+| [[Grig]] | [[Drayik]] shopping district | Friendly | Dwarf armorer |
 
 ## Quests Updated
 

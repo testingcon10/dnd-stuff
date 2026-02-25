@@ -21,7 +21,7 @@ players_present: []
 
 ## Key Events
 
-1.
+1. UZOG
 
 ## Combat Encounters
 

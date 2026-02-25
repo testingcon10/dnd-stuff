@@ -130,5 +130,8 @@ alignment: Chaotic Good
 
 ## Backstory
 
+- Has a twin sister, Gwen, who was kidnapped 6 years ago in [[Drayik]]
+- Parents were murdered by the Senin
+- Received a package in the mail stating the Senin has information on Gwen
 
 ## Notes

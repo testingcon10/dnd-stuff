@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Uzog
-tags:
-  - npc
+aliases: []
+tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: ""
+faction: "Elven Mafia"
 location: ""
 status: alive
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Von
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -35,7 +33,14 @@ attitude: neutral
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Elven Mafia]] | Leader |
+| [[The Golds]] | Fellow syndicate group |
+| [[Uzog]] | Associate |
+| [[Nath]] | Associate |
+
+## Known Access
+
+- Kenku catacombs
 
 ## Interaction Log
 

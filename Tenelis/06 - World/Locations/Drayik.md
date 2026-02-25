@@ -26,19 +26,21 @@ A small coastal settlement on the southeastern shore of Tenelis.
 
 ## Notable Features
 
--
+- Shopping district controlled by [[The Golds]]
 
 ## Key NPCs
 
 | NPC | Role | Notes |
 |-----|------|-------|
-|     |      |       |
+| [[Uzog]] | [[The Golds]] | Orc |
+| [[Nath]] | [[The Golds]] | |
+| [[Von]] | [[The Golds]] | |
 
 ## Factions
 
 | Faction | Influence | Notes |
 |---------|-----------|-------|
-|         |           |       |
+| [[The Golds]] | Strong | Operate as the mob in the shopping district |
 
 ## [[History]]
 

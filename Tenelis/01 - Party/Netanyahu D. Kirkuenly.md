@@ -163,5 +163,7 @@ alignment: Chaotic Neutral
 
 ## Backstory
 
+- Chasing answers about the corruption in the military police of [[Cui Mori]]
+- Made a deal with [[Aya]] — promised to stop [[The Golds]] from abusing shopkeepers in [[Drayik]] in exchange for knowledge about poisons
 
 ## Notes

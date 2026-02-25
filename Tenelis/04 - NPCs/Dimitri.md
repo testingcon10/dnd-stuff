@@ -6,12 +6,12 @@ class: ""
 alignment: ""
 faction: ""
 location: ""
-status: alive
+status: unknown
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Dimitri
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -28,12 +28,13 @@ attitude: neutral
 
 ## Background
 
+[[Eileen Whitebeak]] asked the party to find Dimitri. Locating him would prove to her people that she can be trusted.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[Eileen Whitebeak]] | Connected |
 
 ## Interaction Log
 

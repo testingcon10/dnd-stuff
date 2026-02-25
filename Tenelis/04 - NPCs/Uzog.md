@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Uzog
-tags:
-  - npc
-race: ""
+aliases: []
+tags: [npc]
+race: "Orc"
 class: ""
 alignment: ""
-faction: ""
-location: ""
+faction: "The Golds"
+location: "Drayik"
 status: alive
 attitude: neutral
 ---
 
 > [!infobox]
-> # NPC Name
+> # Uzog
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -35,7 +33,13 @@ attitude: neutral
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-|             |             |
+| [[The Golds]] | Connected |
+| [[Nath]] | Associate |
+| [[Von]] | Associate |
+
+## Known Access
+
+- Kenku catacombs
 
 ## Interaction Log
 
@@ -44,3 +48,5 @@ attitude: neutral
 |         |         |
 
 ## Notes
+
+- Lives in a nice home northwest of [[Drayik]]
