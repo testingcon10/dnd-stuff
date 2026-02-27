@@ -5,7 +5,7 @@ location_type: "Plains"
 region: "Central-East Tenelis"
 population: "Sparse"
 government: "None"
-location: [48, 62]
+location: [44, 61]
 mapmarker: default
 ---
 

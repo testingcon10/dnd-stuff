@@ -5,7 +5,7 @@ location_type: "Lakes"
 region: "Central Tenelis"
 population: "Uninhabited"
 government: "None"
-location: [58, 40]
+location: [52, 44]
 mapmarker: default
 ---
 

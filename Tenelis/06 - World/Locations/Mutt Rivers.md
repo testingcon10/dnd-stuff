@@ -5,7 +5,7 @@ location_type: "River"
 region: "Central-South Tenelis"
 population: "Uninhabited"
 government: "None"
-location: [40, 42]
+location: [38, 51]
 mapmarker: default
 ---
 

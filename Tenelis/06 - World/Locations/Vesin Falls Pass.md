@@ -5,7 +5,7 @@ location_type: "Mountain Pass"
 region: "Northern Tenelis"
 population: "Uninhabited"
 government: "None"
-location: [82, 50]
+location: [88, 54]
 mapmarker: default
 ---
 

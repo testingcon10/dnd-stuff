@@ -5,7 +5,7 @@ location_type: "Forest"
 region: "Southern Tenelis"
 population: "Sparse"
 government: "None"
-location: [5, 50]
+location: [1, 47]
 mapmarker: default
 ---
 

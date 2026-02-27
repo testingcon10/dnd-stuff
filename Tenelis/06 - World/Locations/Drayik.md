@@ -7,9 +7,7 @@ location_type: Settlement
 region: Southeast Coast
 population: Medium
 government: Unknown
-location:
-  - 30
-  - 88
+location: [30, 83]
 mapmarker: default
 ---
 

@@ -5,7 +5,7 @@ location_type: "Settlement"
 region: "East Coast"
 population: "Small"
 government: "Unknown"
-location: [72, 80]
+location: [78, 76]
 mapmarker: default
 ---
 

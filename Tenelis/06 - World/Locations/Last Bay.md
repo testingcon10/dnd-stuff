@@ -5,7 +5,7 @@ location_type: "Settlement"
 region: "Southwest Tenelis"
 population: "Small"
 government: "Unknown"
-location: [28, 22]
+location: [29, 35]
 mapmarker: default
 ---
 

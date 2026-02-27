@@ -5,7 +5,7 @@ location_type: "Settlement"
 region: "Northern Tenelis"
 population: "Medium"
 government: "Unknown"
-location: [80, 30]
+location: [85, 35]
 mapmarker: default
 ---
 

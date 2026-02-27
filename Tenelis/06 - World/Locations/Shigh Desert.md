@@ -5,7 +5,7 @@ location_type: "Desert"
 region: "Western Tenelis"
 population: "Uninhabited"
 government: "None"
-location: [48, 10]
+location: [43, 19]
 mapmarker: default
 ---
 

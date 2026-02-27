@@ -5,7 +5,7 @@ location_type: "Mountains"
 region: "Northern Tenelis"
 population: "Uninhabited"
 government: "None"
-location: [82, 35]
+location: [77, 48]
 mapmarker: default
 ---
 

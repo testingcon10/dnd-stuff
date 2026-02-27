@@ -5,7 +5,7 @@ location_type: "Settlement"
 region: "Northwest Coast"
 population: "Small"
 government: "Unknown"
-location: [90, 12]
+location: [96, 23]
 mapmarker: default
 ---
 
