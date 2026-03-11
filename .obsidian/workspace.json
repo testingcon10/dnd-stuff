@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tenelis/02 - Sessions/Session 4 Recap.md",
+                "file": "Tenelis/03 - Quests/Gangs of Drayik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4 Recap"
+              "title": "Gangs of Drayik"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Tenelis/02 - Sessions/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,25 +184,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5039344bd84ea5f1",
+  "active": "b702317c23ef78f3",
   "lastOpenFiles": [
     "Tenelis/03 - Quests/Frogs in a Basket.md",
-    "Tenelis/03 - Quests/Trouble on the streets.md",
+    "Tenelis/03 - Quests/Gangs of Drayik.md",
+    "Tenelis/03 - Quests/Find Dimitri.md",
     "Tenelis/03 - Quests/Uncover the Senin.md",
-    "Tenelis/02 - Sessions/Session 4 Recap.md",
-    "Tenelis/02 - Sessions/Session 000 - Example.md",
-    "Tenelis/99 - Templates/Template - Session Recap.md",
-    "Tenelis/07 - Reference/Spells/Conjuration/2nd Level/Summon Beast.md",
-    "Tenelis/07 - Reference/Spells/Conjuration/2nd Level/2nd Level.md",
-    "Tenelis/07 - Reference/Spells/Necromancy/1st Level/False Life.md",
-    "Tenelis/07 - Reference/Spells/Necromancy/1st Level/1st Level.md",
-    "Tenelis/06 - World/World Map.md",
-    "Tenelis/07 - Reference/Spells/Conjuration/3rd Level/Summon Undead.md",
-    "Tenelis/06 - World/Locations/Drayik.md",
-    "Tenelis/06 - World/Locations/Calin.md",
-    "Tenelis/05 - Loot Log/Loot Log.md",
-    "Tenelis/07 - Reference/Spells/Spells.md",
-    "Tenelis/01 - Party/Booker Locke.md",
-    "Tenelis/01 - Party/Cassius Bellona.md"
+    "Untitled 1.md",
+    "Untitled.md",
+    "Tenelis/02 - Sessions/Session 5 Recap.md",
+    "Tenelis/04 - NPCs/Von.md",
+    "Tenelis/04 - NPCs/Nath.md",
+    "Tenelis/04 - NPCs/Uzog.md",
+    "Tenelis/06 - World/Lore/The Three Sisters.md",
+    "Tenelis/07 - Reference/Classes/Sorcerer/Sorcerer.md",
+    "Tenelis/07 - Reference/Classes/Sorcerer/Divine Soul.md",
+    "Tenelis/07 - Reference/Classes/Sorcerer/Clockwork Soul.md",
+    "Tenelis/07 - Reference/Classes/Sorcerer/Aberrant Mind.md",
+    "Tenelis/assets/TenelisWorldMap.png",
+    "Tenelis/07 - Reference/Feats/General/Crusher.md",
+    "add_tce_scc_content.py",
+    "Tenelis/07 - Reference/Spells/Transmutation/2nd Level/Kinetic Jaunt.md",
+    "Tenelis/07 - Reference/Spells/Necromancy/2nd Level/Wither and Bloom.md",
+    "Tenelis/07 - Reference/Spells/Enchantment/1st Level/Silvery Barbs.md",
+    "Tenelis/07 - Reference/Spells/Divination/2nd Level/Borrowed Knowledge.md",
+    "Tenelis/07 - Reference/Spells/Conjuration/2nd Level/Vortex Warp.md",
+    "Tenelis/07 - Reference/Items/Wondrous Items/Witherbloom Primer.md",
+    "Tenelis/07 - Reference/Items/Wondrous Items/Strixhaven Pennant.md",
+    "Tenelis/07 - Reference/Items/Wondrous Items/Silverquill Primer.md",
+    "Tenelis/07 - Reference/Items/Wondrous Items/Quandrix Primer.md",
+    "Tenelis/07 - Reference/Items/Wondrous Items/Prismari Primer.md",
+    "Tenelis/06 - World/Locations/Drayik",
+    "Tenelis/06 - World/Factions/Drayik Criminal Syndicate",
+    "Tenelis/06 - World/Factions",
+    "Tenelis/06 - World/Lore",
+    "Tenelis/03 - Quests/Quest Items",
+    "Tenelis/03 - Quests/Completed"
   ]
 }

@@ -19,7 +19,7 @@ level_range: ""
 
 ## Description
 
-[[Eileen Whitebeak]] asked the party to find [[Dimitri]]. If she can bring him back, it will prove to her people that she can be trusted. Supplies are difficult to exchange between the surface and the catacombs.
+[[Eileen Whitebeak]] asked the party to find [[Dimitri]]. If the party can bring him back, it will prove to her people that the party can be trusted. Supplies are difficult to exchange between the surface and the catacombs. The party agreed to meet in three days before going to Little Hill to exchange information regarding Booker's sister.
 
 ## Objectives
 
