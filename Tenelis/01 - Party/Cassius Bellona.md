@@ -6,7 +6,7 @@ character_name: Cassius Bellona
 race: Human
 class: Fighter
 subclass: Eldritch Knight
-level: 3
+level: 4
 background: Background
 alignment: True Neutral
 ---
@@ -24,7 +24,7 @@ alignment: True Neutral
 
 | Ability | Score | Modifier | Save Prof? | Save Mod |
 |---------|-------|----------|------------|----------|
-| **STR** | 16 | +3 | ☑ | +5 |
+| **STR** | 17 | +3 | ☑ | +5 |
 | **DEX** | 14 | +2 | ☐ | +2 |
 | **CON** | 16 | +3 | ☑ | +5 |
 | **INT** | 10 | +0 | ☐ | +0 |
@@ -35,10 +35,10 @@ alignment: True Neutral
 **Armor Class:** 20
 **Initiative:** +2
 **Speed:** 30 ft.
-**Hit Point Maximum:** 31
-**Current Hit Points:** 31
+**Hit Point Maximum:** 41
+**Current Hit Points:** 41
 **Temporary Hit Points:** 0
-**Hit Dice:** 3d10
+**Hit Dice:** 4d10
 
 ## Skills
 
@@ -69,10 +69,10 @@ alignment: True Neutral
 
 | Name | Atk Bonus | Damage/Type | Range/Reach | Notes |
 |------|-----------|-------------|-------------|-------|
-| [[Scimitar]] | +5 | 1d6 + 3 slashing | 5 ft. |  |
-| [[Shortsword]] | +5 | 1d6 + 3 piercing | 5 ft. |  |
 | [[Longbow]] | +4 | 1d8 + 2 piercing | 150/600 ft. |  |
 | [[Longsword]] of Life Stealing | +5 | 1d8 + 3 slashing | 5 ft. | Rare |
+| [[Scimitar]] | +5 | 1d6 + 3 slashing | 5 ft. |  |
+| [[Shortsword]] | +5 | 1d6 + 3 piercing | 5 ft. |  |
 
 ## Spellcasting
 
@@ -82,15 +82,10 @@ alignment: True Neutral
 
 | Slot Level | Total | Expended |
 |------------|-------|----------|
-| 1st        | 2     |          |
+| 1st        | 3     |          |
 | 2nd        | 0     |          |
 | 3rd        | 0     |          |
 | 4th        | 0     |          |
-| 5th        | 0     |          |
-| 6th        | 0     |          |
-| 7th        | 0     |          |
-| 8th        | 0     |          |
-| 9th        | 0     |          |
 
 ### Spells Known / Prepared
 
@@ -98,21 +93,8 @@ alignment: True Neutral
 
 **1st Level:** [[Shield]], [[Silvery Barbs]]
 
-**2nd Level:**
 
-**3rd Level:**
 
-**4th Level:**
-
-**5th Level:**
-
-**6th Level:**
-
-**7th Level:**
-
-**8th Level:**
-
-**9th Level:**
 
 ## Features & Traits
 
@@ -122,6 +104,7 @@ alignment: True Neutral
 - [[Lucky]]
 - Resourceful
 - Second Wind
+- [[Shield Master]]
 - Spellcasting
 - Tactical Mind
 - Versatile
@@ -131,15 +114,14 @@ alignment: True Neutral
 
 | Item | Qty | Weight | Notes |
 |------|-----|--------|-------|
-| Arrows | 20 | 0.05 lb. |  |
 | Backpack | 1 | 5 lb. |  |
 | Caltrops | 20 | 0.1 lb. |  |
 | Crowbar | 1 | 5 lb. |  |
 | Oil | 2 | 1 lb. |  |
 | Plate Armor | 1 | 65 lb. | Equipped |
 | [[Potion of Growth]] | 1 | 0.1 lb. | Uncommon |
-| [[Potion of Healing]] | 16 | 0.5 lb. |  |
-| [[Potion of Water Breathing]] | 4 | - | Uncommon |
+| [[Potion of Healing]] | 15 | 0.5 lb. |  |
+| [[Potion of Water Breathing]] | 4 | — | Uncommon |
 | Quiver | 1 | 1 lb. |  |
 | Rations | 10 | 2 lb. |  |
 | Rope | 1 | 5 lb. |  |
@@ -156,7 +138,7 @@ alignment: True Neutral
 
 | CP | SP | EP | GP | PP |
 |----|----|----|----|----|
-| 0 | 0 | 0 | 483 | 0 |
+| 0 | 0 | 0 | 639 | 0 |
 
 ## Personality
 
@@ -170,7 +152,5 @@ alignment: True Neutral
 
 ## Backstory
 
-- Speaks the [[Kenku]] language
-- Befriended [[Grig]], a dwarf armorer in [[Drayik]]. After [[Grig]]'s death, brought his body and gold to [[Aya]] for a proper burial
 
 ## Notes

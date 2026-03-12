@@ -8,6 +8,7 @@ reward: ""
 level_range: ""
 ---
 
+
 # Quest Name
 
 **Status:** `=this.status`

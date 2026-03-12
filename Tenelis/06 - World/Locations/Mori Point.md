@@ -22,7 +22,8 @@ A settlement on the southern coast, possibly connected to [[Cui Mori]] by name a
 
 ## Notable Features
 
--
+- Birthplace of [[Netanyahu D. Kirkuenly]]
+- The church is expanding to Mori Point (discovered Session 6)
 
 ## Key NPCs
 

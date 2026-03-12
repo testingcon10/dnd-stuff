@@ -6,12 +6,12 @@ class: ""
 alignment: ""
 faction: "Senin"
 location: ""
-status: alive
-attitude: neutral
+status: deceased
+attitude: ""
 ---
 
 > [!infobox]
-> # Corso
+> # Dima
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -23,24 +23,27 @@ attitude: neutral
 ## Appearance
 
 
+
 ## Personality
 
+Described as being exactly like [[Corso]] in temperament - radical, rather than pragmatic like [[Eileen Whitebeak|Eileen]].
 
 ## Background
 
-Leader of the Senin militia. Obsessed with an ancient Senin prophecy - the old prophecy led to the genocide of his people. His sister [[Eileen Whitebeak]] opposes his radical approach.
+Father of [[Corso]] and [[Eileen Whitebeak]]. Deceased - cause of death known. Part of the [[Kenku]] family lines discovered in the [[Old Drayik Keep]] library.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| [[Eileen Whitebeak]] | Sister - strained, she opposes his radical approach |
-| [[Dima]] | Father (deceased) - Corso shares his temperament |
+| [[Corso]] | Son - similar temperament |
+| [[Eileen Whitebeak]] | Daughter |
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-|         |         |
+| Session 6 | Name discovered in a book about [[Kenku]] military in the [[Old Drayik Keep]] library |
 
 ## Notes
+

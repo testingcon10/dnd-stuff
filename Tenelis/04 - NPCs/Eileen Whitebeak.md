@@ -40,6 +40,7 @@ Sister of [[Corso]], leader of the Senin militia. Identified by [[Old Shell]] at
 | NPC/Faction | Relationship |
 |-------------|-------------|
 | [[Corso]] | Brother - strained relationship due to his radical approach |
+| [[Dima]] | Father (deceased) - she did not inherit his radical temperament |
 | Church of the Daughter | Aware they are employing the party |
 
 ## Interaction Log

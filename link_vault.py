@@ -111,6 +111,11 @@ SKIP_ENTITIES = {
     "Languages",     # rule — common English word
     "Tools",         # rule — common English word
     "Glossary",      # reference — generic term
+    # Weapon/item names that appear in location or NPC names:
+    "Champion",      # class — "High Champion" title used for NPCs
+    "Dagger",        # item — "The Mutton Dagger" tavern name
+    "History",       # skill — common English word
+    "Human",         # race — common English word in non-race contexts
 }
 
 # ── Step 1: Build Entity Dictionary ───────────────────────────────────────────

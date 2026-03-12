@@ -1,17 +1,18 @@
 ---
-aliases: []
+aliases:
+  - Amos
 tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: "Senin"
+faction: ""
 location: ""
-status: alive
-attitude: neutral
+status: unknown
+attitude: ""
 ---
 
 > [!infobox]
-> # Corso
+> # Amos the Storm
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -23,24 +24,25 @@ attitude: neutral
 ## Appearance
 
 
+
 ## Personality
+
 
 
 ## Background
 
-Leader of the Senin militia. Obsessed with an ancient Senin prophecy - the old prophecy led to the genocide of his people. His sister [[Eileen Whitebeak]] opposes his radical approach.
+A major lore figure mentioned in a book found in the [[Old Drayik Keep]] library.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| [[Eileen Whitebeak]] | Sister - strained, she opposes his radical approach |
-| [[Dima]] | Father (deceased) - Corso shares his temperament |
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-|         |         |
+| Session 6 | Mentioned in a book in the [[Old Drayik Keep]] library - no major details of note |
 
 ## Notes
+

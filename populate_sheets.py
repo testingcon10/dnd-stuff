@@ -15,11 +15,11 @@ SOURCE_DIR = r"C:\Users\cfpor\Desktop\DndObsidian"
 
 # JSON filename → (sheet number, player name, aliases)
 CHARACTER_MAP = {
-    "fvtt-Actor-netanyahu-d.-kirkuenly-nnEKWJyPLRLubatG.json": (1, "Conor", ["Net"]),
-    "fvtt-Actor-booker-locke-tony-4nGqbVHT5RpdW1YI.json": (2, "Tony", []),
-    "fvtt-Actor-old-shell-erik-49MF2ytKMV478LKx.json": (3, "Erik", []),
-    "fvtt-Actor-cassius-bellona-jake-twrJLhtjw4LG5hSK.json": (4, "Jake", []),
-    "fvtt-Actor-ryan-nigamus-aDgKZYENNFo45Jdo.json": (5, "Nigamus", []),
+    "fvtt-Actor-netanyahu-d-kirkuenly.json": (1, "Conor", ["Net"]),
+    "fvtt-Actor-booker-locke---tony.json": (2, "Tony", []),
+    "fvtt-Actor-old-shell---erik.json": (3, "Erik", []),
+    "fvtt-Actor-cassius-bellona---jake.json": (4, "Jake", []),
+    "fvtt-Actor-ryan-nigamus.json": (5, "Nigamus", []),
 }
 
 ABILITY_ORDER = ["str", "dex", "con", "int", "wis", "cha"]
@@ -61,17 +61,15 @@ SPELLCASTING_ABILITY_NAMES = {
     "int": "Intelligence", "wis": "Wisdom", "cha": "Charisma",
 }
 
-# Correct max spell slots by caster progression at level 3
-SPELL_SLOTS = {
-    "full":  {3: [4, 2, 0, 0, 0, 0, 0, 0, 0]},
-    "half":  {3: [3, 0, 0, 0, 0, 0, 0, 0, 0]},
-    "third": {3: [2, 0, 0, 0, 0, 0, 0, 0, 0]},
-}
 CASTER_TYPE = {
     "Bard": "full", "Cleric": "full", "Druid": "full",
     "Sorcerer": "full", "Wizard": "full",
     "Paladin": "half", "Ranger": "half",
     "Fighter": "third", "Rogue": "third",
+}
+
+MAX_SPELL_LEVEL = {
+    "full": 9, "half": 5, "third": 4,
 }
 
 
@@ -218,11 +216,16 @@ def parse_character(json_path, sheet_num, player_name, aliases):
 
     passive_perception = 10 + skills["prc"]["total"]
 
-    # ── Spell slots ──────────────────────────────────────────────────────
+    # ── Spell slots (read directly from Foundry JSON) ──────────────────
     spell_slots = [0] * 9
-    if has_spells and class_name in CASTER_TYPE:
+    foundry_spells = system.get("spells", {})
+    for i in range(9):
+        key = f"spell{i + 1}"
+        spell_slots[i] = safe_get(foundry_spells, key, "value", default=0) or 0
+    max_spell_level = 9
+    if class_name in CASTER_TYPE:
         ct = CASTER_TYPE[class_name]
-        spell_slots = SPELL_SLOTS.get(ct, {}).get(class_level, [0] * 9)
+        max_spell_level = MAX_SPELL_LEVEL.get(ct, 9)
 
     # ── Spell save / attack ──────────────────────────────────────────────
     spell_save_dc = spell_atk = 0
@@ -308,6 +311,7 @@ def parse_character(json_path, sheet_num, player_name, aliases):
             "name": name, "atk_bonus": fmt_mod(atk_bonus),
             "damage": dmg, "range": range_str, "notes": notes,
         })
+    weapons.sort(key=lambda x: x["name"])
 
     # ── Spells (grouped by level, deduplicated, skip item-granted) ─────
     spells_by_level = {}
@@ -387,7 +391,8 @@ def parse_character(json_path, sheet_num, player_name, aliases):
         "weapons": weapons,
         "has_spells": has_spells, "spellcasting_abl": spellcasting_abl,
         "spell_save_dc": spell_save_dc, "spell_atk": spell_atk,
-        "spell_slots": spell_slots, "spells_by_level": spells_by_level,
+        "spell_slots": spell_slots, "max_spell_level": max_spell_level,
+        "spells_by_level": spells_by_level,
         "features": features, "equipment": equipment,
         "cp": cur.get("cp", 0), "sp": cur.get("sp", 0),
         "ep": cur.get("ep", 0), "gp": cur.get("gp", 0),
@@ -506,11 +511,12 @@ def generate_sheet(c):
         lines.append(f"**Spell Attack Bonus:** {fmt_mod(c['spell_atk'])}")
         lines.append("")
 
+        max_lvl = c["max_spell_level"]
         lines.append("| Slot Level | Total | Expended |")
         lines.append("|------------|-------|----------|")
         ordinals = ["1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th"]
-        for i, label in enumerate(ordinals):
-            lines.append(f"| {label}        | {c['spell_slots'][i]}     |          |")
+        for i in range(max_lvl):
+            lines.append(f"| {ordinals[i]}        | {c['spell_slots'][i]}     |          |")
         lines.append("")
 
         lines.append("### Spells Known / Prepared")
@@ -520,13 +526,13 @@ def generate_sheet(c):
             4: "4th Level", 5: "5th Level", 6: "6th Level",
             7: "7th Level", 8: "8th Level", 9: "9th Level",
         }
-        for lvl in range(10):
+        for lvl in range(max_lvl + 1):
             spells = c["spells_by_level"].get(lvl, [])
             label = level_names[lvl]
             if spells:
                 spell_links = ", ".join(f"[[{s}]]" for s in spells)
                 lines.append(f"**{label}:** {spell_links}")
-            else:
+            elif lvl == 0 or c["spell_slots"][lvl - 1] > 0:
                 lines.append(f"**{label}:**")
             lines.append("")
 

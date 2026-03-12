@@ -69,8 +69,8 @@ alignment: True Neutral
 
 | Name | Atk Bonus | Damage/Type | Range/Reach | Notes |
 |------|-----------|-------------|-------------|-------|
-| [[Handaxe]] | +5 | 1d6 + 3 slashing | 20/60 ft. |  |
 | [[Greataxe]] | +5 | 1d12 + 3 slashing | 5 ft. |  |
+| [[Handaxe]] | +5 | 1d6 + 3 slashing | 20/60 ft. |  |
 
 ## Features & Traits
 
@@ -116,7 +116,6 @@ alignment: True Neutral
 **Flaws:** 
 
 ## Backstory
-
 
 
 ## Notes

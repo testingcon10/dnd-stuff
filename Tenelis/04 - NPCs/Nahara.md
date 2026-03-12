@@ -4,14 +4,14 @@ tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: "Senin"
+faction: ""
 location: ""
-status: alive
-attitude: neutral
+status: unknown
+attitude: ""
 ---
 
 > [!infobox]
-> # Corso
+> # Nahara
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -23,24 +23,27 @@ attitude: neutral
 ## Appearance
 
 
+
 ## Personality
+
 
 
 ## Background
 
-Leader of the Senin militia. Obsessed with an ancient Senin prophecy - the old prophecy led to the genocide of his people. His sister [[Eileen Whitebeak]] opposes his radical approach.
+One of three women - [[Nahara]], [[Ayla]], and [[Sophie]] - mentioned in a book covering the last 150 years of [[Drayik]] history. A Knight of Drayik traveled with them. The three may not be related by blood despite being referred to as sisters.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| [[Eileen Whitebeak]] | Sister - strained, she opposes his radical approach |
-| [[Dima]] | Father (deceased) - Corso shares his temperament |
+| [[Ayla]] | "Sister" (possibly not by blood) |
+| [[Sophie]] | "Sister" (possibly not by blood) |
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-|         |         |
+| Session 6 | Discovered in a book in the [[Old Drayik Keep]] library |
 
 ## Notes
+

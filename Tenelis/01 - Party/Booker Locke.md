@@ -6,7 +6,7 @@ character_name: Booker Locke
 race: Human
 class: Rogue
 subclass: Assassin
-level: 3
+level: 4
 background: Background
 alignment: Chaotic Good
 ---
@@ -25,7 +25,7 @@ alignment: Chaotic Good
 | Ability | Score | Modifier | Save Prof? | Save Mod |
 |---------|-------|----------|------------|----------|
 | **STR** | 12 | +1 | ☐ | +1 |
-| **DEX** | 16 | +3 | ☑ | +5 |
+| **DEX** | 17 | +3 | ☑ | +5 |
 | **CON** | 10 | +0 | ☐ | +0 |
 | **INT** | 10 | +0 | ☑ | +2 |
 | **WIS** | 10 | +0 | ☐ | +0 |
@@ -35,10 +35,10 @@ alignment: Chaotic Good
 **Armor Class:** 15
 **Initiative:** +3
 **Speed:** 30 ft.
-**Hit Point Maximum:** 18
-**Current Hit Points:** 18
+**Hit Point Maximum:** 23
+**Current Hit Points:** 23
 **Temporary Hit Points:** 0
-**Hit Dice:** 3d8
+**Hit Dice:** 4d8
 
 ## Skills
 
@@ -70,6 +70,7 @@ alignment: Chaotic Good
 | Name | Atk Bonus | Damage/Type | Range/Reach | Notes |
 |------|-----------|-------------|-------------|-------|
 | [[Dagger]] | +5 | 1d4 + 3 piercing | 20/60 ft. |  |
+| [[Heavy Crossbow]] | +5 | 1d10 + 3 piercing | 100/400 ft. |  |
 | [[Shortbow]] | +5 | 1d6 + 3 piercing | 80/320 ft. |  |
 | [[Shortsword]] | +5 | 1d6 + 3 piercing | 5 ft. |  |
 
@@ -81,6 +82,7 @@ alignment: Chaotic Good
 - Drayik Ruffian
 - [[Lucky]]
 - Resourceful
+- [[Skulker]]
 - Sneak Attack
 - Steady Aim
 - Thieves' Cant
@@ -90,11 +92,11 @@ alignment: Chaotic Good
 
 | Item | Qty | Weight | Notes |
 |------|-----|--------|-------|
-| Arrows | 10 | 0.05 lb. |  |
+| Arrows | 3 | 0.05 lb. |  |
 | Backpack | 1 | 5 lb. |  |
 | Ball Bearings | 1000 | 0.002 lb. |  |
-| Bell | 1 | - |  |
-| Candle | 10 | - |  |
+| Bell | 1 | — |  |
+| Candle | 10 | — |  |
 | Crowbar | 1 | 5 lb. |  |
 | [[Disguise Kit]] | 1 | 3 lb. |  |
 | Grappling Hook | 1 | 4 lb. |  |
@@ -104,6 +106,7 @@ alignment: Chaotic Good
 | Oil | 7 | 1 lb. |  |
 | [[Poisoner's Kit]] | 1 | 2 lb. |  |
 | [[Potion of Climbing]] | 1 | 0.1 lb. |  |
+| [[Potion of Healing]] | 5 | 0.5 lb. |  |
 | Quiver | 1 | 1 lb. |  |
 | Rations | 5 | 2 lb. |  |
 | Rope | 1 | 5 lb. |  |
@@ -116,7 +119,7 @@ alignment: Chaotic Good
 
 | CP | SP | EP | GP | PP |
 |----|----|----|----|----|
-| 0 | 0 | 0 | 970 | 0 |
+| 0 | 0 | 0 | 1126 | 0 |
 
 ## Personality
 
@@ -130,8 +133,5 @@ alignment: Chaotic Good
 
 ## Backstory
 
-- Has a twin sister, [[Gwen Locke|Gwen]], who was kidnapped 6 years ago in [[Drayik]]
-- Parents were murdered by the Senin
-- Received a package in the mail stating the Senin has information on [[Gwen Locke|Gwen]]
 
 ## Notes
