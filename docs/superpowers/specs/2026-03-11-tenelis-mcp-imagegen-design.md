@@ -49,22 +49,32 @@ Tenelis/
 
 ### file-utils.js
 
-- `slugify(name)` - lowercase, strip apostrophes/special chars, spaces to hyphens (`Kay'Dara` -> `kay-dara`)
+- `slugify(name)` - lowercase, strip apostrophes/special chars, spaces to hyphens. Examples: `Kay'Dara` -> `kay-dara`, `Netanyahu D. Kirkuenly` -> `netanyahu-d-kirkuenly`, `Booker Locke` -> `booker-locke`. For scene slugs, truncate to first 5 words: `"The party fights through the catacombs beneath Drayik"` -> `the-party-fights-through-the`
 - `getVaultRoot()` - resolves to `Tenelis/` (inner vault dir) relative to project root
 - `getAssetPath(category, filename)` - returns `assets/{category}/{filename}`, ensures directory exists
 - `VAULT_ROOT`, `ASSETS_DIR` constants
 
 ### vault-reader.js
 
-Parses YAML frontmatter with `yaml` package. Extracts sections by `##` headings. Case-insensitive file matching throughout.
+Parses YAML frontmatter with `yaml` package. Extracts sections by `##` headings. Case-insensitive file matching by filename (not aliases).
+
+**Section key normalization:** Heading text is lowercased, `[[wikilinks]]` are stripped, and spaces are converted to camelCase. Examples: `## Notable Features` -> `notableFeatures`, `## Attacks & Spellcasting` -> `attacksSpellcasting`, `## [[History]]` -> `history`.
+
+**Optional frontmatter fields:** Many fields are optional or empty strings across different file types. The reader returns whatever exists; consumers handle missing data gracefully.
 
 | Function | Source Directory | Returns |
 |----------|-----------------|---------|
-| `readNpc(name)` | `04 - NPCs/` | `{ frontmatter: { race, class, faction, status, attitude }, sections: { appearance, personality, background, relationships } }` |
-| `readLocation(name)` | `06 - World/Locations/` (recursive) | `{ frontmatter: { location_type, region, population }, sections: { description, notableFeatures } }` |
-| `readSession(number)` | `02 - Sessions/` + `Completed/` | `{ frontmatter: { session_number, session_date }, sections: { summary, keyEvents, characterMoments, combatEncounters } }` |
-| `readPartyMember(name)` | `01 - Party/` | `{ frontmatter: { race, class, subclass, level }, sections: { attacks, features, equipment, personality, backstory } }` |
-| `listFiles(directory)` | any | Available filenames (for error messages) |
+| `readNpc(name)` | `04 - NPCs/` | `{ filePath, frontmatter: { race, class, faction, status, attitude?, location? }, sections }` - returns all sections (appearance, personality, background, relationships, interactionLog, notes, etc.) |
+| `readLocation(name)` | `06 - World/Locations/` (recursive) | `{ filePath, frontmatter: { location_type, region, population? }, sections: { description, notableFeatures } }` |
+| `readSession(number)` | `02 - Sessions/` | `{ filePath, frontmatter: { session_number, session_date }, fullMarkdown, sections }` - returns ALL sections (summary, keyEvents, characterMoments, combatEncounters, highlights, memorableQuotes, npcsEncountered, openThreads, etc.) plus `fullMarkdown` for wikilink extraction |
+| `readPartyMember(name)` | `01 - Party/` | `{ filePath, frontmatter: { race, class, subclass, level, player }, sections }` - returns all sections (attacksSpellcasting, featuresTraits, equipment, backstory, personality, spellcasting?, etc.) |
+| `listFiles(directory)` | any | Available filenames (for "file not found" error messages) |
+
+**Notes:**
+- `readLocation` searches recursively since locations nest under region dirs (e.g., `Drayik/Catacombs.md`). Filename match takes priority.
+- `readSession` returns all sections and full markdown because scene generation needs the complete recap for wikilink extraction and context. The highlights and memorable quotes sections often contain the most evocative descriptions.
+- `readPartyMember` returns all sections but `personality` has limited visual utility for image prompts (some characters have it filled, most don't). Primary visual context comes from race/class/equipment in frontmatter and character moments from session recaps.
+- NPC `frontmatter.location` is often an empty string - callers must check before attempting `readLocation`.
 
 ### gemini-director.js
 
@@ -103,10 +113,12 @@ Process:
 
 `embedImage(filePath, sectionHeading, imagePath)`
 
-- Finds `## {heading}` in the target file
+- Finds `## {heading}` in the target file. Matching strips `[[wikilinks]]` from heading text before comparing (e.g., searching for "Ability Scores" matches `## [[Ability Scores]]`).
 - Inserts `![[{imagePath}]]` on first blank line after heading
 - Idempotent - replaces existing embed for same path
 - If target section doesn't exist, creates it before `## DM Notes` or at end of file
+
+`embedBeforeSection(filePath, newHeading, imagePath, beforeHeading)` - variant for party portraits: creates `## Portrait` section with embed, placed before `beforeHeading` (e.g., "Ability Scores"). Also handles wikilink-wrapped headings when matching `beforeHeading`.
 
 ## MCP Tools
 
@@ -116,7 +128,7 @@ Process:
 
 **Pipeline:**
 1. `readNpc(name)` - get NPC data
-2. Optionally `readLocation(frontmatter.location)` for environmental context
+2. If `frontmatter.location` is non-empty, `readLocation(frontmatter.location)` for environmental context (skip if empty)
 3. `craftNpcPrompt(context)` - Gemini crafts the image prompt
 4. `generateImage(prompt, { aspectRatio, outputPath: assets/npcs/{slug}-portrait.png })`
 5. `embedImage(npcFile, "Appearance", relativePath)`
@@ -151,11 +163,11 @@ Process:
 **Schema:** `{ character_name: string (required), style_hint?: string, aspect_ratio?: string (default "3:4") }`
 
 **Pipeline:**
-1. `readPartyMember(name)`
-2. Scan session recaps for character moments mentioning this character
+1. `readPartyMember(name)` - visual context primarily from race/class/subclass/equipment
+2. Scan session recaps for character moments mentioning this character (match by wikilink target e.g. `[[Netanyahu D. Kirkuenly|Netanyahu]]`, not display alias)
 3. `craftPartyPrompt(context)`
 4. `generateImage(...)` -> `assets/party/{slug}-portrait.png`
-5. `embedImage(characterFile, infobox callout area, relativePath)`
+5. `embedBeforeSection(characterFile, "Portrait", relativePath, "Ability Scores")` - adds `## Portrait` section with image embed, placed before `## [[Ability Scores]]`. Creates the section if missing.
 
 ### Common Response Shape
 
@@ -188,17 +200,18 @@ All tools include a reminder: "Run link_vault.py if you added new entity names."
 | File not found | Return available file list so Claude can correct the name |
 | Sparse vault data | Proceed anyway - Gemini infers from race/class/faction. Note in `warnings[]` |
 | Content filter block | Return the blocked prompt with suggestion to adjust `style_hint` |
-| Rate limit | Retry once with 2s delay, then return error |
+| Rate limit (Imagen) | Retry once with 2s delay, then return error |
+| Gemini failure | Retry once, then return error |
 | Embed failure | Image still saved, report embed failure separately in response |
 
 ## Edge Cases
 
 - NPC names with apostrophes: `Kay'Dara` -> `kay-dara` (strip in slugify)
 - Person generation: `ALLOW_ADULT` is the default, appropriate for D&D. If blocked, error suggests environmental/silhouette style via `style_hint`
-- Obsidian image paths: use `![[assets/npcs/filename.png]]` relative to vault root
+- Obsidian image paths: use `![[assets/npcs/filename.png]]` with full vault-relative path. Obsidian is configured with default "shortest path" link format and `attachmentFolderPath: "assets"` - full paths resolve correctly.
 - `link_vault.py`: NOT auto-run from MCP server - remind in tool response
-- Location search is recursive (locations nested under region dirs like `Drayik/`)
-- Session recaps may be in `Completed/` subfolder
+- Location search is recursive (locations nested under region dirs like `Drayik/`). Filename match takes priority over directory names.
+- NPC `location` frontmatter is often empty string - check before attempting location read for environmental context.
 
 ## Implementation Phases
 
