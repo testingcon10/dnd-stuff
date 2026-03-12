@@ -46,5 +46,5 @@ attitude: friendly
 
 ## Notes
 
-- Deceased - killed by a half-orc henchman of [[The Golds]] at [[[[Boar Tusk Brewery]]]]
+- Deceased - killed by a half-orc henchman of [[The Golds]] at [[Boar Tusk Brewery]]
 - Body and gold given to [[Aya]] by [[Cassius Bellona]] for a proper burial

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tenelis-imagegen": {
+      "command": "node",
+      "args": ["src/index.js"],
+      "cwd": "tenelis-mcp",
+      "env": {
+        "GOOGLE_API_KEY": "{{env:GOOGLE_API_KEY}}"
+      }
+    }
+  }
+}
