@@ -25,6 +25,8 @@ attitude: ""
 
 
 
+![[assets/npcs/amos-the-storm-portrait.png]]
+
 ## Personality
 
 

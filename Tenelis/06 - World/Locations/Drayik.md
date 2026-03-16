@@ -20,6 +20,8 @@ mapmarker: default
 
 ## Description
 
+![[assets/locations/drayik.png]]
+
 A small coastal settlement on the southeastern shore of Tenelis.
 
 ## Notable Features

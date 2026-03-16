@@ -31,6 +31,9 @@ attitude: neutral
 ## Background
 
 
+## Notable Items
+
+
 ## Relationships
 
 | NPC/Faction | Relationship |

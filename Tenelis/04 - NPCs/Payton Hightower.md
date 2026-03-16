@@ -2,12 +2,13 @@
 aliases:
   - Payton
   - Hightower
-tags: [npc]
-race: ""
-class: "High Champion"
+tags:
+  - npc
+race: Human
+class: High Champion
 alignment: ""
-faction: "Church"
-location: "Drayik"
+faction: Church
+location: Drayik
 status: alive
 attitude: friendly
 ---

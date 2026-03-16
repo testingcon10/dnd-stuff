@@ -21,9 +21,14 @@ export function slugifyScene(desc) {
   return slugify(words);
 }
 
+const createdDirs = new Set();
+
 export function getAssetPath(category, filename) {
   const dir = path.join(ASSETS_DIR, category);
-  mkdirSync(dir, { recursive: true });
+  if (!createdDirs.has(category)) {
+    mkdirSync(dir, { recursive: true });
+    createdDirs.add(category);
+  }
   return path.join(dir, filename);
 }
 

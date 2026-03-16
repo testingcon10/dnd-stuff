@@ -24,6 +24,8 @@ attitude: neutral
 
 
 
+![[assets/npcs/watkins-portrait.png]]
+
 ## Personality
 
 

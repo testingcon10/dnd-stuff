@@ -24,6 +24,8 @@ attitude: neutral
 ## Appearance
 
 
+![[assets/npcs/gwen-locke-portrait.png]]
+
 ## Personality
 
 

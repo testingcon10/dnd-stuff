@@ -4,6 +4,7 @@ import { craftNpcPrompt } from "../lib/gemini-director.js";
 import { generateImage } from "../lib/imagen-generator.js";
 import { embedImage } from "../lib/vault-embedder.js";
 import { slugify, getAssetPath, getRelativeAssetPath } from "../lib/file-utils.js";
+import { blockedResponse, successResponse } from "../lib/tool-responses.js";
 
 export function register(server) {
   server.tool(
@@ -51,8 +52,10 @@ export function register(server) {
         faction: npc.frontmatter.faction || "",
         appearance,
         personality,
+        background: npc.sections.background || "",
         location: locName || "",
         locationData,
+        notableItems: npc.sections.notableItems || "",
         styleHint: style_hint,
       });
 
@@ -64,14 +67,7 @@ export function register(server) {
       const imgResult = await generateImage(geminiResult.prompt, { aspectRatio: aspect_ratio, outputPath });
 
       if (!imgResult.success) {
-        return {
-          isError: true,
-          content: [{ type: "text", text: JSON.stringify({
-            error: "Image generation blocked by content filter",
-            blockedPrompt: imgResult.blockedPrompt,
-            suggestion: "Try adding a style_hint like 'environmental portrait', 'silhouette style', or 'stylized illustration'",
-          }, null, 2) }],
-        };
+        return blockedResponse(imgResult, "Try adding a style_hint like 'environmental portrait', 'silhouette style', or 'stylized illustration'");
       }
 
       try {
@@ -80,15 +76,7 @@ export function register(server) {
         warnings.push(`Image saved but embed failed: ${e.message}`);
       }
 
-      const result = {
-        imagePath: relativePath,
-        prompt: geminiResult.prompt,
-        reasoning: geminiResult.reasoning,
-        warnings,
-        reminder: "Run link_vault.py if you added new entity names.",
-      };
-
-      return { content: [{ type: "text", text: JSON.stringify(result, null, 2) }] };
+      return successResponse({ imagePath: relativePath, prompt: geminiResult.prompt, reasoning: geminiResult.reasoning, warnings });
     }
   );
 }

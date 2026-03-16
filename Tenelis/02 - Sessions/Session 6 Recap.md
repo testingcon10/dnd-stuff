@@ -122,6 +122,17 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 - [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. The Senin may have information
 - [ ] Church expanding to [[Mori Point]] - [[Netanyahu D. Kirkuenly|Net]]'s birthplace
 
+
+## Illustrations
+
+![[assets/scenes/session-6-the-party-confronts-watkins-at.png]]
+
+![[assets/scenes/session-6-the-full-party-confronts-payton.png]]
+
+![[assets/scenes/session-6-inside-the-vast-library-of.png]]
+
+![[assets/scenes/session-6-booker-locke-disguised-as-a.png]]
+
 ## DM Notes
 
 %% Private notes - only visible in Edit mode %%

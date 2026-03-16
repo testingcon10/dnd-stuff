@@ -23,6 +23,8 @@ attitude: friendly
 ## Appearance
 
 
+![[assets/npcs/grig-portrait.png]]
+
 ## Personality
 
 

@@ -1,7 +1,17 @@
 import { readFileSync, writeFileSync } from "fs";
+import { stripWikilinks } from "./vault-reader.js";
 
-function stripWikilinks(text) {
-  return text.replace(/\[{2,}([^\[\]]*?)(?:\\?\|[^\]]*?)?\]{2,}/g, "$1");
+function scanEmbeds(lines, startIdx, embedFilename) {
+  let lastEmbedIdx = -1;
+  for (let i = startIdx; i < lines.length; i++) {
+    if (lines[i].match(/^## /)) break;
+    if (lines[i].match(/^!\[\[.*\]\]$/)) {
+      const existing = lines[i].match(/!\[\[(.+)\]\]/)?.[1]?.split("/").pop();
+      if (existing === embedFilename) return { alreadyExists: true, lastEmbedIdx: -1 };
+      lastEmbedIdx = i;
+    }
+  }
+  return { alreadyExists: false, lastEmbedIdx };
 }
 
 function headingMatches(headingLine, target) {
@@ -16,6 +26,7 @@ function makeEmbed(imagePath) {
 
 export function embedImage(filePath, sectionHeading, imagePath) {
   const content = readFileSync(filePath, "utf-8");
+  const lineEnding = content.includes("\r\n") ? "\r\n" : "\n";
   const lines = content.split(/\r?\n/);
   const embed = makeEmbed(imagePath);
   const embedFilename = imagePath.replace(/\\/g, "/").split("/").pop();
@@ -37,21 +48,17 @@ export function embedImage(filePath, sectionHeading, imagePath) {
       }
     }
     lines.splice(insertIdx, 0, "", `## ${sectionHeading}`, "", embed, "");
-    writeFileSync(filePath, lines.join("\n"));
+    writeFileSync(filePath, lines.join(lineEnding));
     return { created: true };
   }
 
-  for (let i = sectionIdx + 1; i < lines.length; i++) {
-    if (lines[i].match(/^!\[\[.*\]\]$/)) {
-      const existingFilename = lines[i].match(/!\[\[(.+)\]\]/)?.[1]?.split("/").pop();
-      if (existingFilename === embedFilename) {
-        return { replaced: false, alreadyExists: true };
-      }
-      lines[i] = embed;
-      writeFileSync(filePath, lines.join("\n"));
-      return { replaced: true };
-    }
-    if (lines[i].match(/^## /)) break;
+  const scan = scanEmbeds(lines, sectionIdx + 1, embedFilename);
+  if (scan.alreadyExists) return { replaced: false, alreadyExists: true };
+
+  if (scan.lastEmbedIdx !== -1) {
+    lines.splice(scan.lastEmbedIdx + 1, 0, embed);
+    writeFileSync(filePath, lines.join(lineEnding));
+    return { inserted: true };
   }
 
   let insertIdx = sectionIdx + 1;
@@ -60,33 +67,29 @@ export function embedImage(filePath, sectionHeading, imagePath) {
   }
 
   lines.splice(insertIdx, 0, embed, "");
-  writeFileSync(filePath, lines.join("\n"));
+  writeFileSync(filePath, lines.join(lineEnding));
   return { inserted: true };
 }
 
 export function embedBeforeSection(filePath, newHeading, imagePath, beforeHeading) {
   const content = readFileSync(filePath, "utf-8");
+  const lineEnding = content.includes("\r\n") ? "\r\n" : "\n";
   const lines = content.split(/\r?\n/);
   const embed = makeEmbed(imagePath);
   const embedFilename = imagePath.replace(/\\/g, "/").split("/").pop();
 
   for (let i = 0; i < lines.length; i++) {
     if (headingMatches(lines[i], newHeading)) {
-      for (let j = i + 1; j < lines.length; j++) {
-        if (lines[j].match(/^!\[\[.*\]\]$/)) {
-          const existingFilename = lines[j].match(/!\[\[(.+)\]\]/)?.[1]?.split("/").pop();
-          if (existingFilename === embedFilename) {
-            return { replaced: false, alreadyExists: true };
-          }
-          lines[j] = embed;
-          writeFileSync(filePath, lines.join("\n"));
-          return { replaced: true };
-        }
-        if (lines[j].match(/^## /)) break;
+      const scan = scanEmbeds(lines, i + 1, embedFilename);
+      if (scan.alreadyExists) return { replaced: false, alreadyExists: true };
+      if (scan.lastEmbedIdx !== -1) {
+        lines.splice(scan.lastEmbedIdx + 1, 0, embed);
+        writeFileSync(filePath, lines.join(lineEnding));
+        return { inserted: true };
       }
       const insertIdx = i + 1;
       lines.splice(insertIdx, 0, "", embed);
-      writeFileSync(filePath, lines.join("\n"));
+      writeFileSync(filePath, lines.join(lineEnding));
       return { updated: true };
     }
   }
@@ -100,6 +103,6 @@ export function embedBeforeSection(filePath, newHeading, imagePath, beforeHeadin
   }
 
   lines.splice(beforeIdx, 0, `## ${newHeading}`, "", embed, "");
-  writeFileSync(filePath, lines.join("\n"));
+  writeFileSync(filePath, lines.join(lineEnding));
   return { created: true };
 }

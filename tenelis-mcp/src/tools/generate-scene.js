@@ -1,9 +1,26 @@
 import { z } from "zod";
-import { readSession, readNpc, readLocation, extractWikilinks, listFiles } from "../lib/vault-reader.js";
+import { readSession, readNpc, readLocation, readPartyMember, extractWikilinks, extractVisualGear, listFiles, readReferenceImages } from "../lib/vault-reader.js";
 import { craftScenePrompt } from "../lib/gemini-director.js";
 import { generateImage } from "../lib/imagen-generator.js";
 import { embedImage } from "../lib/vault-embedder.js";
 import { slugifyScene, getAssetPath, getRelativeAssetPath } from "../lib/file-utils.js";
+import { blockedResponse, successResponse } from "../lib/tool-responses.js";
+
+const REF_ALIASES = {
+  "Netanyahu D. Kirkuenly": "Net",
+  "Booker Locke": "Booker",
+  "Cassius Bellona": "Cassius",
+  "Old Shell": "OldShell",
+  "Ryan-Nigamus": "RyanNigamus",
+};
+
+const REF_MATCH_PATTERNS = {
+  "Netanyahu D. Kirkuenly": [/\bnetanyahu\b/i, /\bnet\b/i],
+  "Booker Locke": [/\bbooker\b/i],
+  "Cassius Bellona": [/\bcassius\b/i],
+  "Old Shell": [/\bold shell\b/i],
+  "Ryan-Nigamus": [/\bryan-nigamus\b/i, /\bryan\b/i, /\bnigamus\b/i],
+};
 
 export function register(server) {
   server.tool(
@@ -39,6 +56,7 @@ export function register(server) {
             name: link,
             race: npc.frontmatter.race || "",
             appearance: npc.sections.appearance || "",
+            notableItems: npc.sections.notableItems || "",
           });
           entityCount++;
           continue;
@@ -53,6 +71,31 @@ export function register(server) {
         }
       }
 
+      const mentionedAliases = {};
+      for (const [fullName, fileBase] of Object.entries(REF_ALIASES)) {
+        const patterns = REF_MATCH_PATTERNS[fullName] || [new RegExp(`\\b${fullName.split(" ")[0]}\\b`, "i")];
+        if (patterns.some(p => p.test(scene_description))) {
+          mentionedAliases[fullName] = fileBase;
+        }
+      }
+      const partyGear = [];
+      for (const fullName of Object.keys(mentionedAliases)) {
+        const member = readPartyMember(fullName);
+        if (member) {
+          const gear = extractVisualGear(member.sections, member.frontmatter.class);
+          if (gear) {
+            partyGear.push({
+              name: fullName,
+              race: member.frontmatter.race || "",
+              className: member.frontmatter.class || "",
+              gear,
+            });
+          }
+        }
+      }
+
+      const referenceImages = readReferenceImages(mentionedAliases);
+
       const geminiResult = await craftScenePrompt({
         sceneDescription: scene_description,
         sessionNumber: session_number,
@@ -62,6 +105,7 @@ export function register(server) {
         memorableQuotes: session.sections.memorableQuotes || "",
         characterMoments: session.sections.characterMoments || "",
         referencedEntities,
+        partyGear,
         styleHint: style_hint,
       });
 
@@ -70,17 +114,10 @@ export function register(server) {
       const outputPath = getAssetPath("scenes", filename);
       const relativePath = getRelativeAssetPath("scenes", filename);
 
-      const imgResult = await generateImage(geminiResult.prompt, { aspectRatio: aspect_ratio, outputPath });
+      const imgResult = await generateImage(geminiResult.prompt, { aspectRatio: aspect_ratio, outputPath, referenceImages });
 
       if (!imgResult.success) {
-        return {
-          isError: true,
-          content: [{ type: "text", text: JSON.stringify({
-            error: "Image generation blocked by content filter",
-            blockedPrompt: imgResult.blockedPrompt,
-            suggestion: "Try adding a style_hint like 'wide establishing shot', 'atmospheric landscape', or 'stylized battle scene'",
-          }, null, 2) }],
-        };
+        return blockedResponse(imgResult, "Try adding a style_hint like 'wide establishing shot', 'atmospheric landscape', or 'stylized battle scene'");
       }
 
       try {
@@ -89,15 +126,7 @@ export function register(server) {
         warnings.push(`Image saved but embed failed: ${e.message}`);
       }
 
-      const result = {
-        imagePath: relativePath,
-        prompt: geminiResult.prompt,
-        reasoning: geminiResult.reasoning,
-        warnings,
-        reminder: "Run link_vault.py if you added new entity names.",
-      };
-
-      return { content: [{ type: "text", text: JSON.stringify(result, null, 2) }] };
+      return successResponse({ imagePath: relativePath, prompt: geminiResult.prompt, reasoning: geminiResult.reasoning, warnings });
     }
   );
 }

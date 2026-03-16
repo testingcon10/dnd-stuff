@@ -1,11 +1,12 @@
 ---
 aliases: []
-tags: [npc]
-race: ""
+tags:
+  - npc
+race: Human
 class: ""
 alignment: ""
-faction: "The Golds"
-location: "Drayik"
+faction: The Golds
+location: Drayik
 status: deceased
 attitude: hostile
 ---

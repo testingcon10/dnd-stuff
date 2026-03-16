@@ -23,6 +23,8 @@ attitude: neutral
 ## Appearance
 
 
+![[assets/npcs/uzog-portrait.png]]
+
 ## Personality
 
 
