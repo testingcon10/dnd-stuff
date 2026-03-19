@@ -39,11 +39,18 @@ SORT session_number DESC
 ## Active Quests
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Quest", quest_giver AS "Quest Giver", location AS "Location", reward AS "Reward"
+TABLE WITHOUT ID file.link AS "Quest", quest_giver AS "Quest Giver", session_started AS "Started", location AS "Location"
 FROM "03 - Quests"
 WHERE status = "active"
 SORT file.name ASC
 ```
+
+> [!success] Completed Quests
+> ```dataview
+> TABLE WITHOUT ID file.link AS "Quest", quest_giver AS "Quest Giver", location AS "Location"
+> FROM "03 - Quests/Completed"
+> SORT file.name ASC
+> ```
 
 ---
 
@@ -52,8 +59,12 @@ SORT file.name ASC
 ```dataview
 TABLE race AS "Race", location AS "Location", status AS "Status", attitude AS "Attitude"
 FROM "04 - NPCs"
+WHERE !contains(file.name, "Relationship Map")
 SORT file.name ASC
 ```
+
+> [!abstract] NPC Tools
+> [[NPC Relationship Map]] - Visual graph of all NPC connections, factions, and family trees
 
 ---
 

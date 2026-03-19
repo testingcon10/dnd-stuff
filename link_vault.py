@@ -116,6 +116,7 @@ SKIP_ENTITIES = {
     "Dagger",        # item — "The Mutton Dagger" tavern name
     "History",       # skill — common English word
     "Human",         # race — common English word in non-race contexts
+    "Identify",      # spell — common English word used in quest objectives
 }
 
 # ── Step 1: Build Entity Dictionary ───────────────────────────────────────────
