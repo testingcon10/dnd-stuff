@@ -36,7 +36,7 @@ A settlement in southern Tenelis, near the coast and the edge of [[Habi Forest]]
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

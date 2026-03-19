@@ -36,7 +36,7 @@ A northern settlement situated in the foothills between the [[Vesin Ridge Mounta
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

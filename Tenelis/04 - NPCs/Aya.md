@@ -43,8 +43,8 @@ Mage and alchemist from [[Drayik]], capable of crafting magical items. Runs the 
 
 | Session | Summary |
 |---------|---------|
-| Session 4 | Befriended by the party. [[Netanyahu D. Kirkuenly|Netanyahu]] promised to stop [[The Golds]] from abusing shopkeepers in exchange for knowledge about poisons |
-| Session 5 | [[Netanyahu D. Kirkuenly|Netanyahu]] showed proof that [[The Golds]] were dealt with. [[Cassius Bellona|Cassius]] brought [[Grig]]'s body and gold for burial |
+| Session 4 | Befriended by the party. [[Netanyahu D. Kirkuenly\|Netanyahu]] promised to stop [[The Golds]] from abusing shopkeepers in exchange for knowledge about poisons |
+| Session 5 | [[Netanyahu D. Kirkuenly\|Netanyahu]] showed proof that [[The Golds]] were dealt with. [[Cassius Bellona\|Cassius]] brought [[Grig]]'s body and gold for burial |
 
 ## Notes
 

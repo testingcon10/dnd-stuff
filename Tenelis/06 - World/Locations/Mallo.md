@@ -36,7 +36,7 @@ A settlement in the central-south region, situated at the southern edge of the [
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

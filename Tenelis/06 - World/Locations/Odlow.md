@@ -36,7 +36,7 @@ A settlement on the western edge of the central plains, near the base of the [[T
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

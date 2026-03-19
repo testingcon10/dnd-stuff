@@ -36,7 +36,7 @@ A port settlement nestled along the western bay, serving as a waypoint for coast
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

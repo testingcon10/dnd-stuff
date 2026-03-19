@@ -44,7 +44,7 @@ attitude: neutral
 
 | Session | Summary |
 |---------|---------|
-| Session 6 | Party coerced him into revealing a big winner-takes-all card game tonight. [[Netanyahu D. Kirkuenly|Net]] threatened to take business elsewhere. Party paid 20 GP buyin |
+| Session 6 | Party coerced him into revealing a big winner-takes-all card game tonight. [[Netanyahu D. Kirkuenly\|Net]] threatened to take business elsewhere. Party paid 20 GP buyin |
 
 ## Notes
 

@@ -36,7 +36,7 @@ An older settlement in the southeast, the original counterpart to [[New Garish]]
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

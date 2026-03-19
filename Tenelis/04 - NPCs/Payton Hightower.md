@@ -33,7 +33,7 @@ attitude: friendly
 
 ## Background
 
-The church's High Champion, stationed at [[Old Drayik Keep]]. Known to the party prior to Session 6. Holds the paired [[Sending Stone]] to [[Netanyahu D. Kirkuenly|Net]]'s. Interested in information on [[The Feints]].
+The church's High Champion, stationed at [[Old Drayik Keep]]. Known to the party prior to Session 6. Holds the paired [[Sending Stones|Sending Stone]] to [[Netanyahu D. Kirkuenly|Net]]'s. Interested in information on [[The Feints]].
 
 ## Relationships
 

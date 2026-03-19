@@ -36,7 +36,7 @@ An expanse of open plains in central-eastern Tenelis, dotted with scattered sett
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

@@ -36,7 +36,7 @@ A southern settlement located between [[Mallo]] and [[Jokkon]], in a region of m
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

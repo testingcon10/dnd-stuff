@@ -36,7 +36,7 @@ A remote settlement on the southwestern coast, at the southern tip of the [[Shig
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

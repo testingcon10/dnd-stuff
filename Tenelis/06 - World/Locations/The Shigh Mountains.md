@@ -36,7 +36,7 @@ A long mountain range running north-south through the central-western part of Te
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

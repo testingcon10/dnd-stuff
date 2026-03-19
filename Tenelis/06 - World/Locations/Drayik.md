@@ -42,7 +42,7 @@ A small coastal settlement on the southeastern shore of Tenelis.
 |---------|-----------|-------|
 | [[The Golds]] | Strong | Operate as the mob in the shopping district |
 
-## [[History]]
+## History
 
 
 
@@ -57,4 +57,4 @@ A small coastal settlement on the southeastern shore of Tenelis.
 | Session | Events |
 |---------|--------|
 | Session 5 | Four criminal factions operate in [[Drayik]]: [[The Golds]], [[Avian Brotherhood]], [[The Feints]], [[Elven Mafia]]. [[Kenku]] occupy the catacombs beneath [[Drayik]] and are arming all the crimina... |
-| Session 6 | Party began following the [[Gangs of Drayik]] quest, investigating bars in [[Drayik]] for leads. [[Kenku]] military book (found by [[Cassius Bellona|Cassius]]): [[Kenku]] are afraid of pushing into... |
+| Session 6 | Party began following the [[Gangs of Drayik]] quest, investigating bars in [[Drayik]] for leads. [[Kenku]] military book (found by [[Cassius Bellona\|Cassius]]): [[Kenku]] are afraid of pushing into... |

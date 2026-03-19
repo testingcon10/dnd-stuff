@@ -36,7 +36,7 @@ A major mountain range stretching across northern Tenelis, forming a natural bar
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

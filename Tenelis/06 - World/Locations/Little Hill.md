@@ -36,7 +36,7 @@ A small settlement on the edge of the [[The Vorge Plains|Vorge Plains]], named f
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

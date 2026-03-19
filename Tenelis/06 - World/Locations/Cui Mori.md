@@ -36,7 +36,7 @@ A southern settlement near the coast, not far from the settlement of [[Joa]].
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

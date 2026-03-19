@@ -36,7 +36,7 @@ A pair of lakes in central Tenelis, fed by rivers flowing from the surrounding m
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

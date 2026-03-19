@@ -39,7 +39,7 @@ After the recent attack on [[Delmind]] during the Festival of the Daughter, the 
 |---------|--------|
 | Session 5 | [[Old Shell]] identified [[Eileen Whitebeak]] at the western bridge - sister of [[Corso]], leader of the Senin militia. She opposes Corso's radical approach |
 | Session 5 | Eileen shared food trade routes: [[Little Hill]] (stopped), [[The Vorge Plains]] (unreliable), mountains of [[Delmind]] (not bountiful). Costs 30 gold per day |
-| Session 5 | [[Booker Locke]] revealed his parents were murdered by the Senin and his twin sister [[Gwen Locke|Gwen]] was kidnapped 6 years ago |
+| Session 5 | [[Booker Locke]] revealed his parents were murdered by the Senin and his twin sister [[Gwen Locke\|Gwen]] was kidnapped 6 years ago |
 
 ## Related NPCs
 

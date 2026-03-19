@@ -36,7 +36,7 @@ A small southern coastal settlement near [[Cui Mori]].
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

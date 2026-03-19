@@ -36,7 +36,7 @@ A rugged mountain range in the north-central part of the continent, east of the 
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

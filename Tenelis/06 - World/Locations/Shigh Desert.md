@@ -36,7 +36,7 @@ A vast desert occupying much of western Tenelis, bordered by the [[The Shigh Mou
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

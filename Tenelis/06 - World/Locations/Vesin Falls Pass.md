@@ -36,7 +36,7 @@ A pass through the [[Vesin Ridge Mountains]], likely named for waterfalls along 
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

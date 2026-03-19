@@ -36,7 +36,7 @@ A settlement at the western edge of the [[Vesin Ridge Mountains]], likely named 
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

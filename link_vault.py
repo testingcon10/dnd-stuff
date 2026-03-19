@@ -112,6 +112,7 @@ SKIP_ENTITIES = {
     "Tools",         # rule — common English word
     "Glossary",      # reference — generic term
     # Weapon/item names that appear in location or NPC names:
+    "Ability Scores", # skill — section heading in character sheets
     "Champion",      # class — "High Champion" title used for NPCs
     "Dagger",        # item — "The Mutton Dagger" tavern name
     "History",       # skill — common English word

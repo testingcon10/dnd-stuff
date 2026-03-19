@@ -42,7 +42,7 @@ Founding knight of the Knights of Drayik. Led a revolt against a feudalist leade
 
 | Session | Summary |
 |---------|---------|
-| Session 6 | History discovered by [[Booker Locke|Booker]] in the [[Old Drayik Keep]] library |
+| Session 6 | History discovered by [[Booker Locke\|Booker]] in the [[Old Drayik Keep]] library |
 
 ## Notes
 

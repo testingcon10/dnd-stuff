@@ -38,7 +38,7 @@ A dense, ancient forest west of [[Tenelis City]]. Travelers report hearing faint
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 *Legends say the forest predates all civilization in the region...*
 

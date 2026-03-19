@@ -36,7 +36,7 @@ A small coastal settlement in the arid northwest, named for the seasonal river t
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

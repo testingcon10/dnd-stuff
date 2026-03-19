@@ -36,7 +36,7 @@ A small eastern settlement near the coast, north of [[New Garish]].
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

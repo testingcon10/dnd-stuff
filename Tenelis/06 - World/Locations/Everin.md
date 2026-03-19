@@ -36,7 +36,7 @@ A settlement in the forested northeast, east of the [[Coryik Mountains]].
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

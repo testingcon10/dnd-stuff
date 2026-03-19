@@ -37,6 +37,6 @@ The party met [[Eileen Whitebeak]] at the western bridge. She revealed the churc
 |---------|--------|
 | Session 5 | Received a sealed envelope from a [[Kenku]] outside the [[Boar Tusk Brewery]] |
 | Session 5 | Approaching the bridge at night, [[Old Shell]] identified [[Eileen Whitebeak]] - sister of [[Corso]], leader of the Senin militia. She knows the church sends men to the catacombs who never return. Asked for help, warned we will die upon entrance of the catacombs |
-| Session 5 | Negotiated with [[Eileen Whitebeak|Eileen]]. She offered escort into catacombs in exchange for finding [[Dimitri]]. Learned food routes, [[The Three Sisters]] lore, and [[Booker Locke|Booker]] revealed his sister [[Gwen Locke|Gwen]] was kidnapped by the Senin |
+| Session 5 | Negotiated with [[Eileen Whitebeak\|Eileen]]. She offered escort into catacombs in exchange for finding [[Dimitri]]. Learned food routes, [[The Three Sisters]] lore, and [[Booker Locke\|Booker]] revealed his sister [[Gwen Locke\|Gwen]] was kidnapped by the Senin |
 
 ## Notes

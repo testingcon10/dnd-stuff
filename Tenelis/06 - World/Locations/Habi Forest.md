@@ -36,7 +36,7 @@ A vast forest stretching across the southern coast of Tenelis, dense and largely
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

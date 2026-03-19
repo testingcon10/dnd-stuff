@@ -36,7 +36,7 @@ A river system in the central-southern region of Tenelis, winding through forest
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

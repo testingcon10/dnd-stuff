@@ -36,7 +36,7 @@ An eastern coastal settlement, likely founded as a newer counterpart to the olde
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 

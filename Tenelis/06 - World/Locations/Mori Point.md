@@ -37,7 +37,7 @@ A settlement on the southern coast, possibly connected to [[Cui Mori]] by name a
 |---------|-----------|-------|
 |         |           |       |
 
-## [[History]]
+## History
 
 
 
