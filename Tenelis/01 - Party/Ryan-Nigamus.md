@@ -118,4 +118,7 @@ alignment: True Neutral
 ## Backstory
 
 
+## Journal
+
+
 ## Notes

@@ -2,7 +2,7 @@
 Generate per-character journals from session recaps.
 
 Extracts each PC's key moments, quotes, and developments from all
-session recaps and creates/updates journal files in 01 - Party/.
+session recaps and updates the ## Journal section in each character sheet.
 """
 
 import re
@@ -118,32 +118,19 @@ def extract_character_moments(content, session_num, char_name, aliases):
     return moments
 
 
-def generate_journal(char_name, info, all_moments):
-    """Generate a character journal markdown file."""
-    output = f"""---
-aliases: []
-tags: [journal, party]
-character: "{char_name}"
-player: "{info['player']}"
----
+def build_journal_section(all_moments):
+    """Build the ## Journal section content."""
+    output = "## Journal\n\n"
 
-# {char_name} - Journal
-
-A session-by-session record of **{char_name}**'s key moments, developments, and personal arc.
-
-**Player:** {info['player']}
-
----
-
-"""
-
+    has_any = False
     for session_num in sorted(all_moments.keys()):
         moments = all_moments[session_num]
         has_content = any(moments[k] for k in moments)
         if not has_content:
             continue
 
-        output += f"## Session {session_num}\n\n"
+        has_any = True
+        output += f"### Session {session_num}\n\n"
 
         if moments['highlights']:
             output += "**Highlight:**\n"
@@ -170,10 +157,39 @@ A session-by-session record of **{char_name}**'s key moments, developments, and 
 
         output += "---\n\n"
 
-    output += "## Character Arc Notes\n\n"
-    output += "%% Track character development, relationships, and personal goals here %%\n"
+    if not has_any:
+        output += "\n"
 
     return output
+
+
+def update_character_sheet(char_name, all_moments):
+    """Update the ## Journal section in a character sheet file."""
+    sheet_file = PARTY_DIR / f"{char_name}.md"
+    if not sheet_file.exists():
+        print(f"  WARNING: {sheet_file.name} not found, skipping")
+        return False
+
+    content = sheet_file.read_text(encoding='utf-8')
+    new_journal = build_journal_section(all_moments)
+
+    # Replace existing ## Journal section (everything from ## Journal to ## Notes)
+    journal_match = re.search(
+        r'## Journal\n.*?(?=## Notes)',
+        content, re.DOTALL
+    )
+    if journal_match:
+        content = content[:journal_match.start()] + new_journal + content[journal_match.end():]
+    else:
+        # No journal section yet - insert before ## Notes
+        notes_match = re.search(r'## Notes', content)
+        if notes_match:
+            content = content[:notes_match.start()] + new_journal + content[notes_match.start():]
+        else:
+            content += "\n" + new_journal + "## Notes\n"
+
+    sheet_file.write_text(content, encoding='utf-8')
+    return True
 
 
 def run():
@@ -182,6 +198,7 @@ def run():
         print("No session recaps found.")
         return
 
+    updated = 0
     for char_name, info in PARTY.items():
         all_moments = {}
 
@@ -191,14 +208,12 @@ def run():
             moments = extract_character_moments(content, session_num, char_name, info['aliases'])
             all_moments[session_num] = moments
 
-        journal = generate_journal(char_name, info, all_moments)
-        output_file = PARTY_DIR / f"{char_name} - Journal.md"
-        output_file.write_text(journal, encoding='utf-8')
+        if update_character_sheet(char_name, all_moments):
+            session_count = sum(1 for m in all_moments.values() if any(m[k] for k in m))
+            print(f"  {char_name}: {session_count} sessions with content")
+            updated += 1
 
-        session_count = sum(1 for m in all_moments.values() if any(m[k] for k in m))
-        print(f"  {char_name}: {session_count} sessions with content")
-
-    print(f"\nGenerated {len(PARTY)} character journals")
+    print(f"\nUpdated {updated} character sheets")
 
 
 if __name__ == "__main__":
