@@ -5,23 +5,21 @@ Reads NPC frontmatter and relationship tables, faction membership, and family
 connections to produce a visual graph in Tenelis/04 - NPCs/NPC Relationship Map.md.
 """
 
-import os
 import re
-from pathlib import Path
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-NPC_DIR = VAULT_ROOT / "04 - NPCs"
+from vault_utils import VAULT_ROOT, NPC_DIR, parse_frontmatter as _parse_frontmatter, extract_wikilinks
+
 FACTIONS_DIR = VAULT_ROOT / "06 - World" / "Factions"
 OUTPUT_FILE = NPC_DIR / "NPC Relationship Map.md"
 
 
-def parse_frontmatter(content):
-    """Extract YAML frontmatter fields."""
-    match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
-    if not match:
+def parse_frontmatter_dict(content):
+    """Parse frontmatter into a dict of key-value pairs."""
+    fm_str, _ = _parse_frontmatter(content)
+    if not fm_str:
         return {}
     fm = {}
-    for line in match.group(1).split('\n'):
+    for line in fm_str.split('\n'):
         if ':' in line and not line.strip().startswith('-'):
             key, val = line.split(':', 1)
             fm[key.strip()] = val.strip().strip('"').strip("'")
@@ -51,7 +49,7 @@ def load_npcs():
         if f.name == "NPC Relationship Map.md":
             continue
         content = f.read_text(encoding='utf-8')
-        fm = parse_frontmatter(content)
+        fm = parse_frontmatter_dict(content)
         name = f.stem
         rels = parse_relationships_table(content)
 
@@ -90,12 +88,11 @@ def load_factions():
     factions = {}
     for f in FACTIONS_DIR.rglob("*.md"):
         content = f.read_text(encoding='utf-8')
-        fm = parse_frontmatter(content)
+        fm = parse_frontmatter_dict(content)
         name = f.stem
-        # Extract members from content
-        members = re.findall(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', content)
+        members = extract_wikilinks(content)
         factions[name] = {
-            'members': list(set(members)),
+            'members': list(members),
             'type': fm.get('faction_type', 'Unknown'),
         }
     return factions

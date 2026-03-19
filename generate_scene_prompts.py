@@ -8,10 +8,10 @@ a prompts file that can be fed to an image generation tool.
 
 import re
 import sys
-from pathlib import Path
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
+from vault_utils import (VAULT_ROOT, SESSIONS_DIR,
+    parse_session_number, strip_wikilinks, parse_table_row)
+
 OUTPUT_DIR = VAULT_ROOT / "assets" / "scenes"
 
 # Party member visual descriptions for consistent image generation
@@ -27,16 +27,6 @@ PARTY_VISUALS = {
 }
 
 
-def parse_session_number(filepath):
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
-
-
-def strip_wikilinks(text):
-    """Remove wikilink formatting, keeping display text."""
-    return re.sub(r'\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]', lambda m: m.group(2) or m.group(1), text)
-
-
 def extract_key_scenes(content, session_num):
     """Identify the most visually interesting scenes from a session recap."""
     scenes = []
@@ -45,9 +35,7 @@ def extract_key_scenes(content, session_num):
     highlights_match = re.search(r'## Highlights\n\n\|.*?\|\n\|[-\s|]+\|\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
     if highlights_match:
         for line in highlights_match.group(1).strip().split('\n'):
-            # Protect escaped pipes inside wikilinks before splitting
-            safe_line = re.sub(r'\\\|', '\x00', line)
-            cols = [c.strip().replace('\x00', '|') for c in safe_line.split('|')[1:-1]]
+            cols = parse_table_row(line)
             if len(cols) >= 2:
                 player = strip_wikilinks(cols[0]).strip()
                 moment = strip_wikilinks(cols[1]).strip()
@@ -62,7 +50,7 @@ def extract_key_scenes(content, session_num):
     combat_match = re.search(r'## Combat Encounters\n\n\|.*?\|\n\|[-\s|]+\|\n(.*?)(?=\n##|\Z)', content, re.DOTALL)
     if combat_match:
         for line in combat_match.group(1).strip().split('\n'):
-            cols = [c.strip() for c in line.split('|')[1:-1]]
+            cols = parse_table_row(line)
             if len(cols) >= 3:
                 enemy = strip_wikilinks(cols[0]).strip()
                 notable = strip_wikilinks(cols[2]).strip() if len(cols) > 2 else ""

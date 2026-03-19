@@ -6,21 +6,11 @@ with session log entries and key NPCs found at each location.
 """
 
 import re
-from pathlib import Path
 from collections import defaultdict
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
-LOCATIONS_DIR = VAULT_ROOT / "06 - World" / "Locations"
-
-
-def parse_session_number(filepath):
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
-
-
-def extract_wikilinks(text):
-    return set(re.findall(r'\[\[([^\]|#]+?)(?:\|[^\]]+?)?\]\]', text))
+from vault_utils import (VAULT_ROOT, SESSIONS_DIR, LOCATIONS_DIR,
+    parse_session_number, get_session_files, extract_wikilinks,
+    parse_npc_table)
 
 
 def get_location_files():
@@ -38,31 +28,6 @@ def get_location_files():
                 if alias_name:
                     locations[alias_name] = f
     return locations
-
-
-def extract_npc_table(content):
-    """Extract NPCs Encountered table from session recap."""
-    table_match = re.search(
-        r'## NPCs Encountered\n\n\|.*?\|\n\|[-\s|]+\|\n(.*?)(?=\n##|\Z)',
-        content, re.DOTALL
-    )
-    if not table_match:
-        return []
-    npcs = []
-    for line in table_match.group(1).strip().split('\n'):
-        cols = [c.strip() for c in line.split('|')[1:-1]]
-        if len(cols) >= 4 and cols[0].strip():
-            npc_name = re.sub(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', r'\1', cols[0]).strip()
-            location = re.sub(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', r'\1', cols[1]).strip()
-            disposition = cols[2].strip()
-            notes = cols[3].strip()
-            npcs.append({
-                'name': npc_name,
-                'location': location,
-                'disposition': disposition,
-                'notes': notes,
-            })
-    return npcs
 
 
 def extract_session_events(content, location_names):
@@ -177,7 +142,7 @@ def run():
     location_files = get_location_files()
     location_names = set(location_files.keys())
 
-    session_files = sorted(SESSIONS_DIR.glob("Session * Recap.md"), key=parse_session_number)
+    session_files = get_session_files()
     if not session_files:
         print("No session recaps found.")
         return
@@ -193,7 +158,7 @@ def run():
         events = extract_session_events(content, location_names)
 
         # Extract NPCs per location
-        session_npcs = extract_npc_table(content)
+        session_npcs = parse_npc_table(content)
 
         for location_name, event_texts in events.items():
             filepath = location_files.get(location_name)

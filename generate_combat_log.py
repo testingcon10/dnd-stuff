@@ -6,20 +6,11 @@ session recaps into a single Combat Log archive file.
 """
 
 import re
-from pathlib import Path
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
-OUTPUT = VAULT_ROOT / "08 - DM" / "Combat Log.md"
+from vault_utils import (VAULT_ROOT, SESSIONS_DIR, DM_DIR,
+    parse_session_number, strip_wikilinks, parse_table_row)
 
-
-def parse_session_number(filepath):
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
-
-
-def strip_wikilinks(text):
-    return re.sub(r'\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]', lambda m: m.group(2) or m.group(1), text)
+OUTPUT = DM_DIR / "Combat Log.md"
 
 
 def extract_combat_encounters(content, session_num):
@@ -34,8 +25,7 @@ def extract_combat_encounters(content, session_num):
         return encounters
 
     for line in table_match.group(1).strip().split('\n'):
-        safe_line = re.sub(r'\\\|', '\x00', line)
-        cols = [c.strip().replace('\x00', '|') for c in safe_line.split('|')[1:-1]]
+        cols = parse_table_row(line)
         if len(cols) >= 3:
             enemy = cols[0].strip()
             result = cols[1].strip()

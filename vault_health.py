@@ -16,7 +16,7 @@ import re
 from pathlib import Path
 from collections import defaultdict
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
+from vault_utils import VAULT_ROOT, extract_wikilinks, parse_frontmatter
 OUTPUT = VAULT_ROOT / "00 - Vault Health.md"
 
 STUB_THRESHOLD = 5  # lines of actual content (excluding frontmatter)
@@ -30,11 +30,6 @@ def get_content_lines(filepath):
     content = re.sub(r'^---\n.*?\n---\n', '', content, flags=re.DOTALL)
     lines = [l for l in content.strip().split('\n') if l.strip()]
     return len(lines)
-
-
-def extract_wikilinks(content):
-    """Extract all wikilink targets from content."""
-    return set(re.findall(r'\[\[([^\]|#]+?)(?:\|[^\]]+?)?\]\]', content))
 
 
 def get_all_files():
@@ -86,11 +81,9 @@ def check_quest_fields():
 
     for f in quest_dir.glob("*.md"):
         content = f.read_text(encoding='utf-8')
-        fm_match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
-        if not fm_match:
+        fm, _ = parse_frontmatter(content)
+        if not fm:
             continue
-
-        fm = fm_match.group(1)
         missing_fields = []
 
         for field in ['quest_giver', 'location', 'session_started']:
@@ -137,9 +130,9 @@ def check_broken_links(all_files):
     for name, path in all_files.items():
         try:
             content = path.read_text(encoding='utf-8')
-            fm_match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
-            if fm_match:
-                for alias_match in re.finditer(r'^\s+-\s+(.+)$', fm_match.group(1), re.MULTILINE):
+            fm_str, _ = parse_frontmatter(content)
+            if fm_str:
+                for alias_match in re.finditer(r'^\s+-\s+(.+)$', fm_str, re.MULTILINE):
                     alias_set.add(alias_match.group(1).strip().strip('"'))
         except Exception:
             pass

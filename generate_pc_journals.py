@@ -6,54 +6,10 @@ session recaps and updates the ## Journal section in each character sheet.
 """
 
 import re
-from pathlib import Path
-from collections import defaultdict
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
-PARTY_DIR = VAULT_ROOT / "01 - Party"
-
-PARTY = {
-    "Netanyahu D. Kirkuenly": {
-        "aliases": ["Net", "Netanyahu"],
-        "player": "Conor",
-    },
-    "Booker Locke": {
-        "aliases": ["Booker"],
-        "player": "Tony",
-    },
-    "Old Shell": {
-        "aliases": [],
-        "player": "Erik",
-    },
-    "Cassius Bellona": {
-        "aliases": ["Cassius"],
-        "player": "Jake",
-    },
-    "Ryan-Nigamus": {
-        "aliases": [],
-        "player": "Nigamus",
-    },
-}
-
-
-def parse_session_number(filepath):
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
-
-
-def strip_wikilinks(text):
-    return re.sub(r'\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]', lambda m: m.group(2) or m.group(1), text)
-
-
-def char_mentioned(text, char_name, aliases):
-    """Check if a character is mentioned in text."""
-    text_clean = strip_wikilinks(text)
-    names_to_check = [char_name] + aliases
-    for name in names_to_check:
-        if name.lower() in text_clean.lower():
-            return True
-    return False
+from vault_utils import (SESSIONS_DIR, PARTY_DIR, PARTY,
+    parse_session_number, get_session_files, strip_wikilinks,
+    char_mentioned, parse_table_row)
 
 
 def extract_character_moments(content, session_num, char_name, aliases):
@@ -73,8 +29,7 @@ def extract_character_moments(content, session_num, char_name, aliases):
     )
     if highlights_match:
         for line in highlights_match.group(1).strip().split('\n'):
-            safe_line = re.sub(r'\\\|', '\x00', line)
-            cols = [c.strip().replace('\x00', '|') for c in safe_line.split('|')[1:-1]]
+            cols = parse_table_row(line)
             if len(cols) >= 2:
                 player = strip_wikilinks(cols[0]).strip()
                 moment = strip_wikilinks(cols[1]).strip()
@@ -193,7 +148,7 @@ def update_character_sheet(char_name, all_moments):
 
 
 def run():
-    session_files = sorted(SESSIONS_DIR.glob("Session * Recap.md"), key=parse_session_number)
+    session_files = get_session_files()
     if not session_files:
         print("No session recaps found.")
         return

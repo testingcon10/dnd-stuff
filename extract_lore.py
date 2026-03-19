@@ -5,28 +5,9 @@ Parses ### Lore sections from session recaps, groups related lore entries,
 and either creates new lore files or appends to existing ones.
 """
 
-import os
 import re
-import sys
-from pathlib import Path
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
-LORE_DIR = VAULT_ROOT / "06 - World" / "Lore"
-LOCATIONS_DIR = VAULT_ROOT / "06 - World" / "Locations"
-NPC_DIR = VAULT_ROOT / "04 - NPCs"
-
-
-def extract_wikilinks(text):
-    """Extract all wikilink targets from text, handling aliases."""
-    links = re.findall(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', text)
-    return [link.strip() for link in links]
-
-
-def parse_session_number(filepath):
-    """Extract session number from filename."""
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
+from vault_utils import VAULT_ROOT, SESSIONS_DIR, LORE_DIR, parse_session_number, extract_wikilinks
 
 
 def parse_lore_section(content, session_num):

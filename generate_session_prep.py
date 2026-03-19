@@ -10,38 +10,18 @@ Reads the most recent session recap and extracts:
 """
 
 import re
-from pathlib import Path
 
-VAULT_ROOT = Path(__file__).parent / "Tenelis"
-SESSIONS_DIR = VAULT_ROOT / "02 - Sessions"
+from vault_utils import (VAULT_ROOT, SESSIONS_DIR, DM_DIR,
+    parse_session_number, get_session_files, extract_section,
+    parse_npc_table)
+
 QUESTS_DIR = VAULT_ROOT / "03 - Quests"
-NPC_DIR = VAULT_ROOT / "04 - NPCs"
-DM_DIR = VAULT_ROOT / "08 - DM"
-
-
-def parse_session_number(filepath):
-    """Extract session number from filename."""
-    match = re.search(r'Session\s+(\d+)', filepath.name)
-    return int(match.group(1)) if match else 0
 
 
 def get_latest_sessions(n=2):
     """Get the N most recent session recap files."""
-    files = sorted(SESSIONS_DIR.glob("Session * Recap.md"), key=parse_session_number)
+    files = get_session_files()
     return files[-n:] if len(files) >= n else files
-
-
-def extract_section(content, heading, level=2):
-    """Extract content under a markdown heading."""
-    prefix = '#' * level
-    pattern = rf'^{prefix}\s+{re.escape(heading)}\s*\n(.*?)(?=\n{prefix}\s+|\Z)'
-    match = re.search(pattern, content, re.MULTILINE | re.DOTALL)
-    return match.group(1).strip() if match else ""
-
-
-def extract_subsection(content, heading, level=3):
-    """Extract content under a ### heading."""
-    return extract_section(content, heading, level)
 
 
 def get_active_quests():
@@ -63,25 +43,7 @@ def get_active_quests():
 
 def get_recent_npcs(content):
     """Extract NPC encounter table from session recap."""
-    table_match = re.search(
-        r'## NPCs Encountered\n\n\|.*?\|\n\|[-\s|]+\|\n(.*?)(?=\n##|\Z)',
-        content,
-        re.DOTALL
-    )
-    if not table_match:
-        return []
-
-    npcs = []
-    for line in table_match.group(1).strip().split('\n'):
-        cols = [c.strip() for c in line.split('|')[1:-1]]
-        if len(cols) >= 4 and cols[0].strip():
-            npcs.append({
-                'name': re.sub(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', r'\1', cols[0]),
-                'location': re.sub(r'\[\[([^\]|]+?)(?:\|[^\]]+?)?\]\]', r'\1', cols[1]),
-                'disposition': cols[2],
-                'notes': cols[3],
-            })
-    return npcs
+    return parse_npc_table(content)
 
 
 def get_open_threads(content):
@@ -117,7 +79,7 @@ def run():
     active_quests = get_active_quests()
 
     # Extract key events
-    story_events = extract_subsection(latest_content, "Story")
+    story_events = extract_section(latest_content, "Story", level=3)
 
     # Build the prep file
     output = f"""---
