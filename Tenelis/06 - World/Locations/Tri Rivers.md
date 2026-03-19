@@ -50,5 +50,4 @@ A settlement at the confluence of three rivers in eastern Tenelis, likely an imp
 
 | Session | Events |
 |---------|--------|
-|         |        |
 | Session 6 | [[Kenku]] military book (found by [[Cassius Bellona|Cassius]]): [[Kenku]] are afraid of pushing into mountainous terrain. Rivers believed to lead to an underground river network flowing beneath [[D... |

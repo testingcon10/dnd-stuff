@@ -29,6 +29,7 @@ A tavern in [[Drayik]] frequented nightly by [[The Golds]] for cards and drinks.
 |---------|--------|
 | Session 5 | Party fought [[The Golds]] here. [[Kay'Dara]] killed. [[Grig]] died. Henchmen interrogated |
 | Session 6 | An underground river tributary flows beneath the shopping district - [[Red Elk]]? [[Boar Tusk Brewery]]? Needs exploration |
+
 ## Notes
 
 - Listed in [[The Golds]]' gambling operations manifest

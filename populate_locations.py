@@ -122,14 +122,16 @@ def update_session_log(filepath, session_num, events_text):
 
     new_row = f"| Session {session_num} | {summary} |"
 
-    if existing and existing != '|         |        |':
+    # Check if existing content is just an empty placeholder row
+    is_empty = not existing or re.match(r'^\|\s*\|\s*\|$', existing.strip())
+    if not is_empty:
         new_table = f"{header}{existing}\n{new_row}"
     else:
         new_table = f"{header}{new_row}"
 
-    # Replace old table
+    # Replace old table, ensuring trailing newline before next section
     old_section = log_match.group(0)
-    new_section = f"## Session Log\n\n{new_table}"
+    new_section = f"## Session Log\n\n{new_table}\n"
     updated = content.replace(old_section, new_section)
 
     filepath.write_text(updated, encoding='utf-8')
@@ -159,7 +161,8 @@ def update_key_npcs(filepath, npcs_at_location, session_num):
 
         new_row = f"| [[{npc['name']}]] | {npc['disposition']} | {npc['notes']} |"
 
-        if existing and existing != '|     |      |       |':
+        is_empty = not existing or re.match(r'^\|\s*\|\s*\|\s*\|$', existing.strip())
+        if not is_empty:
             new_table = f"{header}{existing}\n{new_row}"
         else:
             new_table = f"{header}{new_row}"

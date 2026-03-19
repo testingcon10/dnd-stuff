@@ -237,7 +237,7 @@ Auto-generated report of vault issues. Run `python vault_health.py` to refresh.
         output += f"## Stub Files ({len(campaign_stubs)} campaign files)\n\n"
         output += "| File | Content Lines |\n|------|---------------|\n"
         for path, lines in campaign_stubs[:30]:
-            output += f"| {path} | {lines} |\n"
+            output += f"| `{path}` | {lines} |\n"
         if len(campaign_stubs) > 30:
             output += f"\n*...and {len(campaign_stubs) - 30} more*\n"
         output += "\n"
@@ -261,7 +261,7 @@ Auto-generated report of vault issues. Run `python vault_health.py` to refresh.
     if location_desc:
         output += f"## Locations Without Descriptions ({len(location_desc)})\n\n"
         for loc in location_desc:
-            output += f"- {loc}\n"
+            output += f"- `{loc}`\n"
         output += "\n"
 
     # Broken links
@@ -269,10 +269,10 @@ Auto-generated report of vault issues. Run `python vault_health.py` to refresh.
         output += f"## Broken Wikilinks ({len(broken)} unique targets)\n\n"
         output += "| Target | Referenced From |\n|--------|----------------|\n"
         for target, sources in list(broken.items())[:30]:
-            src_list = ", ".join(sources[:3])
+            src_list = ", ".join(f"`{s}`" for s in sources[:3])
             if len(sources) > 3:
                 src_list += f" (+{len(sources) - 3} more)"
-            output += f"| {target} | {src_list} |\n"
+            output += f"| `{target}` | {src_list} |\n"
         if len(broken) > 30:
             output += f"\n*...and {len(broken) - 30} more broken links*\n"
         output += "\n"
@@ -282,7 +282,7 @@ Auto-generated report of vault issues. Run `python vault_health.py` to refresh.
         output += f"## Orphaned Files ({len(orphans)})\n\n"
         output += "Files with no inbound wikilinks (campaign content only):\n\n"
         for orph in orphans[:20]:
-            output += f"- {orph}\n"
+            output += f"- `{orph}`\n"
         if len(orphans) > 20:
             output += f"\n*...and {len(orphans) - 20} more*\n"
 

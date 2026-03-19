@@ -303,6 +303,14 @@ def protect_regions(body):
         body,
     )
 
+    # 8. Markdown headings (## ..., ### ..., etc.) — section titles
+    body = re.sub(
+        r"^#{2,6}\s+.+$",
+        lambda m: make_placeholder(m.group(0)),
+        body,
+        flags=re.MULTILINE,
+    )
+
     return body, placeholders
 
 
@@ -407,11 +415,12 @@ def process_file(filepath, sorted_ents, spell_names_lower):
 
 
 def collect_all_md_files(vault_root):
-    """Collect all .md files in the vault, skipping .obsidian/."""
+    """Collect all .md files in the vault, skipping .obsidian/ and assets/."""
     md_files = []
+    skip_dirs = {".obsidian", "assets"}
     for root, dirs, files in os.walk(vault_root):
-        # Skip .obsidian directory
-        dirs[:] = [d for d in dirs if d != ".obsidian"]
+        # Skip non-content directories
+        dirs[:] = [d for d in dirs if d not in skip_dirs]
         for fname in files:
             if fname.endswith(".md"):
                 md_files.append(os.path.join(root, fname))

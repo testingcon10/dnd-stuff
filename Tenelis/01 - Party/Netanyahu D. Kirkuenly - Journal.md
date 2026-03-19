@@ -27,7 +27,7 @@ A session-by-session record of **Netanyahu D. Kirkuenly**'s key moments, develop
 
 **Key Moments:**
 - Netanyahu showed Aya proof that The Golds were dealt with, fulfilling his promise from Session 4
-- Net tried casting Suggestion on Eileen's henchman - turned her group aggressive
+- Net tried casting [[Suggestion]] on Eileen's henchman - turned her group aggressive
 - Net pressed for catacombs food costs and trade routes from Eileen's people
 
 ---

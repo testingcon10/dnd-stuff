@@ -50,5 +50,4 @@ An expanse of open plains in central-eastern Tenelis, dotted with scattered sett
 
 | Session | Events |
 |---------|--------|
-|         |        |
 | Session 5 | Food supply to the catacombs is failing - [[Little Hill]] (largest source) has stopped, [[The Vorge Plains]] is unreliable, mountains of [[Delmind]] are not bountiful. Costs 30 gold per day |

@@ -88,9 +88,11 @@ def categorize_lore_entry(entry):
     if 'human trafficking' in text_lower:
         categories.append('Drayik Criminal Syndicate')
 
-    # Default: if no category matched, label as general
+    # Skip entries explicitly marked as unimportant
     if not categories:
-        categories.append('Uncategorized Lore')
+        skip_phrases = ['nothing of major note', 'nothing notable', 'no new information']
+        if any(phrase in text_lower for phrase in skip_phrases):
+            return []
 
     return categories
 
