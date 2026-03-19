@@ -5,7 +5,7 @@ tags:
   - lore
 ---
 
-# Drayik [[Criminal]] Syndicate
+# Drayik Criminal Syndicate
 
 ## Overview
 

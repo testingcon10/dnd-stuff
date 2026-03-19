@@ -117,6 +117,7 @@ SKIP_ENTITIES = {
     "History",       # skill — common English word
     "Human",         # race — common English word in non-race contexts
     "Identify",      # spell — common English word used in quest objectives
+    "Criminal",      # background — common English word used in faction/lore descriptions
 }
 
 # ── Step 1: Build Entity Dictionary ───────────────────────────────────────────

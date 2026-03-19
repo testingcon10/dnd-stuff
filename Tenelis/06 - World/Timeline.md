@@ -76,7 +76,7 @@ A chronological record of historical events and session-by-session campaign mile
 | [[The Half Mast]] intel | Coerced [[Watkins]] into revealing winner-takes-all card game. [[The Golds]] may bring a "big timer." Paid 20 GP buyin |
 | [[Old Drayik Keep]] visit | Met [[Payton Hightower]], church's High Champion. Initially refused entry |
 | Library access granted | Payton gave library access in exchange for secrecy. No stealing |
-| Kenku military intel | [[Cassius Bellona\|Cassius]] found intel on [[Kenku]] supply lines, underground rivers, [[Tri Rivers]] flowing beneath [[Drayik]] |
+| [[Kenku]] military intel | [[Cassius Bellona\|Cassius]] found intel on [[Kenku]] supply lines, underground rivers, [[Tri Rivers]] flowing beneath [[Drayik]] |
 | [[Drayik]] survey found | [[Netanyahu D. Kirkuenly\|Net]] found ~98% complete census documenting basements, tunnels, infrastructure |
 | Underground networks | River tributary beneath shopping district, coastal caves as lead to [[Catacombs]], human trafficking bypassing docks |
 | [[Kenku]] family tree | [[Dima]] is father of [[Corso]] and [[Eileen Whitebeak]]. Dima deceased, shared Corso's temperament |

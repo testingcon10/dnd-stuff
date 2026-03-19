@@ -5,23 +5,38 @@ tags: [loot, tracking]
 
 # Loot Log
 
+## Party Net Worth
+
+| Character | Gold (GP) | Magic Items | Consumables |
+|-----------|-----------|-------------|-------------|
+| [[Netanyahu D. Kirkuenly]] | 989.1 | 3 ([[Staff of Healing]], [[Necklace of Prayer Beads]], [[Sending Stones]]) | 1 ([[Potion of Vitality]]) |
+| [[Booker Locke]] | 1,126 | 0 | 1 ([[Potion of Climbing]]) |
+| [[Old Shell]] | 1,055.4 | 0 | 16 ([[Potion of Healing]]) |
+| [[Cassius Bellona]] | 639 | 2 ([[Longsword]] of Life Stealing, [[Studded Leather]] +1) | 20 (Potions) |
+| [[Ryan-Nigamus]] | 581 | 0 | 0 |
+| **Party** | - | 0 | 1 ([[Gambling Operations Manifest]]) |
+
+**Total Party Gold: 4,390.5 GP**
+
+---
+
 ## Active Loot
 
-| Item | Qty | Held By | Acquired (Session) | Notes |
-| ---- | --- | ------- | ------------------ | ----- |
-| [[Staff of Healing]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Rare, spellcasting focus |
-| [[Necklace of Prayer Beads]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Rare |
-| [[Sending Stones]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Uncommon, paired set |
-| [[Potion of Vitality]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Very Rare |
-| [[Longsword]] of Life Stealing | 1 | [[Cassius Bellona]] | - | Rare, +10 necrotic on crit |
-| [[Studded Leather]], +1 | 1 | [[Cassius Bellona]] | - | Rare, AC 13 + DEX |
-| [[Plate]] Armor | 1 | [[Cassius Bellona]] | Session 5 | Loaned by [[Grig]], now permanent |
-| [[Potion of Water Breathing]] | 4 | [[Cassius Bellona]] | - | Uncommon |
-| [[Potion of Growth]] | 1 | [[Cassius Bellona]] | - | Uncommon |
-| [[Potion of Climbing]] | 1 | [[Booker Locke]] | - | |
-| [[Potion of Healing]] | 16 | [[Old Shell]] | - | |
-| [[Potion of Healing]] | 15 | [[Cassius Bellona]] | - | |
-| [[Gambling Operations Manifest]] | 1 | Party | Session 5 | From [[Kay'Dara]]'s lockbox |
+| Item | Qty | Held By | Acquired (Session) | Rarity | Notes |
+| ---- | --- | ------- | ------------------ | ------ | ----- |
+| [[Staff of Healing]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Rare | Spellcasting focus |
+| [[Necklace of Prayer Beads]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Rare | |
+| [[Sending Stones]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Uncommon | Paired with [[Payton Hightower]] |
+| [[Potion of Vitality]] | 1 | [[Netanyahu D. Kirkuenly]] | - | Very Rare | |
+| [[Longsword]] of Life Stealing | 1 | [[Cassius Bellona]] | - | Rare | +10 necrotic on crit |
+| [[Studded Leather]], +1 | 1 | [[Cassius Bellona]] | - | Rare | AC 13 + DEX |
+| [[Plate]] Armor | 1 | [[Cassius Bellona]] | Session 5 | - | Loaned by [[Grig]], now permanent |
+| [[Potion of Water Breathing]] | 4 | [[Cassius Bellona]] | - | Uncommon | |
+| [[Potion of Growth]] | 1 | [[Cassius Bellona]] | - | Uncommon | |
+| [[Potion of Climbing]] | 1 | [[Booker Locke]] | - | Common | |
+| [[Potion of Healing]] | 16 | [[Old Shell]] | - | Common | |
+| [[Potion of Healing]] | 15 | [[Cassius Bellona]] | - | Common | |
+| [[Gambling Operations Manifest]] | 1 | Party | Session 5 | - | From [[Kay'Dara]]'s lockbox |
 
 ## Sold / Used / Lost Items
 
@@ -30,19 +45,48 @@ tags: [loot, tracking]
 | [[Potion of Healing]] | 1 | [[Old Shell]] | Session 5 | - | Used during Boar Tusk fight |
 | [[Potion of Healing]] | 1 | [[Cassius Bellona]] | Session 5 | - | Used during Boar Tusk fight |
 
+---
+
 ## Party Gold Ledger
 
 | Session | Transaction | Amount | Running Total | Notes |
 |---------|-------------|--------|---------------|-------|
-|         | Starting gold | 0 gp | 0 gp |       |
-| Session 5 | Looted from [[Boar Tusk Brewery]] fight | +625 gp | - | Split 156 GP each (4 ways), 1 GP remainder |
+| - | Starting gold | 0 gp | 0 gp | |
+| Session 4 | Looted from Gold Thugs | +12 gp | 12 gp | |
+| Session 5 | Looted from [[Boar Tusk Brewery]] fight | +625 gp | 637 gp | Split 156 GP each (4 ways), 1 GP remainder |
+| Session 6 | Card game buyin at [[The Half Mast]] | -20 gp | 617 gp | Winner-takes-all tournament |
 
 ## Individual Gold Tracking
 
 | Character | CP | SP | EP | GP | PP | Total (in GP) |
 |-----------|----|----|----|----|----|----|
 | [[Netanyahu D. Kirkuenly]] | 0 | 1 | 0 | 989 | 0 | 989.1 |
-| [[Booker Locke]] | 0 | 0 | 0 | 1126 | 0 | 1126 |
-| [[Old Shell]] | 0 | 4 | 0 | 1055 | 0 | 1055.4 |
+| [[Booker Locke]] | 0 | 0 | 0 | 1,126 | 0 | 1,126 |
+| [[Old Shell]] | 0 | 4 | 0 | 1,055 | 0 | 1,055.4 |
 | [[Cassius Bellona]] | 0 | 0 | 0 | 639 | 0 | 639 |
 | [[Ryan-Nigamus]] | 0 | 0 | 0 | 581 | 0 | 581 |
+
+---
+
+## Expenses Log
+
+| Session | Item/Service | Cost | Paid By | Notes |
+|---------|-------------|------|---------|-------|
+| Session 6 | Card game buyin at [[The Half Mast]] | 20 GP | Party | Winner-takes-all tournament entry |
+
+---
+
+## Loot by Session
+
+### Session 4
+- +12 GP looted from Gold Thugs
+
+### Session 5
+- [[Plate]] Armor (loaned by [[Grig]], now permanent) - [[Cassius Bellona]]
+- [[Gambling Operations Manifest]] - Party
+- +625 GP (split 156 each, 1 remainder)
+- Used: 2x [[Potion of Healing]] (1 [[Old Shell]], 1 [[Cassius Bellona]])
+
+### Session 6
+- No loot acquired
+- Spent: 20 GP card game buyin at [[The Half Mast]]
