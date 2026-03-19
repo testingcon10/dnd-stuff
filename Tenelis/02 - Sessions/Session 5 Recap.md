@@ -19,23 +19,23 @@ The party befriended [[Aya]] and [[Grig]] in the [[Drayik]] shopping district. T
 
 ## Summary
 
-The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Golds]]. A card game went sideways, leading to a full fight. The party killed [[Kay'Dara]], a lieutenant of [[The Golds]]. Before finishing off her henchmen, the party interrogated them and learned critical intel about the [[Drayik]] criminal underworld - the existence of the [[Avian Brotherhood]], [[The Golds]], [[The Feints]], and the [[Elven Mafia]]. Most importantly, they learned that a large group of [[Kenku]] occupy the catacombs beneath [[Drayik]] and are arming the criminal groups in the city.
+The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Golds]]. A card game went sideways, leading to a full fight. The party killed [[Kay'Dara]], a lieutenant of [[The Golds]]. Before finishing off her henchmen, the party interrogated them and learned critical intel about the [[Drayik]] criminal underworld - the existence of the [[Avian Brotherhood]], [[The Golds]], [[The Feints]], and the [[Elven Mafia]]. Most importantly, they learned that a large group of [[Kenku]] occupy [[Catacombs|the catacombs]] beneath [[Drayik]] and are arming the criminal groups in the city.
 
 ## Key Events
 
 ### Story
-1. Received a sealed envelope from a [[Kenku]] outside the [[Boar Tusk Brewery]] - led the party to the western bridge
-2. Met [[Eileen Whitebeak]] - sister of [[Corso]], leader of the Senin militia. She offered protection and an escort into the catacombs in exchange for finding [[Dimitri]]
-3. [[Eileen Whitebeak|Eileen]] revealed the church sends men into the catacombs but none return. She warned the party they will die upon entrance
-4. [[Corso]] is obsessed with an ancient Senin prophecy that led to the genocide of his people. [[Eileen Whitebeak|Eileen]] refuses to follow that path
+1. Received a sealed envelope from a [[Kenku]] outside the [[Boar Tusk Brewery]] - led the party to [[The Western Bridge|the western bridge]]
+2. Met [[Eileen Whitebeak]] - sister of [[Corso]], leader of the [[The Senin|Senin militia]]. She offered protection and an escort into [[Catacombs|the catacombs]] in exchange for finding [[Dimitri]]
+3. [[Eileen Whitebeak|Eileen]] revealed the church sends men into [[Catacombs|the catacombs]] but none return. She warned the party they will die upon entrance
+4. [[Corso]] is obsessed with an [[The Senin Prophecy|ancient Senin prophecy]] that led to the genocide of his people. [[Eileen Whitebeak|Eileen]] refuses to follow that path
 5. [[Eileen Whitebeak|Eileen]] exposed as wearing a [[Moon Necklace of Absorption]] after [[Netanyahu D. Kirkuenly|Net]]'s [[Suggestion]] was blocked
-6. Food supply to the catacombs is failing - [[Little Hill]] (largest source) has stopped, [[The Vorge Plains]] is unreliable, mountains of [[Delmind]] are not bountiful. Costs 30 gold per day
+6. Food supply to [[Catacombs|the catacombs]] is failing - [[Little Hill]] (largest source) has stopped, [[The Vorge Plains]] is unreliable, mountains of [[Delmind]] are not bountiful. Costs 30 gold per day
 7. The party now has a tentative alliance with [[Eileen Whitebeak|Eileen]], contingent on finding [[Dimitri]] and getting answers about [[Gwen Locke|Gwen]]
 
 ### Lore
 1. Four criminal factions operate in [[Drayik]]: [[The Golds]], [[Avian Brotherhood]], [[The Feints]], [[Elven Mafia]]
-2. [[Kenku]] occupy the catacombs beneath [[Drayik]] and are arming all the criminal groups in the city
-3. [[The Three Sisters]] - 150 years ago, a Senin boy named Alex was rumored to be a bringer of the [[Mana Virus]]. He and [[The Three Sisters]] sought a cure. Father Ellen lost his daughter to the virus, became a prophet and miracle worker, and founded the Church of the Daughter
+2. [[Kenku]] occupy [[Catacombs|the catacombs]] beneath [[Drayik]] and are arming all the criminal groups in the city
+3. [[The Three Sisters]] - 150 years ago, a [[The Senin|Senin]] boy named Alex was rumored to be a bringer of the [[Mana Virus]]. He and [[The Three Sisters]] sought a cure. [[Father Ellen]] lost his daughter to the virus, became a prophet and miracle worker, and founded the [[Church of the Daughter]]
 
 ### Combat
 1. Card game with [[The Golds]] at the [[Boar Tusk Brewery]] went sideways - full fight broke out
@@ -51,13 +51,13 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 - [[Cassius Bellona|Cassius]] interjected in [[Kenku]], asserting that what happens with [[Corso]]'s livelihood is the party's decision
 - [[Netanyahu D. Kirkuenly|Net]] tried casting [[Suggestion]] on [[Eileen Whitebeak|Eileen]]'s henchman - turned her group aggressive
 - [[Netanyahu D. Kirkuenly|Net]] pressed for catacombs food costs and trade routes from [[Eileen Whitebeak|Eileen]]'s people
-- [[Old Shell]] identified [[Eileen Whitebeak|Eileen]] at the western bridge at night on sight
-- [[Booker Locke|Booker]] revealed his parents were murdered by the Senin and his twin sister [[Gwen Locke|Gwen]] was kidnapped 6 years ago. Put his foot down - nothing happens until he gets answers about her
+- [[Old Shell]] identified [[Eileen Whitebeak|Eileen]] at [[The Western Bridge|the western bridge]] at night on sight
+- [[Booker Locke|Booker]] revealed his parents were murdered by [[The Senin|the Senin]] and his twin sister [[Gwen Locke|Gwen]] was kidnapped 6 years ago. Put his foot down - nothing happens until he gets answers about her
 
 ### NPCs
 - [[Grig]] fought alongside the party at the [[Boar Tusk Brewery]] despite never having killed before. Killed by a half-orc henchman
 - [[Eileen Whitebeak|Eileen]] chose the prosperity of her people over the ties to her brother [[Corso]]
-- [[August]] revealed the food trade routes supplying the catacombs
+- [[August]] revealed the food trade routes supplying [[Catacombs|the catacombs]]
 
 ## Combat Encounters
 
@@ -94,7 +94,7 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 | [[Cassius Bellona\|Cassius]]    | Carried [[Grig]]'s body and gold back to [[Aya]] so he could have a proper burial. Then spoke in [[Kenku]] to assert the party's authority over [[Corso]]'s fate when talks with [[Eileen Whitebeak\|Eileen]] got heated |
 | [[Netanyahu D. Kirkuenly\|Net]] | Kept his word to [[Aya]] - walked in and showed her proof [[The Golds]] were handled. Then squeezed [[Eileen Whitebeak\|Eileen]]'s people for catacombs logistics - food costs, trade routes, the works                  |
 | [[Old Shell]]                   | Missed every single arrow and javelin he threw the entire session                                                                                                                                                        |
-| [[Booker Locke\|Booker]]        | Dropped the bombshell - his parents were murdered by the Senin and his twin sister [[Gwen Locke\|Gwen]] was kidnapped. Then put his foot down: nothing happens until he gets answers about her                           |
+| [[Booker Locke\|Booker]]        | Dropped the bombshell - his parents were murdered by [[The Senin|the Senin]] and his twin sister [[Gwen Locke\|Gwen]] was kidnapped. Then put his foot down: nothing happens until he gets answers about her                           |
 | [[Grig]]                        | Died fighting. A [[Dwarf]] armorer who had never killed before went down swinging against a half-orc so the party could finish the job                                                                                   |
 
 ## Memorable Quotes
@@ -103,13 +103,13 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 
 > [[Booker Locke|Booker]] declared his sister needed to be avenged while fighting [[The Golds]]
 
-> [[Booker Locke|Booker]] revealed his parents were murdered by the Senin, and that the Senin has information on his twin sister
+> [[Booker Locke|Booker]] revealed his parents were murdered by [[The Senin|the Senin]], and that [[The Senin|the Senin]] has information on his twin sister
 
 ## Open Threads
 
 - [ ] Investigate the [[Kenku]] catacombs beneath [[Drayik]]
 - [ ] Learn more about the [[Avian Brotherhood]], [[The Feints]], and [[Elven Mafia]]
-- [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. The Senin may have information
+- [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. [[The Senin]] may have information
 
 ## DM Notes
 

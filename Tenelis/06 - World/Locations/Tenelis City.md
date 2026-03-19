@@ -46,7 +46,7 @@ The capital city of the realm, Tenelis City stands as a beacon of civilization a
 
 | Destination | Distance | Route |
 |-------------|----------|-------|
-| The Whispering Woods | Unknown | Western road |
+| [[The Whispering Woods]] | Unknown | Western road |
 
 ## Session Log
 

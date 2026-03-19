@@ -10,7 +10,7 @@ mapmarker: default
 ---
 
 > [!infobox]
-> # Vesin Falls Pass
+> # [[Vesin]] Falls Pass
 > **Type:** `=this.location_type`
 > **Region:** `=this.region`
 > **Population:** `=this.population`

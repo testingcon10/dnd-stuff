@@ -12,12 +12,12 @@ source: "Homebrew"
 
 | Property | Value |
 |----------|-------|
-| **Pantheon** | Tenelis |
+| **Pantheon** | [[Tenelis City|Tenelis]] |
 | **Alignment** | Lawful Good |
 | **Domains** | [[Nature]], Life |
 | **Symbol** | Lily pad floating on dark water |
 
-Prom Leap is the Tenelis god of swamps, wetlands, and the hidden life that thrives in murky waters. His followers protect marshlands and the creatures within them, believing that even the most overlooked places hold vital importance.
+Prom Leap is the [[Tenelis City|Tenelis]] god of swamps, wetlands, and the hidden life that thrives in murky waters. His followers protect marshlands and the creatures within them, believing that even the most overlooked places hold vital importance.
 
 > [!tip] See also
 > [[Cleric]] domains: [[Nature]], Life

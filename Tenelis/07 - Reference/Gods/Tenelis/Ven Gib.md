@@ -12,12 +12,12 @@ source: "Homebrew"
 
 | Property | Value |
 |----------|-------|
-| **Pantheon** | Tenelis |
+| **Pantheon** | [[Tenelis City|Tenelis]] |
 | **Alignment** | Chaotic Neutral |
 | **Domains** | Trickery |
 | **Symbol** | Grinning fox mask |
 
-Ven Gib is the Tenelis goddess of mischief, pranks, and harmless chaos. Her followers delight in upending expectations and humbling the proud, believing that laughter is the truest form of freedom.
+Ven Gib is the [[Tenelis City|Tenelis]] goddess of mischief, pranks, and harmless chaos. Her followers delight in upending expectations and humbling the proud, believing that laughter is the truest form of freedom.
 
 > [!tip] See also
 > [[Cleric]] domains: Trickery

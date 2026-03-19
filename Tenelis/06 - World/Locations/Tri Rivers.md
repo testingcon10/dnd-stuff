@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A settlement at the confluence of three rivers in eastern Tenelis, likely an important trade hub.
+A settlement at the confluence of three rivers in eastern [[Tenelis City|Tenelis]], likely an important trade hub.
 
 ## Notable Features
 

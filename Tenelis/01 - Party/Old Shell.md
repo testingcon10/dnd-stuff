@@ -158,7 +158,7 @@ alignment: Lawful Neutral
 ### Session 4
 
 **Highlight:**
-- Ensnared a Gold Thug in his trap during the Red Elk fight
+- Ensnared a Gold Thug in his trap during [[Red Elk|the Red Elk]] fight
 
 ---
 
@@ -168,7 +168,7 @@ alignment: Lawful Neutral
 - Missed every single arrow and javelin he threw the entire session
 
 **Key Moments:**
-- Old Shell identified Eileen at the western bridge at night on sight
+- Old Shell identified Eileen at [[The Western Bridge|the western bridge]] at night on sight
 
 ---
 

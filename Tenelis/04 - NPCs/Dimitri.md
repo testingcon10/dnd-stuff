@@ -28,7 +28,7 @@ attitude: neutral
 
 ## Background
 
-[[Eileen Whitebeak]] asked the party to find Dimitri. Locating him would prove to her people that she can be trusted.
+[[Eileen Whitebeak]] asked the party to [[Find Dimitri|find Dimitri]]. Locating him would prove to her people that she can be trusted.
 
 ## Relationships
 

@@ -3,7 +3,7 @@ aliases: ["Home", "Dashboard"]
 tags: [dashboard]
 ---
 
-# Tenelis Campaign
+# [[Tenelis City|Tenelis]] Campaign
 
 > [!abstract] Welcome
 > Campaign dashboard for the **Tenelis** D&D 5e campaign. Use the links below to navigate the vault.

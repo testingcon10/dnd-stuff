@@ -30,13 +30,13 @@ Stood up for the common people against a cruel feudalist ruler.
 
 ## Background
 
-Founding knight of the Knights of Drayik. Led a revolt against a feudalist leader who was cruel to the lower class, conquering [[Drayik]] and liberating its people. Left the city very quickly after the conquest - as if he was on his own mission.
+Founding knight of the [[Knights of Drayik]]. Led a revolt against a feudalist leader who was cruel to the lower class, conquering [[Drayik]] and liberating its people. Left the city very quickly after the conquest - as if he was on his own mission.
 
 ## Relationships
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| Knights of Drayik | Founder |
+| [[Knights of Drayik]] | Founder |
 
 ## Interaction Log
 
@@ -46,4 +46,4 @@ Founding knight of the Knights of Drayik. Led a revolt against a feudalist leade
 
 ## Notes
 
-- Departed Drayik abruptly after conquering it - motives unknown
+- Departed [[Drayik]] abruptly after conquering it - motives unknown

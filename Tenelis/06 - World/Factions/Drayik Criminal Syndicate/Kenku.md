@@ -16,7 +16,7 @@ status: active
 
 ## Description
 
-The Kenku are providing weapons to the criminal syndicate in [[Drayik]]. They operate out of the Kenku catacombs.
+The Kenku are providing weapons to the criminal syndicate in [[Drayik]]. They operate out of the [[Catacombs|Kenku catacombs]].
 
 ## Known Members
 
@@ -26,7 +26,7 @@ The Kenku are providing weapons to the criminal syndicate in [[Drayik]]. They op
 
 ## Territory
 
-- Kenku catacombs
+- [[Catacombs|Kenku catacombs]]
 
 ## Goals
 

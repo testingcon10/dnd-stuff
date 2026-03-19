@@ -58,5 +58,5 @@ All unique enemies encountered:
 
 | Enemy | Sessions | Encounters |
 |-------|----------|------------|
-| Kay'Dara + Gold henchmen | 5 | 1 |
-| The Golds | 4 | 1 |
+| [[Kay'Dara]] + Gold henchmen | 5 | 1 |
+| [[The Golds]] | 4 | 1 |

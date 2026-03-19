@@ -12,12 +12,12 @@ source: "Homebrew"
 
 | Property | Value |
 |----------|-------|
-| **Pantheon** | Tenelis |
+| **Pantheon** | [[Tenelis City|Tenelis]] |
 | **Alignment** | Chaotic Evil |
 | **Domains** | Trickery, Death |
 | **Symbol** | Overflowing goblet dripping with excess |
 
-Blowf is the Tenelis god of gluttony, excess, and indulgence. His followers consume without restraint, believing that desire should never be denied and that the world exists to be devoured.
+Blowf is the [[Tenelis City|Tenelis]] god of gluttony, excess, and indulgence. His followers consume without restraint, believing that desire should never be denied and that the world exists to be devoured.
 
 > [!tip] See also
 > [[Cleric]] domains: Trickery, Death

@@ -24,4 +24,4 @@ A necklace that glows at night. It is capable of absorbing certain magical effec
 - [[Eileen Whitebeak]]
 
 ---
-*Source: Homebrew (Tenelis Campaign)*
+*Source: Homebrew ([[Tenelis City|Tenelis]] Campaign)*

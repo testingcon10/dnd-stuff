@@ -31,7 +31,7 @@ attitude: neutral
 
 ## Background
 
-Twin sister of [[Booker Locke]]. Kidnapped 6 years ago in [[Drayik]] after her and [[Booker Locke|Booker]]'s parents were murdered by the Senin. The Senin may have information on her whereabouts.
+Twin sister of [[Booker Locke]]. Kidnapped 6 years ago in [[Drayik]] after her and [[Booker Locke|Booker]]'s parents were murdered by [[The Senin|the Senin]]. [[The Senin]] may have information on her whereabouts.
 
 ## Relationships
 

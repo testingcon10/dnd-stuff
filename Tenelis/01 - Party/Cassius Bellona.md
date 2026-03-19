@@ -158,11 +158,11 @@ alignment: True Neutral
 ### Session 5
 
 **Highlight:**
-- Carried Grig's body and gold back to Aya so he could have a proper burial. Then spoke in Kenku to assert the party's authority over Corso's fate when talks with Eileen got heated
+- Carried [[Grig]]'s body and gold back to [[Aya]] so he could have a proper burial. Then spoke in [[Kenku]] to assert the party's authority over [[Corso]]'s fate when talks with Eileen got heated
 
 **Key Moments:**
-- Cassius brought Grig's body and gold to Aya, asking that she give him a proper burial
-- Cassius interjected in Kenku, asserting that what happens with Corso's livelihood is the party's decision
+- Cassius brought [[Grig]]'s body and gold to [[Aya]], asking that she give him a proper burial
+- Cassius interjected in [[Kenku]], asserting that what happens with [[Corso]]'s livelihood is the party's decision
 
 **Loot Acquired:**
 - Plate Armor (full set)
@@ -172,10 +172,10 @@ alignment: True Neutral
 ### Session 6
 
 **Highlight:**
-- Dug through the Kenku military book and pulled out intel on supply lines, underground rivers, and the theory that Tri Rivers flows beneath Drayik
+- Dug through [[Kenku|the Kenku]] military book and pulled out intel on supply lines, underground rivers, and the theory that [[Tri Rivers]] flows beneath [[Drayik]]
 
 **Key Moments:**
-- Cassius found and studied the Kenku military book, uncovering supply line intel and underground river theories
+- Cassius found and studied [[Kenku|the Kenku]] military book, uncovering supply line intel and underground river theories
 
 ---
 

@@ -12,7 +12,7 @@ related_npcs: [Eileen Whitebeak, Dimitri, Corso]
 related_locations: [Drayik, Catacombs]
 ---
 
-# Find Dimitri
+# Find [[Dimitri]]
 
 > [!infobox]
 > **Status:** `=this.status`
@@ -23,7 +23,7 @@ related_locations: [Drayik, Catacombs]
 
 ## Description
 
-[[Eileen Whitebeak]] asked the party to find [[Dimitri]]. Bringing him back will prove to her people that the party can be trusted. In exchange, Eileen will provide protection and an escort into the [[Catacombs]]. The party also seeks answers about [[Gwen Locke|Gwen]] from the Senin.
+[[Eileen Whitebeak]] asked the party to find [[Dimitri]]. Bringing him back will prove to her people that the party can be trusted. In exchange, Eileen will provide protection and an escort into the [[Catacombs]]. The party also seeks answers about [[Gwen Locke|Gwen]] from [[The Senin|the Senin]].
 
 ## Objectives
 
@@ -35,7 +35,7 @@ related_locations: [Drayik, Catacombs]
 
 | Session | Update |
 |---------|--------|
-| Session 5 | Quest given by [[Eileen Whitebeak]] at the western bridge. She offered catacombs escort in exchange for finding [[Dimitri]]. Party agreed to meet in three days |
+| Session 5 | Quest given by [[Eileen Whitebeak]] at [[The Western Bridge|the western bridge]]. She offered catacombs escort in exchange for finding [[Dimitri]]. Party agreed to meet in three days |
 
 ## Related NPCs
 
@@ -43,10 +43,10 @@ related_locations: [Drayik, Catacombs]
 |-----|---------------|
 | [[Eileen Whitebeak]] | Quest giver - needs [[Dimitri]] returned to build trust |
 | [[Dimitri]] | Target - must be found and returned |
-| [[Corso]] | Eileen's brother - obsessed with an ancient Senin prophecy |
+| [[Corso]] | Eileen's brother - obsessed with an [[The Senin Prophecy|ancient Senin prophecy]] |
 
 ## Notes
 
-- Eileen warned the party they will die upon entrance to the catacombs
-- The church sends men into the catacombs but none return
+- Eileen warned the party they will die upon entrance to [[Catacombs|the catacombs]]
+- The church sends men into [[Catacombs|the catacombs]] but none return
 - Supplies between surface and catacombs are failing

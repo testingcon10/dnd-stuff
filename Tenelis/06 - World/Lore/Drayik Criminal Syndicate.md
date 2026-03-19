@@ -5,7 +5,7 @@ tags:
   - lore
 ---
 
-# Drayik Criminal Syndicate
+# [[Drayik]] Criminal Syndicate
 
 ## Overview
 
@@ -14,7 +14,7 @@ tags:
 ### Session 5
 
 - Four criminal factions operate in [[Drayik]]: [[The Golds]], [[Avian Brotherhood]], [[The Feints]], [[Elven Mafia]]
-- [[Kenku]] occupy the catacombs beneath [[Drayik]] and are arming all the criminal groups in the city
+- [[Kenku]] occupy [[Catacombs|the catacombs]] beneath [[Drayik]] and are arming all the criminal groups in the city
 
 ### Session 6
 

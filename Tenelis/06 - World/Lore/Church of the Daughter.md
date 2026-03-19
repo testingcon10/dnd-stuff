@@ -13,7 +13,7 @@ tags:
 
 ### Session 5
 
-- [[The Three Sisters]] - 150 years ago, a Senin boy named Alex was rumored to be a bringer of the [[Mana Virus]]. He and [[The Three Sisters]] sought a cure. Father Ellen lost his daughter to the virus, became a prophet and miracle worker, and founded the Church of the Daughter
+- [[The Three Sisters]] - 150 years ago, a [[The Senin|Senin]] boy named Alex was rumored to be a bringer of the [[Mana Virus]]. He and [[The Three Sisters]] sought a cure. [[Father Ellen]] lost his daughter to the virus, became a prophet and miracle worker, and founded the Church of the Daughter
 
 ### Session 6
 

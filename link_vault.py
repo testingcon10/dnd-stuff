@@ -19,6 +19,7 @@ ENTITY_DIRS = [
     "07 - Reference/Backgrounds",
     "07 - Reference/Rules",
     "07 - Reference/Skills",
+    "06 - World/Lore",
 ]
 
 # Directories that contain nested subdirectories of .md entity files
@@ -29,6 +30,10 @@ RECURSIVE_ENTITY_DIRS = [
     "07 - Reference/Items",
     "07 - Reference/Spells",
     "07 - Reference/Races",
+    "04 - NPCs",
+    "06 - World/Locations",
+    "06 - World/Factions",
+    "03 - Quests",
 ]
 
 # Slash-variant aliases: filename uses hyphen, but text may use slash
@@ -119,6 +124,12 @@ SKIP_ENTITIES = {
     "Human",         # race — common English word in non-race contexts
     "Identify",      # spell — common English word used in quest objectives
     "Criminal",      # background — common English word used in faction/lore descriptions
+    # Campaign entity names that are too generic:
+    "Alex",          # NPC — very common name, causes false positives
+    "August",        # NPC — common English word/month name
+    "Von",           # NPC — too short, common word fragment
+    "NPC Relationship Map",  # meta file — not a linkable entity
+    "Trouble on the streets", # quest — generic phrase
 }
 
 # ── Step 1: Build Entity Dictionary ───────────────────────────────────────────
@@ -155,6 +166,46 @@ def build_entity_dict():
     for canonical, alias in SLASH_ALIASES.items():
         if canonical in entities:
             entities[alias] = canonical  # alias -> links to canonical name
+
+    # Collect aliases from campaign content frontmatter
+    campaign_dirs = ["04 - NPCs", "06 - World/Locations", "06 - World/Factions",
+                     "06 - World/Lore", "03 - Quests"]
+    for rel_dir in campaign_dirs:
+        full_dir = os.path.join(VAULT_ROOT, rel_dir)
+        if not os.path.isdir(full_dir):
+            continue
+        for root, _dirs, files in os.walk(full_dir):
+            for fname in files:
+                if not fname.endswith(".md"):
+                    continue
+                canonical = fname[:-3]
+                if canonical in SKIP_ENTITIES:
+                    continue
+                fpath = os.path.join(root, fname)
+                try:
+                    with open(fpath, "r", encoding="utf-8") as f:
+                        text = f.read(2000)
+                    fm_match = re.match(r'^---\n(.*?)\n---', text, re.DOTALL)
+                    if not fm_match:
+                        continue
+                    fm = fm_match.group(1)
+                    # Only collect from aliases: block, not tags or other lists
+                    alias_block = re.search(r'^aliases:\s*\n((?:\s+-\s+.+\n?)*)', fm, re.MULTILINE)
+                    if not alias_block:
+                        # Also handle inline aliases: ["Foo", "Bar"]
+                        alias_inline = re.search(r'^aliases:\s*\[([^\]]+)\]', fm, re.MULTILINE)
+                        if alias_inline:
+                            for part in alias_inline.group(1).split(','):
+                                alias = part.strip().strip('"').strip("'")
+                                if alias and alias not in SKIP_ENTITIES and len(alias) >= 3:
+                                    entities[alias] = canonical
+                        continue
+                    for alias_m in re.finditer(r'^\s+-\s+"?([^"\n]+?)"?\s*$', alias_block.group(1), re.MULTILINE):
+                        alias = alias_m.group(1).strip()
+                        if alias and alias not in SKIP_ENTITIES and len(alias) >= 3:
+                            entities[alias] = canonical
+                except Exception:
+                    pass
 
     return entities
 

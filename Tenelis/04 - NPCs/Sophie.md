@@ -30,7 +30,7 @@ attitude: ""
 
 ## Background
 
-One of three women - [[Nahara]], [[Ayla]], and [[Sophie]] - mentioned in a book covering the last 150 years of [[Drayik]] history. A Knight of Drayik traveled with them. The three may not be related by blood despite being referred to as sisters.
+One of three women - [[Nahara]], [[Ayla]], and [[Sophie]] - mentioned in a book covering the last 150 years of [[Drayik]] history. A Knight of [[Drayik]] traveled with them. The three may not be related by blood despite being referred to as sisters.
 
 Sophie gave the path of righteousness to [[Cassius Bellona|Cassius]]'s family - part of his backstory, not common knowledge among the party.
 

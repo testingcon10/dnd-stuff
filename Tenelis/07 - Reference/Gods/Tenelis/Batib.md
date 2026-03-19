@@ -12,12 +12,12 @@ source: "Homebrew"
 
 | Property | Value |
 |----------|-------|
-| **Pantheon** | Tenelis |
+| **Pantheon** | [[Tenelis City|Tenelis]] |
 | **Alignment** | Lawful Good |
 | **Domains** | [[Nature]], Life |
 | **Symbol** | Paw print wreathed in golden light |
 
-Batib is the Tenelis goddess of beasts, protector of animals both wild and domesticated. Her followers believe that all creatures deserve respect and that the bond between mortals and beasts is sacred.
+Batib is the [[Tenelis City|Tenelis]] goddess of beasts, protector of animals both wild and domesticated. Her followers believe that all creatures deserve respect and that the bond between mortals and beasts is sacred.
 
 > [!tip] See also
 > [[Cleric]] domains: [[Nature]], Life

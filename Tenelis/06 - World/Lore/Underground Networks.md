@@ -13,7 +13,7 @@ tags:
 
 ### Session 5
 
-- [[Kenku]] occupy the catacombs beneath [[Drayik]] and are arming all the criminal groups in the city
+- [[Kenku]] occupy [[Catacombs|the catacombs]] beneath [[Drayik]] and are arming all the criminal groups in the city
 
 ### Session 6
 

@@ -20,7 +20,7 @@ Quick reference tables for improvising during sessions. Roll a d20 or pick what 
 | 5 | Guard patrol questions the party about their business | Social |
 | 6 | Cart accident blocks the street - suspiciously timed | Exploration |
 | 7 | A hooded figure is following the party (1d4 blocks) | Medium |
-| 8 | Street preacher of the Church of the Daughter draws a crowd | Social |
+| 8 | Street preacher of the [[Church of the Daughter]] draws a crowd | Social |
 | 9 | Sewer grate erupts with rats (swarm) | Easy |
 | 10 | A merchant offers a suspiciously cheap magic item (cursed?) | Social |
 | 11 | Two rival faction members argue in the open - about to fight | Medium |
@@ -47,7 +47,7 @@ Quick reference tables for improvising during sessions. Roll a d20 or pick what 
 | 7 | Owlbear territory (tracks, scratched trees) | Hard |
 | 8 | Sudden fog rolls in (visibility 30 ft) | Environment |
 | 9 | Bandit toll checkpoint | Medium |
-| 10 | Ancient waystone with faded Senin markings | Exploration |
+| 10 | Ancient waystone with faded [[The Senin|Senin]] markings | Exploration |
 | 11 | Farmer fleeing from something | Quest Hook |
 | 12 | Destroyed supply wagon - [[Little Hill]] markings | Exploration |
 | 13 | Giant spider web across the path (2 giant spiders) | Medium |

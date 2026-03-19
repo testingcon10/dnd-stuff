@@ -13,6 +13,6 @@ tags:
 
 ### Session 6
 
-- [[Kenku]] family lines: [[Dima]] is the father of [[Corso]] and [[Eileen Whitebeak]]. Dima was exactly like Corso in temperament. Dima is deceased - cause of death known
+- [[Kenku]] family lines: [[Dima]] is the father of [[Corso]] and [[Eileen Whitebeak]]. [[Dima]] was exactly like [[Corso]] in temperament. [[Dima]] is deceased - cause of death known
 
 ## Notes

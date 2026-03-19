@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A pair of lakes in central Tenelis, fed by rivers flowing from the surrounding mountains.
+A pair of lakes in central [[Tenelis City|Tenelis]], fed by rivers flowing from the surrounding mountains.
 
 ## Notable Features
 

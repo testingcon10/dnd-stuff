@@ -18,7 +18,7 @@ mapmarker: default
 
 ## Description
 
-A vast forest stretching across the southern coast of Tenelis, dense and largely unexplored.
+A vast forest stretching across the southern coast of [[Tenelis City|Tenelis]], dense and largely unexplored.
 
 ## Notable Features
 

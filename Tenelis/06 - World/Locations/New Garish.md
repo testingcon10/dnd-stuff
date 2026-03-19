@@ -10,7 +10,7 @@ mapmarker: default
 ---
 
 > [!infobox]
-> # New Garish
+> # New [[Garish]]
 > **Type:** `=this.location_type`
 > **Region:** `=this.region`
 > **Population:** `=this.population`

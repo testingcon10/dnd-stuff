@@ -19,19 +19,19 @@ The party learned about four criminal factions operating in [[Drayik]]: [[The Go
 
 ## Summary
 
-The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the [[Gambling Operations Manifest]]. At [[The Half Mast]], they coerced the bartender [[Watkins]] into revealing a winner-takes-all card game happening that night and paid 20 GP to buy in. While waiting, the party visited [[Old Drayik Keep]] - now church-controlled - and met with [[Payton Hightower]], the church's High Champion. After a tense exchange, Payton granted library access. The party split up and uncovered critical intel: underground river networks beneath [[Drayik]], [[Kenku]] family lines linking [[Dima]] to [[Corso]] and [[Eileen Whitebeak|Eileen]], the keep's history as a [[Mana Virus]] hospital, the founding of the Knights of Drayik by [[Avo Red]], and three women - [[Nahara]], [[Ayla]], and [[Sophie]] - tied to the last 150 years of [[Drayik]] history. [[Booker Locke|Booker]] infiltrated the forbidden section disguised as a priest but was nearly caught, forcing the party to leave.
+The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the [[Gambling Operations Manifest]]. At [[The Half Mast]], they coerced the bartender [[Watkins]] into revealing a winner-takes-all card game happening that night and paid 20 GP to buy in. While waiting, the party visited [[Old Drayik Keep]] - now church-controlled - and met with [[Payton Hightower]], the church's High Champion. After a tense exchange, [[Payton Hightower|Payton]] granted library access. The party split up and uncovered critical intel: underground river networks beneath [[Drayik]], [[Kenku]] family lines linking [[Dima]] to [[Corso]] and [[Eileen Whitebeak|Eileen]], the keep's history as a [[Mana Virus]] hospital, the founding of the [[Knights of Drayik]] by [[Avo Red]], and three women - [[Nahara]], [[Ayla]], and [[Sophie]] - tied to the last 150 years of [[Drayik]] history. [[Booker Locke|Booker]] infiltrated the forbidden section disguised as a priest but was nearly caught, forcing the party to leave.
 
 ## Key Events
 
 ### Story
 1. Party began following the [[Gangs of Drayik]] quest, investigating bars in [[Drayik]] for leads
 2. At [[The Half Mast]] (near the docks), coerced the halfling bartender [[Watkins]] into revealing a big winner-takes-all card game happening tonight. [[The Golds]] may bring a "big timer." Party paid 20 GP buyin
-3. Visited [[Old Drayik Keep]] while waiting for the card game. Keep is church-controlled, formerly home to the Knights of Drayik
-4. Contacted [[Payton Hightower]] via [[Sending Stones]] after guards refused entry. Payton met the party outside
-5. Payton refused access to the records room (highly confidential) despite [[Netanyahu D. Kirkuenly|Net]]'s persuasion attempts
-6. Showed Payton the [[Gambling Operations Manifest]] - he gave tacit approval to continue disrupting gangs, on the condition nothing ties back to the church. Applauded the party's work in the shopping district
-7. Payton asked for the ledger and intel on [[The Feints]] - party refused. [[Netanyahu D. Kirkuenly|Net]] snapped back that the party did what the church couldn't in months. Payton backed off
-8. Payton granted access to the keep's library in exchange for the party keeping the shared intel secret. No stealing allowed
+3. Visited [[Old Drayik Keep]] while waiting for the card game. Keep is church-controlled, formerly home to the [[Knights of Drayik]]
+4. Contacted [[Payton Hightower]] via [[Sending Stones]] after guards refused entry. [[Payton Hightower|Payton]] met the party outside
+5. [[Payton Hightower|Payton]] refused access to the records room (highly confidential) despite [[Netanyahu D. Kirkuenly|Net]]'s persuasion attempts
+6. Showed [[Payton Hightower|Payton]] the [[Gambling Operations Manifest]] - he gave tacit approval to continue disrupting gangs, on the condition nothing ties back to the church. Applauded the party's work in the shopping district
+7. [[Payton Hightower|Payton]] asked for the ledger and intel on [[The Feints]] - party refused. [[Netanyahu D. Kirkuenly|Net]] snapped back that the party did what the church couldn't in months. [[Payton Hightower|Payton]] backed off
+8. [[Payton Hightower|Payton]] granted access to the keep's library in exchange for the party keeping the shared intel secret. No stealing allowed
 9. Party split up in the library to research
 10. [[Booker Locke|Booker]] disguised himself as a priest and convinced the guards he was real. Slipped away from the party to explore the forbidden section of the keep on his own
 11. [[Booker Locke|Booker]] was caught by a priest while trying to remove his disguise in the forbidden section. Soiled himself to create a diversion. [[Payton Hightower|Payton]] noticed and asked the party to leave
@@ -39,7 +39,7 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 ### Lore
 1. [[Kenku]] military book (found by [[Cassius Bellona|Cassius]]): [[Kenku]] are afraid of pushing into mountainous terrain. Rivers believed to lead to an underground river network flowing beneath [[Drayik]]. Multiple church expeditions theorize the [[Tri Rivers]] flow underground beneath the city - but insufficient data due to lack of expeditions
 2. Getting into [[Old Drayik Keep]] has been impossible - may be magic, a curse, or an enchanted door. Immune to spells. Theory that it's an entrance to the [[Catacombs]]
-3. [[Kenku]] family lines: [[Dima]] is the father of [[Corso]] and [[Eileen Whitebeak]]. Dima was exactly like Corso in temperament. Dima is deceased - cause of death known
+3. [[Kenku]] family lines: [[Dima]] is the father of [[Corso]] and [[Eileen Whitebeak]]. [[Dima]] was exactly like [[Corso]] in temperament. [[Dima]] is deceased - cause of death known
 4. [[Netanyahu D. Kirkuenly|Net]] found an extremely thorough report (~98% complete survey/census of [[Drayik]]) documenting basements, tunnels, and infrastructure. Discovered coastal caves that may be a lead to the [[Catacombs]]
 5. Footnotes reference human trafficking operations - gangs are doing it without using the docks, meaning there is an alternative route into the city that avoids detection
 6. Cave system exists outside of [[Drayik]] - rough estimate of location but no pinpointed spot
@@ -47,10 +47,10 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 8. An underground river tributary flows beneath the shopping district - [[Red Elk]]? [[Boar Tusk Brewery]]? Needs exploration
 9. One book mentions [[Amos the Storm]] and other major lore figures - nothing of major note
 10. The church is expanding to [[Mori Point]] - [[Netanyahu D. Kirkuenly|Net]]'s place of birth
-11. Book covering the last 150 years of [[Drayik]] history mentions three women: [[Nahara]], [[Ayla]], and [[Sophie]]. A Knight of Drayik had been traveling with them. The sisters may not be related by blood
+11. Book covering the last 150 years of [[Drayik]] history mentions three women: [[Nahara]], [[Ayla]], and [[Sophie]]. A Knight of [[Drayik]] had been traveling with them. The sisters may not be related by blood
 12. [[Sophie]] is the woman who gave the path of righteousness to [[Cassius Bellona|Cassius]]'s family (backstory - not common knowledge)
 13. [[Drayik]] had to quarantine during the [[Mana Virus]]. [[Old Drayik Keep]] was used as ground zero - a major hospital for treating the afflicted. Those who spent enough time with the virus had to be sealed away. The afflicted were sealed shut in the keep, in the [[Catacombs]]
-14. [[Avo Red]] was the founding knight of the Knights of Drayik. A feudalist leader ruled [[Drayik]] cruelly, oppressing the lower class. Avo Red stood up for the people and conquered the city. However, he left very quickly after - as if he was on his own mission
+14. [[Avo Red]] was the founding knight of the [[Knights of Drayik]]. A feudalist leader ruled [[Drayik]] cruelly, oppressing the lower class. [[Avo Red]] stood up for the people and conquered the city. However, he left very quickly after - as if he was on his own mission
 
 ### Combat
 - No combat this session
@@ -119,7 +119,7 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 - [ ] Follow up on human trafficking routes that bypass the docks
 - [ ] Investigate the [[Kenku]] catacombs beneath [[Drayik]]
 - [ ] Learn more about the [[Avian Brotherhood]], [[The Feints]], and [[Elven Mafia]]
-- [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. The Senin may have information
+- [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. [[The Senin]] may have information
 - [ ] Church expanding to [[Mori Point]] - [[Netanyahu D. Kirkuenly|Net]]'s birthplace
 
 

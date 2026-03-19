@@ -12,7 +12,7 @@ related_npcs: [Uzog, Watkins, Kay'Dara, Eileen Whitebeak]
 related_locations: [Boar Tusk Brewery, The Half Mast, Red Elk, Catacombs]
 ---
 
-# Gangs of Drayik
+# Gangs of [[Drayik]]
 
 > [!infobox]
 > **Status:** `=this.status`
@@ -42,7 +42,7 @@ The party has been disrupting criminal operations across [[Drayik]]. After killi
 | Session | Update |
 |---------|--------|
 | Session 4 | Discovered [[The Golds]] frequent the [[Boar Tusk Brewery]] nightly. Killed 2 Gold Thugs with help from [[Grig]] and the [[Red Elk]] barkeep |
-| Session 5 | Killed [[Kay'Dara]], lieutenant of [[The Golds]], at the [[Boar Tusk Brewery]]. Recovered the [[Gambling Operations Manifest]]. Learned about four criminal factions and [[Kenku]] arms supply from the catacombs |
+| Session 5 | Killed [[Kay'Dara]], lieutenant of [[The Golds]], at the [[Boar Tusk Brewery]]. Recovered the [[Gambling Operations Manifest]]. Learned about four criminal factions and [[Kenku]] arms supply from [[Catacombs|the catacombs]] |
 | Session 6 | Investigated bars from the [[Gambling Operations Manifest]]. At [[The Half Mast]], coerced [[Watkins]] into revealing a winner-takes-all card game tonight - [[The Golds]] may bring a "big timer." Paid 20 GP buyin |
 
 ## Related NPCs

@@ -162,12 +162,12 @@ graph TD
 
 | Faction | Members | Status |
 |---------|---------|--------|
-| Avian Brotherhood | [[Nath]] (alive) | Active |
+| [[Avian Brotherhood]] | [[Nath]] (alive) | Active |
 | Church | [[Payton Hightower]] (alive) | Active |
-| Elven Mafia | [[Von]] (alive) | Active |
-| Knights of Drayik | [[Avo Red]] (unknown) | Active |
-| Senin | [[August]] (alive), [[Corso]] (alive), [[Dima]] (deceased), [[Eileen Whitebeak]] (alive) | Active |
-| The Golds | [[Kay'Dara]] (deceased), [[Uzog]] (alive) | Active |
+| [[Elven Mafia]] | [[Von]] (alive) | Active |
+| [[Knights of Drayik]] | [[Avo Red]] (unknown) | Active |
+| [[The Senin|Senin]] | [[August]] (alive), [[Corso]] (alive), [[Dima]] (deceased), [[Eileen Whitebeak]] (alive) | Active |
+| [[The Golds]] | [[Kay'Dara]] (deceased), [[Uzog]] (alive) | Active |
 
 ## Family Trees
 
@@ -177,11 +177,11 @@ graph TD
 
 ### The Three Sisters
 - [[Nahara]], [[Ayla]], [[Sophie]] - possibly not related by blood
-- Traveled with a Knight of Drayik ~150 years ago
+- Traveled with a Knight of [[Drayik]] ~150 years ago
 
 ### Locke Family
 - [[Booker Locke]] and [[Gwen Locke]] are twins
-- Parents murdered by the Senin, Gwen kidnapped 6 years ago
+- Parents murdered by [[The Senin|the Senin]], [[Gwen Locke|Gwen]] kidnapped 6 years ago
 
 ### Aya's Family
 - [[Ewing]] (missing) is [[Aya]]'s father

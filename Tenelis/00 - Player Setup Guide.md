@@ -1,6 +1,6 @@
 # Player Setup Guide
 
-Get the Tenelis vault on your computer in 5 steps. Takes about 10 minutes.
+Get the [[Tenelis City|Tenelis]] vault on your computer in 5 steps. Takes about 10 minutes.
 
 ---
 

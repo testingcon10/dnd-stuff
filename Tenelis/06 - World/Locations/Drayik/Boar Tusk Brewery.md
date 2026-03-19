@@ -32,4 +32,4 @@ A tavern in [[Drayik]] frequented nightly by [[The Golds]] for cards and drinks.
 
 ## Notes
 
-- Listed in [[The Golds]]' gambling operations manifest
+- Listed in [[The Golds]]' [[Gambling Operations Manifest|gambling operations manifest]]
