@@ -25,4 +25,16 @@ The Three Sisters died, and the church lived on.
 | Alex | Senin boy | Rumored to be a weapon, bringer of the [[Mana Virus]] |
 | Father Ellen | Prophet, founder of the Church of the Daughter | Lost his daughter to the virus, became a miracle worker |
 
+## Session Discoveries
+
+### Session 5
+
+- [[The Three Sisters]] - 150 years ago, a Senin boy named Alex was rumored to be a bringer of the [[Mana Virus]]. He and [[The Three Sisters]] sought a cure. Father Ellen lost his daughter to the virus, became a prophet and miracle worker, and founded the Church of the Daughter
+
+### Session 6
+
+- Book covering the last 150 years of [[Drayik]] history mentions three women: [[Nahara]], [[Ayla]], and [[Sophie]]. A Knight of Drayik had been traveling with them. The sisters may not be related by blood
+- [[Sophie]] is the woman who gave the path of righteousness to [[Cassius Bellona|Cassius]]'s family (backstory - not common knowledge)
+
+
 ## Notes
