@@ -78,7 +78,7 @@ SORT file.name ASC
 ## World
 
 > [!map] World Building
-> **[[06 - World/World Map|World Map]]** · **[[06 - World/Locations/|Locations]]** · **[[06 - World/Factions/|Factions]]** · **[[06 - World/Lore/|Lore]]**
+> **[[06 - World/World Map|World Map]]** · **[[06 - World/Locations/|Locations]]** · **[[06 - World/Factions/|Factions]]** · **[[06 - World/Lore/|Lore]]** · **[[06 - World/Timeline|Timeline]]**
 >
 > *Add world-building notes as the campaign unfolds.*
 
