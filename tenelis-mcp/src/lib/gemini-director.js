@@ -150,6 +150,33 @@ export async function craftScenePrompt({ sceneDescription, sessionNumber, summar
   return callGemini(prompt);
 }
 
+export async function craftNpcTokenPrompt({ name, race, className, appearance, styleHint }) {
+  let prompt = `Craft an image prompt for a circular VTT (Virtual Tabletop) character token.\n\n`;
+  prompt += `CRITICAL: This must be a circular portrait token with a thick, polished red metallic border ring. The character should be shown from the shoulders up, filling the circular frame. Dark moody background behind the character within the circle.\n\n`;
+  prompt += buildCtxBlock("Character Name", name);
+  prompt += buildCtxBlock("Race", race);
+  prompt += buildCtxBlock("Class", className);
+  prompt += buildCtxBlock("Appearance", appearance);
+  prompt += `\nThe attached reference image is the character's full portrait. Match the character's face, features, coloring, and expression exactly. Recompose as a tight head-and-shoulders crop within a circular frame with a thick red metallic border ring.\n`;
+  if (styleHint) prompt += `\nStyle direction: ${styleHint}`;
+  return callGemini(prompt);
+}
+
+export async function craftNpcTurnaroundPrompt({ name, race, className, faction, appearance, background, notableItems, styleHint }) {
+  let prompt = `Craft an image prompt for a character turnaround reference sheet.\n\n`;
+  prompt += `CRITICAL: Show exactly THREE full-body views of the same character side by side on a plain neutral gray background: front view (left), three-quarter view (center), and back view (right). This is a concept art reference sheet - clean, well-lit, no scene or environment. The character must look identical in all three views - same outfit, same proportions, same details.\n\n`;
+  prompt += buildCtxBlock("Character Name", name);
+  prompt += buildCtxBlock("Race", race);
+  prompt += buildCtxBlock("Class", className);
+  prompt += buildCtxBlock("Faction", faction);
+  prompt += buildCtxBlock("Appearance", appearance);
+  prompt += buildCtxBlock("Background", background);
+  prompt += buildCtxBlock("Notable Items", notableItems);
+  prompt += `\nIf a reference image is attached, match the character's appearance exactly across all three views.\n`;
+  if (styleHint) prompt += `\nStyle direction: ${styleHint}`;
+  return callGemini(prompt);
+}
+
 export async function craftPartyPrompt({ name, race, className, subclass, equipment, backstory, characterMoments, styleHint }) {
   let prompt = `Craft an image prompt for this D&D player character portrait.\n\n`;
   prompt += buildCtxBlock("Name", name);

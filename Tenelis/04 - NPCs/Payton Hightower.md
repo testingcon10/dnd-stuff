@@ -25,7 +25,9 @@ attitude: friendly
 
 ## Appearance
 
+A human male with shoulder-length blonde hair and a stern, battle-hardened face. Wears ornate gold and crimson plate armor befitting his rank as High Champion.
 
+![[assets/npcs/Peyton.webp]]
 
 ## Personality
 

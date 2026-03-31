@@ -24,6 +24,8 @@ attitude: neutral
 
 - Wears a [[Moon Necklace of Absorption]] - glows at night, blocks [[Suggestion]]
 
+![[assets/npcs/Eileen.webp]]
+
 ## Personality
 
 - Has "developed a different temperament" - her people have been pushed into the mud, called slurs, and harassed

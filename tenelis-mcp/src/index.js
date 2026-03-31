@@ -1,6 +1,8 @@
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";
 import { register as registerNpcPortrait } from "./tools/generate-npc-portrait.js";
+import { register as registerNpcToken } from "./tools/generate-npc-token.js";
+import { register as registerNpcTurnaround } from "./tools/generate-npc-turnaround.js";
 import { register as registerLocationArt } from "./tools/generate-location-art.js";
 import { register as registerScene } from "./tools/generate-scene.js";
 import { register as registerPartyPortrait } from "./tools/generate-party-portrait.js";
@@ -11,6 +13,8 @@ const server = new McpServer({
 });
 
 registerNpcPortrait(server);
+registerNpcToken(server);
+registerNpcTurnaround(server);
 registerLocationArt(server);
 registerScene(server);
 registerPartyPortrait(server);

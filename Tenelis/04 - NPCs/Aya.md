@@ -1,7 +1,7 @@
 ---
 aliases: []
 tags: [npc]
-race: ""
+race: "Tiefling"
 class: "Mage"
 alignment: ""
 faction: ""
@@ -22,6 +22,9 @@ attitude: friendly
 
 ## Appearance
 
+A green-skinned tiefling woman with curled horns sweeping back from her forehead, dark green wavy hair, and a warm, gentle smile. Wears purple robes.
+
+![[assets/npcs/Aya.webp]]
 
 ## Personality
 
