@@ -113,7 +113,7 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 
 ## Open Threads
 
-- [ ] Attend the winner-takes-all card game at [[The Half Mast]] tonight - [[The Golds]] may bring a "big timer"
+- [x] Attend the winner-takes-all card game at [[The Drunken Pig]] (directed by [[Watkins]] at [[The Half Mast]]) - [[The Golds]] may bring a "big timer"
 - [ ] Explore the underground river tributary beneath the shopping district ([[Red Elk]]? [[Boar Tusk Brewery]]?)
 - [ ] Investigate the cave system outside [[Drayik]] (rough location known, not pinpointed)
 - [ ] Follow up on human trafficking routes that bypass the docks

@@ -4,14 +4,14 @@ tags: [npc]
 race: ""
 class: ""
 alignment: ""
-faction: "Elven Mafia"
-location: ""
+faction: ""
+location: "Drayik"
 status: alive
 attitude: neutral
 ---
 
 > [!infobox]
-> # Von
+> # Tara
 > **Race:** `=this.race`
 > **Class:** `=this.class`
 > **Alignment:** `=this.alignment`
@@ -33,19 +33,12 @@ attitude: neutral
 
 | NPC/Faction | Relationship |
 |-------------|-------------|
-| [[Elven Mafia]] | Leader |
-| [[The Golds]] | Fellow syndicate group |
-| [[Uzog]] | Associate |
-| [[Nath]] | Associate |
-
-## Known Access
-
-- [[Kenku]] catacombs
+|             |             |
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
-| Session 7 | Spotted leaving [[Uzog]]'s compound in his carriage. Told [[Uzog]] the party's fights in [[Drayik]] were a big deal; [[Uzog]] brushed him off |
+| Session 7 | Sold [[Netanyahu D. Kirkuenly\|Net]] a [[Basic Poison|basic poison]] recipe |
 
 ## Notes

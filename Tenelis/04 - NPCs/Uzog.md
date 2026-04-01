@@ -47,8 +47,13 @@ attitude: neutral
 
 | Session | Summary |
 |---------|---------|
-|         |         |
+| Session 7 | Party infiltrated his underground gladiator arena. Brushed off [[Von]]'s concerns about the party |
 
 ## Notes
 
-- Lives in a nice home northwest of [[Drayik]]
+- Lives in a nice home northwest of [[Drayik]] - actually an underground gladiator arena
+- Home is built into a mound with no windows
+- Hosts arena fights for nobles: [[War Beasts|war beasts]], captured enemies, traitors
+- Punishes betrayal by forcing traitors to fight each other
+- Brushed off [[Von]]'s concerns about the party's actions in [[Drayik]] - doesn't see them as a threat
+- Has [[Vien]]'s [[War Beasts|war beast]] as the main event in his arena
