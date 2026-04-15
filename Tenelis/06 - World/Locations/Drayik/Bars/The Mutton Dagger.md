@@ -30,4 +30,3 @@ A tavern in [[Drayik]]. Visited by the party while investigating the [[Gangs of 
 | Session 6 | Party visited while investigating [[Drayik]]'s criminal underworld |
 
 ## Notes
-

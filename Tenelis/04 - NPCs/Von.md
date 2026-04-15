@@ -41,11 +41,19 @@ attitude: neutral
 ## Known Access
 
 - [[Kenku]] catacombs
+- Docks and all shipping in [[Drayik]]
+- [[Elven Mafia]] shipyard on the outskirts of [[Drayik]], near the shore
 
 ## Interaction Log
 
 | Session | Summary |
 |---------|---------|
 | Session 7 | Spotted leaving [[Uzog]]'s compound in his carriage. Told [[Uzog]] the party's fights in [[Drayik]] were a big deal; [[Uzog]] brushed him off |
+| Session 9 | Intel from [[Quinn]]: Von runs all docks and shipping in [[Drayik]]. Handles human trafficking, drugs, and weapons |
 
 ## Notes
+
+- Runs the docks and all shipping in [[Drayik]]
+- Handles human trafficking, drugs, and weapons
+- The gangs meet with [[The Senin]] regarding the catacombs - Von is connected to this network
+- [[Elven Mafia]] operates out of a shipyard on the outskirts of [[Drayik]], near the shore

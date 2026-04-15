@@ -29,6 +29,8 @@ A tavern in [[Drayik]]. The barkeep helped the party and [[Grig]] kill 2 Gold Th
 |---------|--------|
 | Session 4 | Barkeep helped the party fight 2 Gold Thugs |
 | Session 6 | An underground river tributary flows beneath the shopping district - [[Red Elk]]? [[Boar Tusk Brewery]]? Needs exploration |
+| Session 9 | Party came here for dinner after leaving [[Uzog]]'s arena |
+
 ## Notes
 
 - Not a gambling spot - not listed in [[The Golds]]' manifest

@@ -7,7 +7,6 @@ in_game_day: ""
 players_present: []
 ---
 
-
 # Session 6
 
 **Date:** 3/11/2026
@@ -126,11 +125,8 @@ The party followed the [[Gangs of Drayik]] quest, scouting taverns listed on the
 ## Illustrations
 
 ![[assets/scenes/session-6-the-party-confronts-watkins-at.png]]
-
 ![[assets/scenes/session-6-the-full-party-confronts-payton.png]]
-
 ![[assets/scenes/session-6-inside-the-vast-library-of.png]]
-
 ![[assets/scenes/session-6-booker-locke-disguised-as-a.png]]
 
 ## DM Notes

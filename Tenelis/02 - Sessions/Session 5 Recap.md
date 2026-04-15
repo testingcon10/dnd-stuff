@@ -7,7 +7,6 @@ in_game_day: ""
 players_present: []
 ---
 
-		 
 # Session 5
 
 **Date:** 2/24/2026
@@ -46,7 +45,7 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 ## Character Moments
 
 ### Party
-- [[Netanyahu D. Kirkuenly|Netanyahu]] showed [[Aya]] proof that [[The Golds]] were dealt with, fulfilling his promise from Session 4
+- [[Netanyahu D. Kirkuenly|Net]] showed [[Aya]] proof that [[The Golds]] were dealt with, fulfilling his promise from Session 4
 - [[Cassius Bellona|Cassius]] brought [[Grig]]'s body and gold to [[Aya]], asking that she give him a proper burial
 - [[Cassius Bellona|Cassius]] interjected in [[Kenku]], asserting that what happens with [[Corso]]'s livelihood is the party's decision
 - [[Netanyahu D. Kirkuenly|Net]] tried casting [[Suggestion]] on [[Eileen Whitebeak|Eileen]]'s henchman - turned her group aggressive
@@ -72,7 +71,7 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 | [[Plate]] Armor (full set) | Loaned by [[Grig]] before the fight | [[Cassius Bellona]] |
 | [[Gambling Operations Manifest]] | Lockbox (key from [[Kay'Dara]]'s body) | Party |
 
-**Gold Found:** 625 (split 156 GP each, 1 GP remainder)
+**Gold Found:** 625 GP (split 156 GP each, 1 GP remainder)
 
 ## NPCs Encountered
 
@@ -81,6 +80,8 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 | [[Kay'Dara]] | [[Boar Tusk Brewery]] | Hostile | Killed - lieutenant of [[The Golds]] |
 | [[Grig]] | [[Boar Tusk Brewery]] | Friendly | Armorer. Fought with the party - killed by half-orc henchman |
 | [[Aya]] | [[Mana House]] | Friendly | Promised knowledge of poisons in exchange for stopping [[The Golds]]. Very attached to [[Grig]] |
+| [[Eileen Whitebeak]] | [[The Western Bridge]] | Cautious | Sister of [[Corso]]. Offered catacombs escort in exchange for finding [[Dimitri]] |
+| [[August]] | [[The Western Bridge]] | Neutral | Revealed food trade routes supplying [[Catacombs\|the catacombs]] |
 
 ## Quests Updated
 
@@ -89,13 +90,13 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 
 ## Highlights
 
-| Player                          | Moment                                                                                                                                                                                                                   |
-| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Cassius Bellona\|Cassius]]    | Carried [[Grig]]'s body and gold back to [[Aya]] so he could have a proper burial. Then spoke in [[Kenku]] to assert the party's authority over [[Corso]]'s fate when talks with [[Eileen Whitebeak\|Eileen]] got heated |
-| [[Netanyahu D. Kirkuenly\|Net]] | Kept his word to [[Aya]] - walked in and showed her proof [[The Golds]] were handled. Then squeezed [[Eileen Whitebeak\|Eileen]]'s people for catacombs logistics - food costs, trade routes, the works                  |
-| [[Old Shell]]                   | Missed every single arrow and javelin he threw the entire session                                                                                                                                                        |
-| [[Booker Locke\|Booker]]        | Dropped the bombshell - his parents were murdered by [[The Senin|the Senin]] and his twin sister [[Gwen Locke\|Gwen]] was kidnapped. Then put his foot down: nothing happens until he gets answers about her                           |
-| [[Grig]]                        | Died fighting. A [[Dwarf]] armorer who had never killed before went down swinging against a half-orc so the party could finish the job                                                                                   |
+| Player | Moment |
+|--------|--------|
+| [[Cassius Bellona\|Cassius]] | Carried [[Grig]]'s body and gold back to [[Aya]] so he could have a proper burial. Then spoke in [[Kenku]] to assert the party's authority over [[Corso]]'s fate when talks with [[Eileen Whitebeak\|Eileen]] got heated |
+| [[Netanyahu D. Kirkuenly\|Net]] | Kept his word to [[Aya]] - walked in and showed her proof [[The Golds]] were handled. Then squeezed [[Eileen Whitebeak\|Eileen]]'s people for catacombs logistics - food costs, trade routes, the works |
+| [[Old Shell]] | Missed every single arrow and javelin he threw the entire session |
+| [[Booker Locke\|Booker]] | Dropped the bombshell - his parents were murdered by [[The Senin\|the Senin]] and his twin sister [[Gwen Locke\|Gwen]] was kidnapped. Then put his foot down: nothing happens until he gets answers about her |
+| [[Grig]] | Died fighting. A [[Dwarf]] armorer who had never killed before went down swinging against a half-orc so the party could finish the job |
 
 ## Memorable Quotes
 
@@ -107,6 +108,7 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 
 ## Open Threads
 
+- [ ] Find [[Dimitri]] for [[Eileen Whitebeak]]
 - [ ] Investigate the [[Kenku]] catacombs beneath [[Drayik]]
 - [ ] Learn more about the [[Avian Brotherhood]], [[The Feints]], and [[Elven Mafia]]
 - [ ] Find [[Gwen Locke|Gwen]] - [[Booker Locke|Booker]]'s twin sister, kidnapped 6 years ago in [[Drayik]]. [[The Senin]] may have information
@@ -114,4 +116,3 @@ The party entered the [[Boar Tusk Brewery]] and confronted a group of [[The Gold
 ## DM Notes
 
 %% Private notes - only visible in Edit mode %%
-

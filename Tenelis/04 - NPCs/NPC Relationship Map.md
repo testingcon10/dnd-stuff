@@ -51,9 +51,12 @@ graph TD
     Kay_Dara["Kay'Dara (dead)"]
     Nahara["Nahara"]
     Nath["Nath"]
+    Palmer["Palmer"]
     Payton_Hightower["Payton Hightower"]
+    Ross["Ross"]
     Sophie["Sophie"]
-    Uzog["Uzog"]
+    Quinn["Quinn"]
+    Uzog["Uzog (dead)"]
     Von["Von"]
     Watkins["Watkins"]
 
@@ -67,6 +70,7 @@ graph TD
     end
 
     subgraph Elven_Mafia["Elven Mafia"]
+        Quinn
         Von
     end
 
@@ -79,6 +83,10 @@ graph TD
         Corso
         Dima
         Eileen_Whitebeak
+    end
+
+    subgraph The_Feints["The Feints"]
+        Ross
     end
 
     subgraph The_Golds["The Golds"]
@@ -121,6 +129,9 @@ graph TD
     Sophie -- "Gave his family the path of righteousness" --> Cassius_Bellona
     Uzog -- "Connected" --> The_Golds
     Uzog -- "Associate" --> Von
+    Palmer -- "Bartender" --> The_Drunken_Pig
+    Quinn -- "Member" --> Elven_Mafia
+    Ross -- "Spy" --> The_Feints
     Von -- "Leader" --> Elven_Mafia
     Von -- "Fellow syndicate group" --> The_Golds
     Watkins -- "Business arrangement - facilitates their card games for a cut" --> The_Golds
@@ -146,9 +157,12 @@ graph TD
     class Kay_Dara dead
     class Nahara unknown
     class Nath alive
+    class Palmer alive
+    class Quinn alive
+    class Ross alive
     class Payton_Hightower alive
     class Sophie unknown
-    class Uzog alive
+    class Uzog dead
     class Von alive
     class Watkins alive
     class Netanyahu_D__Kirkuenly party
@@ -167,7 +181,8 @@ graph TD
 | [[Elven Mafia]] | [[Von]] (alive) | Active |
 | [[Knights of Drayik]] | [[Avo Red]] (unknown) | Active |
 | [[The Senin|Senin]] | [[August]] (alive), [[Corso]] (alive), [[Dima]] (deceased), [[Eileen Whitebeak]] (alive) | Active |
-| [[The Golds]] | [[Kay'Dara]] (deceased), [[Uzog]] (alive) | Active |
+| [[The Feints]] | [[Ross]] (alive) | Active |
+| [[The Golds]] | [[Kay'Dara]] (deceased), [[Uzog]] (deceased) | Active |
 
 ## Family Trees
 

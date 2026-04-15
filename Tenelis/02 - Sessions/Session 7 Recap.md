@@ -7,7 +7,6 @@ in_game_day: ""
 players_present: []
 ---
 
-
 # Session 7
 
 **Date:** 3/31/2026
@@ -28,7 +27,7 @@ The party followed leads from the [[Gambling Operations Manifest]] recovered fro
 2. Party crafted poisons before heading to the gambling night
 3. Party arrived at [[The Drunken Pig]] - the bar [[Watkins]] told them about for the card game
 4. Guards confiscated [[Netanyahu D. Kirkuenly|Net]]'s weapons upon entry
-5. [[Booker Locke|Booker]] used a disguise kit to pose as a [[The Golds|Golds]] guard, acting as [[Netanyahu D. Kirkuenly|Net]]'s bodyguard at the table. While in disguise, he asked around about who's coming to the gambling night - learned that [[Uzog]] will make an appearance later if the night goes on long enough
+5. [[Booker Locke|Booker]] used a [[Disguise Kit|disguise kit]] to pose as a [[The Golds|Golds]] guard, acting as [[Netanyahu D. Kirkuenly|Net]]'s bodyguard at the table. While in disguise, he asked around about who's coming to the gambling night - learned that [[Uzog]] will make an appearance later if the night goes on long enough
 6. [[Netanyahu D. Kirkuenly|Net]] won his first hand at the table - 900 gold (300 GP buyin)
 7. [[Netanyahu D. Kirkuenly|Net]] cleaned house - left with a total of 3,918 gold
 8. [[Netanyahu D. Kirkuenly|Net]] chatted up the guy next to him who was losing all his money. The man refused to share his name, said he'd meet [[Netanyahu D. Kirkuenly|Net]] at the arena. He works in shipping and owns some docks in [[Drayik]]
@@ -62,7 +61,7 @@ The party followed leads from the [[Gambling Operations Manifest]] recovered fro
 ### Party
 - [[Netanyahu D. Kirkuenly|Net]] dominated the card table, turning a 300 GP buyin into 3,918 gold
 - [[Netanyahu D. Kirkuenly|Net]] spent 1,000 gold to upgrade [[Booker Locke|Booker]]'s shortbow to +1 - investing in the party
-- [[Booker Locke|Booker]] used a disguise kit to pose as a [[The Golds|Golds]] guard, acting as [[Netanyahu D. Kirkuenly|Net]]'s bodyguard while gathering intel at [[The Drunken Pig]]
+- [[Booker Locke|Booker]] used a [[Disguise Kit|disguise kit]] to pose as a [[The Golds|Golds]] guard, acting as [[Netanyahu D. Kirkuenly|Net]]'s bodyguard while gathering intel at [[The Drunken Pig]]
 - [[Booker Locke|Booker]] spotted [[Von]] leaving [[Uzog]]'s compound in his carriage
 - [[Cassius Bellona|Cassius]] shared his backstory about the [[Knights of Drayik]] with the party
 - [[Old Shell]] shared war stories with the party

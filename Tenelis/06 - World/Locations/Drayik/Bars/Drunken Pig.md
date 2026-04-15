@@ -23,6 +23,7 @@ The entrance has armed guards who confiscate weapons before entry.
 
 | NPC | Role | Notes |
 |-----|------|-------|
+| [[Palmer]] | Bartender | Was present at [[Uzog]]'s arena the night the party killed [[Uzog]]. Let go by the party |
 | Unnamed Dock Owner | Gambler | Lost money at the card table. Works in shipping, owns docks in [[Drayik]]. Refused to give his name |
 
 ## Connections

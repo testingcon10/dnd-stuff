@@ -6,7 +6,7 @@ class: ""
 alignment: ""
 faction: "The Golds"
 location: "Drayik"
-status: alive
+status: dead
 attitude: neutral
 ---
 
@@ -48,6 +48,8 @@ attitude: neutral
 | Session | Summary |
 |---------|---------|
 | Session 7 | Party infiltrated his underground gladiator arena. Brushed off [[Von]]'s concerns about the party |
+| Session 8 | Party placed bets on his arena fight card |
+| Session 9 | Killed by the party. Arena ransacked. |
 
 ## Notes
 
