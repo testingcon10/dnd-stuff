@@ -55,5 +55,5 @@ attitude: neutral
 
 - Runs the docks and all shipping in [[Drayik]]
 - Handles human trafficking, drugs, and weapons
-- The gangs meet with [[The Senin]] regarding the catacombs - Von is connected to this network
+- The gangs meet with [[The Senin]] regarding [[Catacombs|the catacombs]] - Von is connected to this network
 - [[Elven Mafia]] operates out of a shipyard on the outskirts of [[Drayik]], near the shore

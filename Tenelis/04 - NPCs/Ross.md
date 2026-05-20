@@ -60,7 +60,7 @@ Spy for [[The Feints]], posing as a [[The Golds]] thug to fight in [[Uzog]]'s ar
 - Was positioned as the [[The Golds|Gold]] thug on fight card 1 - likely planted by [[The Feints]] to gather intel inside [[Uzog]]'s operation
 - Interested in [[The Feints]]' larger scale - described them as operating at a scope far more villainous than just gambling rings
 - Believes [[Corso]]'s plans, if successful, would be a glorious cause - sympathetic to regime change
-- Views the Senin militia as having "horse blinders" - rigid, point A to B, no nuance. Thinks things might be changing but it's been a long time
+- Views the [[The Senin|Senin militia]] as having "horse blinders" - rigid, point A to B, no nuance. Thinks things might be changing but it's been a long time
 - Responded positively when party described goals of ending corruption rather than simple gang warfare
 - Potential recruit - warming to the party's cause
 - Has never met the man who runs [[The Feints]] - the organization is deliberately compartmentalized

@@ -56,7 +56,7 @@ The party arrived at the arena, placed bets on the fight card, then killed [[Uzo
 
 ## Party Bets
 
-| Player | Card 1 (Gold vs Elven Mafia) | Card 2 (Feint vs Crawler) | Card 3 (Red vs Blue Warbeast) |
+| Player | Card 1 (Gold vs [[Elven Mafia]]) | Card 2 (Feint vs Crawler) | Card 3 (Red vs Blue Warbeast) |
 |--------|------------------------------|---------------------------|-------------------------------|
 | [[Old Shell]] | 5 GP on [[The Golds\|Gold]] | 10 GP on Crawler | 2 GP on Blue |
 | [[Netanyahu D. Kirkuenly\|Net]] | 30 GP on [[Elven Mafia]] | - | 30 GP on Red |
@@ -66,7 +66,7 @@ The party arrived at the arena, placed bets on the fight card, then killed [[Uzo
 | Item | Found Where | Claimed By |
 |------|-------------|------------|
 | Dagger | [[Uzog]]'s arena (ransacked) | [[Netanyahu D. Kirkuenly]] |
-| Greataxe | [[Uzog]]'s arena (ransacked) | [[Cassius Bellona]] |
+| [[Greataxe]] | [[Uzog]]'s arena (ransacked) | [[Cassius Bellona]] |
 
 ## NPCs Encountered
 

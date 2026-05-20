@@ -50,6 +50,6 @@ attitude: neutral
 - Under interrogation, revealed:
   - Arena attendees include nobles, mafia members, and church members
   - [[Von]] runs the docks and all shipping in [[Drayik]] - handles human trafficking, drugs, and weapons
-  - The gangs meet with [[The Senin]] regarding the catacombs - catacombs are central to the human trafficking pipeline
-  - [[The Feints]] supply a large influx of magical weapons into [[Drayik]]; some end up in the catacombs
+  - The gangs meet with [[The Senin]] regarding [[Catacombs|the catacombs]] - catacombs are central to the human trafficking pipeline
+  - [[The Feints]] supply a large influx of magical weapons into [[Drayik]]; some end up in [[Catacombs|the catacombs]]
   - The [[Elven Mafia]] operates out of a shipyard on the outskirts of [[Drayik]], near the shore
