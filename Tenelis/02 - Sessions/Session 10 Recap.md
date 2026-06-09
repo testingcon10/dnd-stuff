@@ -22,7 +22,7 @@ After ransacking [[Uzog]]'s arena, the party coerced orc guards into leading the
 
 [[Eileen Whitebeak]] confirmed intel on [[Gwen Locke|Gwen]]'s disappearance and handed [[Booker Locke|Booker]] documentary proof of her abduction trail. In exchange for the talisman, she lent the party her lieutenant [[August]] to assist with the mission. The week-long trek to [[Little Hill]] gave the party time to bond with [[August]] - [[Cassius Bellona|Cassius]] broke the ice by speaking his language, and [[August]] opened up about his difficult upbringing in the undercity and his changed views on [[Eileen Whitebeak|Eileen]]'s brother.
 
-Upon arriving at [[Little Hill]], the party found the town nearly abandoned. Speaking with the bartender and blacksmith, they learned that three girls had gone missing in sequence - [[Aggie]] (Dimitri's daughter), [[Katrina]], and [[Lana]] - each disappearance driving more residents to flee until the town fell into hysteria. [[Dimitri]] himself had grown erratic and disheveled before vanishing. The only lead: [[Masha]], an old woman living north of town, who was the last known person to see him.
+Upon arriving at [[Little Hill]], the party found the town nearly abandoned. Speaking with the bartender and blacksmith, they learned that three girls had gone missing in sequence - [[Aggie]] ([[Dimitri]]'s daughter), [[Katrina]], and [[Lana]] - each disappearance driving more residents to flee until the town fell into hysteria. [[Dimitri]] himself had grown erratic and disheveled before vanishing. The only lead: [[Masha]], an old woman living north of town, who was the last known person to see him.
 
 ## Key Events
 

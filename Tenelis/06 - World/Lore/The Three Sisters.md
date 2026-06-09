@@ -36,5 +36,10 @@ The Three Sisters died, and the church lived on.
 - Book covering the last 150 years of [[Drayik]] history mentions three women: [[Nahara]], [[Ayla]], and [[Sophie]]. A Knight of [[Drayik]] had been traveling with them. The sisters may not be related by blood
 - [[Sophie]] is the woman who gave the path of righteousness to [[Cassius Bellona|Cassius]]'s family (backstory - not common knowledge)
 
+### Session 11
+
+- [[Masha]] revealed that [[Sophie]] was the first to notice the kidnappings during a previous cycle of disappearances - by the time she did, 3 girls were already missing, possibly more
+- [[Masha]] had hoped [[The Three Sisters]] and [[The Senin]] would permanently stop the mountain threat - she no longer believes they succeeded
+
 
 ## Notes
