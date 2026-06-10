@@ -122,6 +122,14 @@ The party met with [[Eileen Whitebeak]], presented [[Uzog]]'s head as proof of t
 
 ## Illustrations
 
+![[assets/scenes/session-11-the-party-approaches-masha-s-house.png]]
+
+![[assets/scenes/session-11-masha-tells-the-history-of-the-demon-war.png]]
+
+![[assets/scenes/session-11-scarecrow-ambush-outside-masha-s-house.png]]
+
+![[assets/scenes/session-11-the-demon-war-of-two-centuries-past.png]]
+
 ## DM Notes
 
 %% Private notes - only visible in Edit mode %%
